@@ -1,8 +1,8 @@
 ---
-title: Portfolio | Stephen Ajulu — Multidisciplinary Tech Consultant
+title: Portfolio
 layout_style: mosaic
 seo:
-  title: Portfolio
+  title: Portfolio | Stephen Ajulu — Multidisciplinary Tech Consultant
   description: Discover a decade of innovation in tech, design, and engineering. Stephen Ajulu builds brands and systems that empower and endure.
   extra:
     - name: 'og:type'
