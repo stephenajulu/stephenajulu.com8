@@ -7,7 +7,7 @@ sections:
       **About Me:** Hello, I’m Stephen Ajulu, a multidisciplinary tech consultant based in Nairobi with over a decade of experience. I build impactful products, brands, and solutions at the intersection of technology, design, and engineering. My expertise spans web development, AI, blockchain, cybersecurity, cloud infrastructure, and emerging realities (AR, MR, XR). Beyond technical mastery, I focus on digital sovereignty, decentralization, and future-ready systems that empower businesses and individuals alike.
 
 
-      I don’t just deliver services—I craft bespoke solutions that harmonize innovation with sustainability, helping organizations thrive today while preparing them for tomorrow’s challenges.
+      I don’t just deliver services, I craft bespoke solutions that harmonize innovation with sustainability, helping organizations thrive today while preparing them for tomorrow’s challenges.
 
 
       **Mission:** To empower businesses and individuals by engineering transformative products, enduring brands, and thriving ventures. Through modular systems, authentic frameworks, and tech-driven consulting, I deliver clarity, trust, and sustainable progress, helping organizations solve today’s challenges while laying foundations for tomorrow’s growth.
@@ -16,7 +16,7 @@ sections:
       **Vision:** To shape a harmonious future where technology, nature, and human insight coexist seamlessly. By building infrastructures and artifacts that endure, inspire, and empower across generations, I aspire to elevate humanity toward a more conscious and progressive civilization.
 
 
-      **Personal Statement:** “The architect of clarity and progress—delivering practical solutions today while engineering legacies for tomorrow.”
+      **Personal Statement:** “The architect of clarity and progress, delivering practical solutions today while engineering legacies for tomorrow.”
     image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: cta_section
