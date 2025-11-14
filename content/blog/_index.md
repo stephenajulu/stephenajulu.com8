@@ -1,20 +1,19 @@
 ---
-title: Journal
-subtitle: 'News, tips and highlights'
+title: Blog
 hide_title: false
 col_number: three
 seo:
-  title: Journal
-  description: This is the journal page
+  title: Blog | Stephen Ajulu — Multidisciplinary Tech Consultant
+  description: Ideas that empower. Stephen Ajulu’s blog explores tech, design, and systems for enduring progress.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Journal
+      value: Blog | Stephen Ajulu — Multidisciplinary Tech Consultant
       keyName: property
     - name: 'og:description'
-      value: This is the journal page
+      value: Ideas that empower. Stephen Ajulu’s blog explores tech, design, and systems for enduring progress.
       keyName: property
     - name: 'og:image'
       value: images/post-1.jpg
@@ -23,9 +22,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Journal
+      value: Blog | Stephen Ajulu — Multidisciplinary Tech Consultant
     - name: 'twitter:description'
-      value: This is the journal page
+      value: Ideas that empower. Stephen Ajulu’s blog explores tech, design, and systems for enduring progress.
     - name: 'twitter:image'
       value: images/post-1.jpg
       relativeUrl: true
