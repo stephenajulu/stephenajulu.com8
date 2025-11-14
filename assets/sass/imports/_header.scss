@@ -1,5 +1,5 @@
 .site-header {
-  border-bottom: 1px solid $color-gray-100;
+  //border-bottom: 1px solid $color-gray-100;
   margin-bottom: 3.33333em;
   padding-bottom: 1em;
   padding-top: 1em;
@@ -23,7 +23,7 @@
 
   &__logo {
     img {
-      max-height: 2.5em;
+      max-height: 3.5em;
     }
   }
 
@@ -196,3 +196,4 @@
     }
   }
 }
+
