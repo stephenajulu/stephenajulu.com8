@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Stephen Ajulu is a seasoned multidiscipline tech consultant currently at Julz Insight — building products, brands, systems and solutions.
+      Stephen Ajulu is a seasoned multidisciplinary tech consultant currently at Julz Insight — building products, brands, systems and solutions.
     content:
   - type: portfolio_section
     section_id: latest-projects
@@ -53,7 +53,7 @@ sections:
     image_alt: Illustration
     bg_color: dark
 seo:
-  title: Stephen Ajulu — Multidiscipline Tech Expert
+  title: Stephen Ajulu — Multidisciplinary Tech Consultant
   description: >-
     Stephen is a seasoned tech expert, writer, and consultant with over a decade of experience in building impactful products, brands, and solutions using cutting-edge tech, aesthetic design, strategic insight, and modular engineering.
   extra:
@@ -61,7 +61,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stephen Ajulu — Multidiscipline Tech Expert
+      value: Stephen Ajulu — Multidisciplinary Tech Consultant
       keyName: property
     - name: 'og:description'
       value: >-
@@ -70,7 +70,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Stephen Ajulu — Multidiscipline Tech Expert
+      value: Stephen Ajulu — Multidisciplinary Tech Consultant
     - name: 'twitter:description'
       value: >-
         Stephen is a seasoned tech expert, writer, and consultant with over a decade of experience in building impactful products, brands, and solutions using cutting-edge tech, aesthetic design, strategic insight, and modular engineering.
