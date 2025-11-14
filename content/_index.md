@@ -51,7 +51,7 @@ sections:
 seo:
   title: Stephen Ajulu — Multidisciplinary Tech Consultant
   description: >-
-    Stephen is a seasoned tech expert, writer, and consultant with over a decade of experience in building impactful products, brands, and solutions using cutting-edge tech, aesthetic design, strategic insight, and modular engineering.
+    Stephen is a multidisciplinary tech consultant with over a decade of experience in building impactful products, brands, and solutions using cutting-edge tech, aesthetic design, strategic insight, and modular engineering.
   extra:
     - name: 'og:type'
       value: website
@@ -61,7 +61,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Stephen is a seasoned tech expert, writer, and consultant with over a decade of experience in building impactful products, brands, and solutions using cutting-edge tech, aesthetic design, strategic insight, and modular engineering.
+        Stephen is a multidisciplinary tech consultant with over a decade of experience in building impactful products, brands, and solutions using cutting-edge tech, aesthetic design, strategic insight, and modular engineering.
       keyName: property
     - name: 'twitter:card'
       value: summary
@@ -69,6 +69,6 @@ seo:
       value: Stephen Ajulu — Multidisciplinary Tech Consultant
     - name: 'twitter:description'
       value: >-
-        Stephen is a seasoned tech expert, writer, and consultant with over a decade of experience in building impactful products, brands, and solutions using cutting-edge tech, aesthetic design, strategic insight, and modular engineering.
+        Stephen is a multidisciplinary tech consultant with over a decade of experience in building impactful products, brands, and solutions using cutting-edge tech, aesthetic design, strategic insight, and modular engineering.
 layout: advanced
 ---
