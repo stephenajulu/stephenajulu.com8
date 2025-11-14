@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      I’m Stephen Ajulu, a multidisciplinary tech consultant based in Nairobi with over a decade of experience. Through my work at <a href="https://julzinsight.co">JULZ INSIGHT</a>, I architect and engineer impactful products, brands, systems and solutions at the intersection of technology, design, and engineering. My expertise spans AI, blockchain, cybersecurity, cloud infrastructure, and emerging trends, but my focus is always on clarity, trust, and sustainable progress.
+      I’m Stephen Ajulu, a multidisciplinary tech consultant based in Nairobi with over a decade of experience. Through my work at <a href="https://julzinsight.co">JULZ INSIGHT</a>, I architect, design and engineer impactful products, brands, systems and solutions at the intersection of technology, design, and engineering. My expertise spans AI, blockchain, cybersecurity, cloud infrastructure, devops, open-source, software, web and emerging trends, but my focus is always on clarity, trust, and sustainable progress.
 
 
       In the short term, I help businesses modernize systems, and unlock growth through bespoke tech consulting and managed open source business software solutions and infrastructure. In the long term, I engineer modular frameworks and future‑ready ventures that harmonize technology, nature, and human insight, creating artifacts that endure, empower, and inspire across generations.
