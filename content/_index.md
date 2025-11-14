@@ -7,7 +7,7 @@ sections:
     title: >-
       Hello, I'm Stephen Ajulu, a multidisciplinary tech consultant.
     content: >-
-      Builder of products, brands, systems and solutions.
+      Architect, designer and engineer of impactful products, brands, systems and solutions.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
