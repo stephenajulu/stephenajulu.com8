@@ -1,12 +1,15 @@
-title: Stackbit Agency Theme
-baseURL: /
-taxonomies:
-  stub: stub
-disableKinds:
-  - RSS
-  - taxonomy
-  - taxonomyTerm
+title: Stephen Ajulu
+baseURL: https://stephenajulu.com
 markup:
   goldmark:
     renderer:
       unsafe: true
+enableRobotsTXT: true
+sitemap:
+  changefreq: weekly
+  filename: sitemap.xml
+  priority: 0.5
+author:
+  name: Stephen Ajulu
+languageCode: en-us
+watch: true
