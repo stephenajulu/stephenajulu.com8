@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Hello, I'm Stephen Ajulu, a seasoned multidisciplinary tech consultant — builder of impactful products, brands, systems and solutions.
+      Hello, I'm Stephen Ajulu, a multidisciplinary tech consultant — builder of products, brands, systems and solutions.
     content:
   - type: portfolio_section
     section_id: latest-projects
