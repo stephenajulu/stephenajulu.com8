@@ -36,6 +36,10 @@ sections:
           - Managed Open Source Business Software
           - Cloud Computing
           - System Administration
+  - type: posts_section
+    section_id: posts
+    col_number: two
+    posts_number: 2
   - type: cta_section
     section_id: cta
     title: Let’s Connect
