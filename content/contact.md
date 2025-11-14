@@ -5,38 +5,7 @@ sections:
   - type: form_section
     section_id: contact-form
     content: >-
-      Let’s build something great together.<br>
-
-      Complete our contact form or send us an email at
-      [email@example.com](mailto:email@example.com).
-
-
-      ***
-
-
-      ## Our Offices
-
-
-      ### San Francisco
-
-      1234 Some St.<br>
-
-      San Francisco, CA 12345<br>
-
-      1-234-556-7890<br>
-
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
-
-
-      ### New York
-
-      1234 Some St.<br>
-
-      New York, NY 12345<br>
-
-      1-234-556-7890<br>
-
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      Let’s build something great together.<br>If you have a question please leave a message, I’m always happy to hear from interesting people doing interesting things.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -50,14 +19,6 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
-      - input_type: select
-        name: subject
-        label: What services are you looking for?
-        default_value: Please select
-        options:
-          - Branding
-          - Design
-          - Digital
       - input_type: textarea
         name: message
         label: Message
@@ -69,23 +30,23 @@ sections:
           can be contacted.
     submit_label: Send Message
 seo:
-  title: Contact
-  description: This is the contact page
+  title: Ask me anything | Stephen Ajulu
+  description: Ask me a question about open source business software, tech, design, cybersecurity, cloud, on-prem cloud, web dev or pretty much anything you think I might be able to help with.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Ask me anything | Stephen Ajulu
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: Ask me a question about open source business software, tech, design, cybersecurity, cloud, on-prem cloud, web dev or pretty much anything you think I might be able to help with.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Ask me anything | Stephen Ajulu
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Ask me a question about open source business software, tech, design, cybersecurity, cloud, on-prem cloud, web dev or pretty much anything you think I might be able to help with.
 layout: advanced
 ---
