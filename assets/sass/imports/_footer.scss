@@ -1,11 +1,11 @@
 .site-footer {
-  border-top: 1px solid $color-gray-100;
+  //border-top: 1px solid $color-gray-100;
   padding-bottom: 1.33333em;
   padding-top: 2.5em;
 
   a {
     &:not(.button) {
-      border-bottom: 1px solid rgba($color-gray-600, .4);
+      //border-bottom: 1px solid rgba($color-gray-600, .4);
       -webkit-transition: opacity .3s;
       transition: opacity .3s;
 
@@ -73,3 +73,4 @@
     }
   }
 }
+
