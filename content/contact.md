@@ -50,5 +50,4 @@ seo:
       value: Ask me a question about open source business software, tech, design, cybersecurity, cloud, on-prem cloud, web dev or pretty much anything you think I might be able to help with.
 layout: advanced
 ---
-# Book a call
 {{< consult >}}
