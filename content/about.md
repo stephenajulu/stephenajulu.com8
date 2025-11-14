@@ -1,95 +1,21 @@
 ---
-title: Our Story
+title: My Story
 hide_title: false
 sections:
   - type: content_section
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
+      **About Me:** Hello there! I’m Stephen Ajulu, a seasoned multidiscplinary tech consultant with over a decade of experience. I'm based in Nairobi, Kenya. I build impactful products, brands, and solutions at the intersection of Technology, Design, Insight and Engineering. Passionate about various domains, I delve into Web, Design, AI, Blockchain, Cybersecurity, Software, Systems, Decentralization, Augmented Reality, Mixed Reality, Extended Reality, Data, DevOps, Open Source, Cloud Infrastructure, Digital Independence, Digital Soverignty, Futuristic Tech and more. Beyond expertise, I also offer bespoke services and solutions in these very realms.
 
 
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+      **Mission:** I engineer transformative products, enduring brands, and thriving ventures that drive innovation with sustainable impact. In the short term, I help businesses clarify strategy, modernize systems, and unlock growth through practical, tech-driven consulting. In the long term, I design modular infrastructures and authentic frameworks that harmonize technology, nature, and human insight—creating artifacts that endure, empower, and inspire across generations.
+
+
+      **Vision:** To shape a harmonious future where technology, nature, and human insight coexist seamlessly. By building infrastructures and artifacts that endure, inspire, and empower across generations, I aspire to elevate humanity toward a more conscious and progressive civilization.
+
+
+      **Personal Statement:** “The architect of clarity and progress—delivering practical solutions today while engineering legacies for tomorrow.”
     image: images/about.jpg
     image_alt: Our team in the meeting room
-  - type: grid_section
-    section_id: team
-    title: The Team
-    subtitle: An optional subtitle of the section
-    col_number: three
-    grid_items:
-      - title: Gustav Purpleson
-        image: images/team-1.png
-        subtitle: 'Co-Founder, Creative Director'
-        content: >-
-          Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
-          euismod nisi porta lorem mollis.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-      - title: Hilary Ouse
-        image: images/team-2.png
-        subtitle: 'Co-Founder, Creative Director'
-        content: >-
-          Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
-          aliquet nec ullamcorper sit.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-      - title: Gordon Norman
-        image: images/team-3.png
-        subtitle: Creative Producer
-        content: >-
-          Interdum velit euismod in pellentesque massa placerat duis ultricies
-          lacus.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-          - label: Instagram
-            url: 'https://www.instagram.com/'
-            style: icon
-            icon: instagram
-            new_window: true
-      - title: Parsley Montana
-        image: images/team-4.png
-        subtitle: 'Senior Designer, Motion Graphics'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-          - label: Instagram
-            url: 'https://www.instagram.com/'
-            style: icon
-            icon: instagram
-            new_window: true
-      - title: Brandon Guidelines
-        image: images/team-5.png
-        subtitle: Graphic Designer
-        content: >-
-          Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa
-          eget.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
   - type: cta_section
     section_id: cta
     title: Become a Team Player
