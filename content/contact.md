@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Ask me anything
 hide_title: false
 sections:
   - type: form_section
@@ -30,14 +30,14 @@ sections:
           can be contacted.
     submit_label: Send Message
 seo:
-  title: Ask me anything | Stephen Ajulu
+  title: Ask me anything | Stephen Ajulu — Multidisciplinary Tech Consultant
   description: Ask me a question about open source business software, tech, design, cybersecurity, cloud, on-prem cloud, web dev or pretty much anything you think I might be able to help with.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Ask me anything | Stephen Ajulu
+      value: Ask me anything | Stephen Ajulu — Multidisciplinary Tech Consultant
       keyName: property
     - name: 'og:description'
       value: Ask me a question about open source business software, tech, design, cybersecurity, cloud, on-prem cloud, web dev or pretty much anything you think I might be able to help with.
@@ -45,7 +45,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Ask me anything | Stephen Ajulu
+      value: Ask me anything | Stephen Ajulu — Multidisciplinary Tech Consultant
     - name: 'twitter:description'
       value: Ask me a question about open source business software, tech, design, cybersecurity, cloud, on-prem cloud, web dev or pretty much anything you think I might be able to help with.
 layout: advanced
