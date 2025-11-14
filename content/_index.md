@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Hello, I'm Stephen Ajulu, a multidisciplinary tech consultant, designer, and designer.
+      Hello, I'm Stephen Ajulu, a multidisciplinary tech consultant, designer, and engineer
     content: >-
       Builder of products, brands, systems and solutions.
   - type: portfolio_section
