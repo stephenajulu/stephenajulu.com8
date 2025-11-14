@@ -4,7 +4,10 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      **About Me:** Hello there! I’m Stephen Ajulu, a seasoned multidiscplinary tech consultant with over a decade of experience. I'm based in Nairobi, Kenya. I build impactful products, brands, and solutions at the intersection of Technology, Design, Insight and Engineering. Passionate about various domains, I delve into Web, Design, AI, Blockchain, Cybersecurity, Software, Systems, Decentralization, Augmented Reality, Mixed Reality, Extended Reality, Data, DevOps, Open Source, Cloud Infrastructure, Digital Independence, Digital Soverignty, Futuristic Tech and more. Beyond expertise, I also offer bespoke services and solutions in these very realms.
+      **About Me:** Hello, I’m Stephen Ajulu, a multidisciplinary tech consultant based in Nairobi with over a decade of experience. I build impactful products, brands, and solutions at the intersection of technology, design, and engineering. My expertise spans web development, AI, blockchain, cybersecurity, cloud infrastructure, and emerging realities (AR, MR, XR). Beyond technical mastery, I focus on digital sovereignty, decentralization, and future-ready systems that empower businesses and individuals alike.
+
+
+      I don’t just deliver services—I craft bespoke solutions that harmonize innovation with sustainability, helping organizations thrive today while preparing them for tomorrow’s challenges.
 
 
       **Mission:** To empower businesses and individuals by engineering transformative products, enduring brands, and thriving ventures. Through modular systems, authentic frameworks, and tech-driven consulting, I deliver clarity, trust, and sustainable progress, helping organizations solve today’s challenges while laying foundations for tomorrow’s growth.
@@ -29,7 +32,7 @@ sections:
     bg_color: light
 seo:
   title: About Us
-  description: This is the about us page
+  description: Stephen Ajulu is a multidisciplinary tech consultant in Nairobi, building impactful products, brands, and solutions that fuse innovation, design, and sustainability.
   extra:
     - name: 'og:type'
       value: website
@@ -38,7 +41,7 @@ seo:
       value: About Us
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: Stephen Ajulu is a multidisciplinary tech consultant in Nairobi, building impactful products, brands, and solutions that fuse innovation, design, and sustainability.
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
@@ -49,7 +52,7 @@ seo:
     - name: 'twitter:title'
       value: About Us
     - name: 'twitter:description'
-      value: This is the about us page
+      value: Stephen Ajulu is a multidisciplinary tech consultant in Nairobi, building impactful products, brands, and solutions that fuse innovation, design, and sustainability.
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
