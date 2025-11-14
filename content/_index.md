@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Stephen Ajulu is a seasoned tech consultant currently building at Julz Insight—working on products, brands, systems and solutions across multiple industries
+      Stephen Ajulu is a seasoned multidiscipline tech consultant currently at Julz Insight — building products, brands, systems and solutions.
     content:
   - type: portfolio_section
     section_id: latest-projects
