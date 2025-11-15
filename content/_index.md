@@ -14,22 +14,22 @@ sections:
     view_all_url: portfolio
   - type: grid_section
     section_id: services
-    title: Services
+    title:
     col_number: three
     grid_items:
-      - title: Design
+      - title: Design Services
         image: images/service-1.svg
         content: |-
           - Brand Identity & Logo Design
           - Product Design
           - Marketing and Advertising Design
-      - title: Develop
+      - title: Develop Services
         image: images/service-2.svg
         content: |-
           - Web Development
           - Software Development
           - SME Digitization
-      - title: Deploy
+      - title: Deploy Services
         image: images/service-3.svg
         content: |-
           - Managed Open Source Business Software
