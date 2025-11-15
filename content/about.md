@@ -34,7 +34,7 @@ sections:
       - label: Contact me →
         url: /contact
         style: button
-    image: images/cta.svg
+    image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
 seo:
