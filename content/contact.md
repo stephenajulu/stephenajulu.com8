@@ -14,12 +14,12 @@ sections:
       Phone: +254-(0)-740-128-010<br>
       Postal Address: P. O. Box 254740128010 - 00100, Nairobi, Kenya<br><br>
       **Social Media**: Follow me on:<br>
-      - Twitter: [@julzinsight](https://x.com/julzinsight)<br>
-      - LinkedIn: [Julz Insight](https://www.linkedin.com/julzinsight)<br>
-      - Instagram: [Julz Insight](https://www.instagram.com/julzinsight)<br><br>
+      - Twitter: [@stephenajulu](https://x.com/stephenajulu)<br>
+      - LinkedIn: [Stephen Ajulu](https://www.linkedin.com/in/stephenajulu)<br>
+      - Instagram: [@stephenajulu](https://www.instagram.com/stephenajulu)<br><br>
    
       **Working hours:**<br> 
-      9am to 8pm
+      9am to 8pm<br>
       Mon - Sat
     form_id: contactForm
     form_action: /thank-you
