@@ -25,6 +25,18 @@ sections:
         content: 76+
       - title: Client Satisfaction
         content: 97%
+  - type: cta_section
+    section_id: cta
+    title: Let’s Connect
+    content: >-
+      If you're looking for a partner to help you explore new ideas, refine your brand, digitize your SME or simply need someone to bounce ideas off of, I'm here to listen and collaborate.
+    actions:
+      - label: Contact me →
+        url: /contact
+        style: button
+    image: images/cta.svg
+    image_alt: Illustration
+    bg_color: light
 seo:
   title: My Story | Stephen Ajulu — Multidisciplinary Tech Consultant
   description: Stephen Ajulu is a multidisciplinary tech consultant in Nairobi, building impactful products, brands, and solutions that fuse innovation, design, and sustainability.
