@@ -14,6 +14,17 @@ sections:
 
     image: images/about.jpg
     image_alt: Myself
+  - type: grid_section
+    section_id: metrics
+    title: Key Performance Metrics
+    col_number: three
+    grid_items:
+      - title: Years Experience
+        content: 10+
+      - title: Projects Completed
+        content: 76+
+      - title: System Uptime
+        content: 96%
 seo:
   title: My Story | Stephen Ajulu — Multidisciplinary Tech Consultant
   description: Stephen Ajulu is a multidisciplinary tech consultant in Nairobi, building impactful products, brands, and solutions that fuse innovation, design, and sustainability.
