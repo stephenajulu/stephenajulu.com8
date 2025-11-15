@@ -6,6 +6,21 @@ sections:
     section_id: contact-form
     content: >-
       Let’s build something great together.<br>If you have a question please leave a message, I’m always happy to hear from interesting people doing interesting things.
+    
+      ***
+    
+      General Inquires: [hello@stephenajulu.com](mailto:hello@stephenajulu.com)<br>
+      Secondary Email (CC): [alunje73@gmail.com](mailto:alunje73@gmail.com)<br>
+      Phone: +254-(0)-740-128-010<br>
+      Postal Address: P. O. Box 254740128010 - 00100, Nairobi, Kenya<br><br>
+      **Social Media**: Follow me on:<br>
+      - Twitter: [@julzinsight](https://x.com/julzinsight)<br>
+      - LinkedIn: [Julz Insight](https://www.linkedin.com/julzinsight)<br>
+      - Instagram: [Julz Insight](https://www.instagram.com/julzinsight)<br><br>
+   
+      **Working hours:**<br> 
+      9am to 8pm
+      Mon - Sat
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -50,4 +65,5 @@ seo:
       value: Ask me a question about open source business software, tech, design, cybersecurity, cloud, on-prem cloud, web dev or pretty much anything you think I might be able to help with.
 layout: advanced
 ---
+
 {{< consult >}}
