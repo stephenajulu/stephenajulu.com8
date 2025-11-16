@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Stephen Ajulu — <span style="font-style:italic;">Multidisciplinary Tech Consultant, Architect and Engineer</span>
+      Stephen Ajulu — Multidisciplinary Tech Consultant, Architect and Engineer
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
