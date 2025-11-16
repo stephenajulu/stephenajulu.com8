@@ -30,7 +30,7 @@
                 "style": "link"
             },
             {
-                "label": "Ask →",
+                "label": "Consult →",
                 "url": "/contact/",
                 "style": "button"
             }
@@ -66,6 +66,13 @@
                 "url": "https://www.linkedin.com/stephenajulu",
                 "style": "icon",
                 "icon": "linkedin",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://www.github.com/stephenajulu",
+                "style": "icon",
+                "icon": "github",
                 "new_window": true
             }
         ]
