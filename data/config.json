@@ -55,13 +55,6 @@
                 "new_window": true
             },
             {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/stephenajulu",
-                "style": "icon",
-                "icon": "dribbble",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/stephenajulu",
                 "style": "icon",
