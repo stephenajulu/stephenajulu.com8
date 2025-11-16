@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Stephen Ajulu is a Multidisciplinary Tech Consultant—Architect and Engineer
+      Stephen Ajulu — a Multidisciplinary Tech Consultant, Architect and Engineer
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
