@@ -4,14 +4,10 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      I’m Stephen Ajulu, a multidisciplinary tech consultant based in Nairobi with over a decade of experience. Through my work at <a href="https://julzinsight.co">**JULZ**</a>, I architect, design and engineer impactful products, brands, systems and solutions at the intersection of technology, design, and engineering. My expertise spans AI, blockchain, cybersecurity, cloud infrastructure, devops, open-source, software, web and emerging trends, but my focus is always on clarity, trust, and sustainable progress.
+      Hello, I’m Stephen Ajulu, a multidisciplinary tech consultant, designer and architect based in Nairobi with over a decade of hands-on experience in Tech and Business. At <a href="https://julzinsight.co">**Julz Insight**</a>, I partner with enterprises to modernize systems, catalyze growth, and engineer sustainable infrastructures. My expertise spans AI, blockchain, cybersecurity, cloud, digitalization and emerging trends - delivering clarity, trust, and sustainable progress through solutions designed to empower organizations and unlock future‑ready growth.
 
 
-      In the short term, I help businesses modernize systems, and unlock growth through bespoke tech consulting and managed open source business software solutions and infrastructure. In the long term, I engineer modular frameworks and future‑ready ventures that harmonize technology, nature, and human insight, creating artifacts that endure, empower, and inspire across generations.
-
-
-      ***Personal Statement:*** “The architect of clarity and progress, delivering practical solutions today while engineering legacies for tomorrow.”
-
+      Beyond consulting, I lead JULZ—a collective for visionaries, brands, and individuals who believe in the power of sustainable technology to transform society. At JULZ, I architect and engineer enduring solutions and future‑ready ventures with like‑minded allies—catalyzing innovation, shaping symbolic brands, and building infrastructures that empower progress. Whether you’re a founder seeking legacy, a brand drawn to our ethos, or an individual inspired by sustainable solutions, JULZ is where ideas evolve into artifacts that endure, empower, and inspire. My overarching desire is to architect, engineer, and build impactful, sustainable solutions and future-ready ventures with like‑minded visionaries—catalyzing businesses, innovation, technology, and daily life through sustainable progress and thereby creating artifacts that endure, empower, and inspire across generations.
     image: images/about.jpg
     image_alt: Myself
   - type: grid_section
