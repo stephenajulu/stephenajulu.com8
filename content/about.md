@@ -27,19 +27,19 @@ sections:
     col_number: three
     grid_items:
       - title:
-        image: images/service-1.svg
+        image:
         content: |-
           - Brand Identity & Logo Design
           - Product Design
           - Marketing and Advertising Design
       - title:
-        image: images/service-2.svg
+        image:
         content: |-
           - Web Development
           - Software Development
           - SME Digitization
       - title:
-        image: images/service-3.svg
+        image:
         content: |-
           - Managed Open Source Business Software
           - Cloud Computing
