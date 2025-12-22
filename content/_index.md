@@ -12,41 +12,6 @@ sections:
     projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
-  - type: grid_section
-    section_id: services
-    title:
-    col_number: three
-    grid_items:
-      - title: Design Services
-        image: images/service-1.svg
-        content: |-
-          - Brand Identity & Logo Design
-          - Product Design
-          - Marketing and Advertising Design
-      - title: Develop Services
-        image: images/service-2.svg
-        content: |-
-          - Web Development
-          - Software Development
-          - SME Digitization
-      - title: Deploy Services
-        image: images/service-3.svg
-        content: |-
-          - Managed Open Source Business Software
-          - Cloud Computing
-          - System Administration
-  - type: cta_section
-    section_id: cta
-    title: Let’s Connect
-    content: >-
-      If you're looking for a partner to help you explore new ideas, refine your brand, digitize your SME or simply need someone to bounce ideas off of, I'm here to listen and collaborate.
-    actions:
-      - label: Contact me →
-        url: /contact
-        style: button
-    image: images/cta.svg
-    image_alt: Illustration
-    bg_color: dark
 seo:
   title: Stephen Ajulu — Multidisciplinary Tech Consultant
   description: >-
