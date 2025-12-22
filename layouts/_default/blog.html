@@ -17,9 +17,9 @@
       {{ $posts_sorted := ((.Site.GetPage "section" "/blog").Pages).ByDate.Reverse }}
       {{ range $post := $posts_sorted }}
       <article class="cell post-card">
-        {{ if $post.Params.thumb_image }}
+        {{ if $post.Params.image }}
         <a class="post-card__image" href="{{ $post.URL }}">
-          <img src="{{ $post.Params.thumb_image | relURL }}" alt="{{ $post.Params.thumb_image_alt }}" />
+          <img src="{{ $post.Params.image | relURL }}" alt="{{ $post.Params.image_alt }}" />
         </a>
         {{ end }}
         <header class="post-card__header">
