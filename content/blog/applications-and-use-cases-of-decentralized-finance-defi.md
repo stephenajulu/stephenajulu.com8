@@ -1,0 +1,61 @@
+---
+title: Applications and Use Cases of Decentralized Finance(DeFi)
+subtitle: Last time, i defined decentralized finance. Today we look at it's use cases
+  and applications.
+excerpt: Last time, i defined decentralized finance. Today we look at it's use cases
+  and applications.
+date: 2021-11-28 18:53:00+03:00
+image: images/n0hcw35at9m4acjgaqkw_what-is-defi-decentralized-finance-guide.jpe
+image_alt: Last time, i defined decentralized finance. Today we look at it's use cases
+  and applications.
+seo:
+  title: Applications and Use Cases of Decentralized Finance(DeFi)
+  description: Last time, i defined decentralized finance. Today we look at it's use
+    cases and applications.
+  extra:
+  - name: og:type
+    value: article
+    keyName: property
+  - name: og:title
+    value: Applications and Use Cases of Decentralized Finance(DeFi)
+    keyName: property
+  - name: og:description
+    value: Last time, i defined decentralized finance. Today we look at it's use cases
+      and applications.
+    keyName: property
+  - name: og:image
+    value: images/n0hcw35at9m4acjgaqkw_what-is-defi-decentralized-finance-guide.jpe
+    keyName: property
+    relativeUrl: true
+  - name: twitter:card
+    value: summary_large_image
+  - name: twitter:title
+    value: Applications and Use Cases of Decentralized Finance(DeFi)
+  - name: twitter:description
+    value: Last time, i defined decentralized finance. Today we look at it's use cases
+      and applications.
+  - name: twitter:image
+    value: images/n0hcw35at9m4acjgaqkw_what-is-defi-decentralized-finance-guide.jpe
+    relativeUrl: true
+layout: post
+---
+
+Refresher:
+
+DeFi is short for “decentralized finance,” an umbrella term for a variety of financial applications in cryptocurrency or blockchain geared toward disrupting financial intermediaries.
+
+DeFi draws inspiration from [blockchain](https://www.coindesk.com/learn/what-is-blockchain-technology/), the technology behind the digital currency bitcoin, which allows several entities to hold a copy of a history of transactions, meaning it isn’t controlled by a single, central source.
+
+## Applications and Use Cases of DeFi
+
+* **Decentralized exchanges (DEXs)**: Online exchanges help users exchange currencies for other currencies, whether U.S. dollars for bitcoin or ether for DAI. DEXs are a hot type of exchange, which connects users directly so they can trade cryptocurrencies with one another without trusting an intermediary with their money.
+* **Stablecoins**: A cryptocurrency that's tied to an asset outside of cryptocurrency (the dollar or euro, for example) to stabilize the price.
+* **Lending platforms**: These platforms use smart contracts to replace intermediaries such as banks that manage lending in the middle.
+* **"Wrapped" bitcoins (WBTC)**: A way of sending bitcoin to the Ethereum network so the bitcoin can be used directly in Ethereum's DeFi system. WBTCs allow users to earn interest on the bitcoin they lend out via the decentralized lending platforms described above.
+* **Prediction markets**: Markets for betting on the outcome of future events, such as elections. The goal of DeFi versions of prediction markets is to offer the same functionality but without intermediaries.
+
+There are more applications that I'll talk about in part 3 of DeFi.
+
+For now:
+
+Have a nice day!

@@ -1,0 +1,18 @@
+<div class="container" align="center">
+{{ range (.GetTerms "tags") }}
+  <h6 class="section narrow" style="border: 1px solid #6320D6; width: auto; display: inline-block; text-align: center; margin: auto; padding: 0 5px 0; color: #6320D6; text-color: #6320D6; border-radius: 25px; margin-bottom: 10px;">
+    <a href="{{ .Permalink }}">{{ .Title | urlize }}</a>
+  </h6>&nbsp;
+{{ end }}
+</div>
+<br>
+
+<!--{{ $taxonomy := "tags" }} {{ with .Param $taxonomy }}
+<ul>
+  {{ range $index, $tag := . }} {{ with $.Site.GetPage (printf "/%s/%s" $taxonomy $tag) -}}
+  <li>
+    <a href="{{ .Permalink }}">{{ $tag | urlize }}</a>
+  </li>
+  {{- end -}} {{- end -}}
+</ul>
+{{ end }}-->
