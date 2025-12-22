@@ -21,6 +21,29 @@ sections:
         content: 76+
       - title: Client Satisfaction
         content: 97%
+  - type: grid_section
+    section_id: services
+    title: Services
+    col_number: three
+    grid_items:
+      - title:
+        image: images/service-1.svg
+        content: |-
+          - Brand Identity & Logo Design
+          - Product Design
+          - Marketing and Advertising Design
+      - title:
+        image: images/service-2.svg
+        content: |-
+          - Web Development
+          - Software Development
+          - SME Digitization
+      - title:
+        image: images/service-3.svg
+        content: |-
+          - Managed Open Source Business Software
+          - Cloud Computing
+          - System Administration
   - type: cta_section
     section_id: cta
     title: Let’s Connect
