@@ -10,7 +10,7 @@
  
 {{ if gt $paginator.TotalPages 1 }}
 <nav aria-label="Page navigation" class="w-100">
-  <ul class="pagination justify-content-center pagination-lg" style="display: inline-block; align-items: center;">
+  <ul class="pagination justify-content-center pagination-lg" style="display: inline-block; align-items: center; list-style: none;">
     <!-- First page. -->
     {{ if ne $paginator.PageNumber 1 }}
       <li class="page-item">
