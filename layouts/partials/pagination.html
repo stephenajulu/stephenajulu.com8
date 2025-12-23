@@ -1,18 +1,16 @@
 <style>
  nav {
   align: center;
+  justify-content: center;
  }
  .pagination {
   list-style: none;
   align: center;
-  justify-content: center;
 }
 
 .page-item {
   display: inline-block;
-  margin-right: 20px; /* add spacing between items */
-  background: #000000;
-  color: #ffffff;
+  margin: 20px; /* add spacing between items */
   padding: 10px;
 }
 </style>
@@ -29,7 +27,7 @@
  
 {{ if gt $paginator.TotalPages 1 }}
 <nav aria-label="Page navigation" class="w-100">
-  <ul class="pagination justify-content-center pagination-lg">
+  <ul class="pagination pagination-lg">
     <!-- First page. -->
     {{ if ne $paginator.PageNumber 1 }}
       <li class="page-item">
