@@ -11,9 +11,9 @@ li {
 
 {{ $paginator := $.Paginator }}
 <!-- Number of links either side of the current page. -->
-{{ $adjacent_links := 4 }}
+{{ $adjacent_links := 2 }}
 <!-- $max_links = ($adjacent_links * 2) + 1 -->
-{{ $max_links := (add (mul $adjacent_links 4) 1) }}
+{{ $max_links := (add (mul $adjacent_links 2) 1) }}
 <!-- $lower_limit = $adjacent_links + 1 -->
 {{ $lower_limit := (add $adjacent_links 1) }}
 <!-- $upper_limit = $paginator.TotalPages - $adjacent_links -->
