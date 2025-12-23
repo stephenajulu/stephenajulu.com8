@@ -14,7 +14,7 @@
 <div class="section section--portfolio">
   <div class="container container--lg">
     <div class="grid post-feed post-feed--col-{{ $col_number }}">
-      {{ $posts_sorted := ((.Site.GetPage "section" "/blog")Paginator.Pages).ByDate.Reverse }}
+      {{ $posts_sorted := ((.Site.GetPage "section" "/blog").Paginator.Pages).ByDate.Reverse }}
       {{ range $post := $posts_sorted }}
       <article class="cell post-card">
         {{ if $post.Params.image }}
