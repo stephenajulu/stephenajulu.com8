@@ -34,9 +34,6 @@ seo:
 layout: post
 ---
 
-According to this tweet:
-
-{{< twitter user="RufasKe" id="1523223514815238144" >}}
 
 We should all remove our coins, tokens, and crypto from exchanges and into secure wallets where only the user has the private key and can access the wallet.
 
