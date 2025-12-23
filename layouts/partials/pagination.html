@@ -1,3 +1,14 @@
+<style>
+ ul {
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+  margin-right: 10px; /* add spacing between items */
+}
+</style>
+
 {{ $paginator := $.Paginator }}
 <!-- Number of links either side of the current page. -->
 {{ $adjacent_links := 2 }}
@@ -10,7 +21,7 @@
  
 {{ if gt $paginator.TotalPages 1 }}
 <nav aria-label="Page navigation" class="w-100">
-  <ul class="pagination justify-content-center pagination-lg" style="display: inline-block; align-items: center; list-style: none;">
+  <ul class="pagination justify-content-center pagination-lg">
     <!-- First page. -->
     {{ if ne $paginator.PageNumber 1 }}
       <li class="page-item">
