@@ -1,0 +1,37 @@
+{{ define "content" }}
+
+<header class="section section--header">
+  <div class="container container--lg">
+    <h1 class="section__title line-top">{{ .Title }}</h1>
+    {{ if .Params.subtitle }}
+    <p class="section__subtitle">{{ .Params.subtitle }}</p>
+    {{ end }}
+  </div>
+</header>
+
+<div class="section">
+  <div class="container container--lg">
+    <div class="grid post-feed post-feed--col-three">
+      {{ range .Paginator.Pages }}
+      <article class="cell post-card">
+        {{ if .Params.image }}
+        <a class="post-card__image" href="{{ .RelPermalink }}">
+          <img src="{{ .Params.image | relURL }}" alt="{{ .Params.image_alt }}" />
+        </a>
+        {{ end }}
+        <header class="post-card__header">
+          <h2 class="post-card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        </header>
+        {{ if .Params.subtitle }}
+        <p class="post-card__body">
+          {{ .Params.subtitle }}
+        </p>
+        {{ end }}
+      </article>
+      {{ end }}
+    </div>
+    {{ partial "pagination.html" . }}
+  </div>
+</div>
+
+{{ end }}

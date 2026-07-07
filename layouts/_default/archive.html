@@ -1,0 +1,70 @@
+{{ define "content" }}
+
+<article class="post">
+  <header class="post__header">
+    <div class="container container--md">
+      <h1 class="post__title line-top">{{ .Title }}</h1>
+      {{ if .Params.subtitle }}
+      <div class="post__subtitle">
+        {{ $.Params.subtitle }}
+      </div>
+      {{ end }}
+    </div>
+  </header>
+
+  <div class="post__body text-block">
+    <div class="container container--md">
+      
+      <!-- Stats Grid -->
+      {{ $blogPages := (where .Site.RegularPages "Section" "blog") }}
+      {{ $portfolioPages := (where .Site.RegularPages "Section" "portfolio") }}
+      {{ $wordCount := 0 }}
+      {{ range $blogPages }}
+        {{ $wordCount = add $wordCount .WordCount }}
+      {{ end }}
+      
+      <div class="archive-stats-grid">
+        <div class="stat-card">
+          <span class="stat-card__number">{{ len $blogPages }}</span>
+          <span class="stat-card__label">Articles Published</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-card__number">{{ $wordCount | lang.FormatNumber 0 }}</span>
+          <span class="stat-card__label">Total Words Written</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-card__number">{{ len $portfolioPages }}</span>
+          <span class="stat-card__label">Projects Showcased</span>
+        </div>
+      </div>
+      
+      <!-- Content from markdown -->
+      {{ .Content }}
+      
+      <!-- Grouped year list -->
+      {{ range $blogPages.GroupByDate "2006" }}
+      <div class="archive-year-group">
+        <h2 class="archive-year-title">
+          {{ .Key }} 
+          <span class="archive-year-count">({{ len .Pages }} posts)</span>
+        </h2>
+        <ul class="archive-list">
+          {{ range .Pages }}
+          <li class="archive-item">
+            <time class="archive-date" datetime="{{ .Date | dateFormat "2006-01-02" }}">
+              {{ .Date | dateFormat "Jan 02" }}
+            </time>
+            <span class="archive-title">
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </span>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+    </div>
+  </div>
+</article>
+
+{{ end }}

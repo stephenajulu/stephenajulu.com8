@@ -1,0 +1,65 @@
+{{ define "content" }}
+
+<header class="section section--header">
+  <div class="container container--md">
+    <h1 class="section__title line-top">Notes Hub</h1>
+    <p class="section__subtitle">A sovereign stream of consciousness, quick thoughts, and interesting links.</p>
+  </div>
+</header>
+
+<div class="section">
+  <div class="notes-feed">
+    {{ $paginator := .Paginate .Pages.ByDate.Reverse }}
+    {{ range $paginator.Pages }}
+    <article class="note-card">
+      <header class="note-card__header">
+        <span class="note-card__date">
+          <a href="{{ .RelPermalink }}">
+            <time class="published" datetime="{{ .Date | dateFormat "2006-01-02T15:04:05-07:00" }}">
+              {{ .Date | dateFormat "January 02, 2006 at 15:04" }}
+            </time>
+          </a>
+        </span>
+        {{ if .Params.syndication }}
+        <div class="note-card__syndication">
+          {{ range .Params.syndication }}
+            <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" title="Syndicated to {{ .name }}" class="syndicate-link">
+              [{{ .name }}]
+            </a>
+          {{ end }}
+        </div>
+        {{ end }}
+      </header>
+      <div class="note-card__body text-block">
+        {{ .Content }}
+        
+        {{ if .Params.link }}
+        <div class="note-card__bookmark">
+          <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer">
+            🔗 {{ .Params.link_title | default .Params.link }}
+          </a>
+          {{ if .Params.link_description }}
+          <p>{{ .Params.link_description }}</p>
+          {{ end }}
+        </div>
+        {{ end }}
+
+        {{ if .Params.image }}
+        <div class="note-card__media">
+          <img src="{{ .Params.image | relURL }}" alt="{{ .Params.image_alt | default "Note image" }}" />
+        </div>
+        {{ end }}
+
+        {{ if .Params.video }}
+        <div class="note-card__media">
+          <video src="{{ .Params.video | relURL }}" controls></video>
+        </div>
+        {{ end }}
+      </div>
+    </article>
+    {{ end }}
+    {{ partial "pagination.html" . }}
+  </div>
+</div>
+
+{{ end }}

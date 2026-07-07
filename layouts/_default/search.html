@@ -1,0 +1,172 @@
+{{ define "content" }}
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+
+<header class="section section--header">
+  <div class="container container--md">
+    <h1 class="section__title line-top">Sovereign Search hub</h1>
+    <p class="section__subtitle">Explore writing across tech, design, solarpunk, sovereignty, and more.</p>
+  </div>
+</header>
+
+<div class="section">
+  <div class="container container--md">
+    <div class="search-form">
+      <input type="text" id="search-input" placeholder="Type keywords here to search posts and notes..." autofocus />
+      <p id="search-stats" class="search-stats"></p>
+    </div>
+
+    <div id="search-results" style="margin-top: 2rem;">
+      <!-- Search results will render here -->
+    </div>
+
+    <div id="search-pagination" style="margin-top: 3rem; display: flex; justify-content: center;">
+      <!-- Search pagination will render here -->
+    </div>
+  </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const searchInput = document.getElementById("search-input");
+  const searchResults = document.getElementById("search-results");
+  const searchStats = document.getElementById("search-stats");
+  const searchPagination = document.getElementById("search-pagination");
+  
+  let searchIndex = [];
+  let fuse = null;
+  let currentPage = 1;
+  const resultsPerPage = 10;
+  let allResults = [];
+  let currentQuery = "";
+
+  const fuseOptions = {
+    keys: [
+      { name: 'title', weight: 0.5 },
+      { name: 'contents', weight: 0.3 },
+      { name: 'tags', weight: 0.1 },
+      { name: 'categories', weight: 0.1 }
+    ],
+    threshold: 0.3,
+    includeMatches: true
+  };
+
+  // Download search index JSON
+  fetch("/index.json")
+    .then(response => response.json())
+    .then(data => {
+      searchIndex = data;
+      fuse = new Fuse(data, fuseOptions);
+      searchStats.innerText = `Index loaded. Search across ${data.length} articles and notes.`;
+    })
+    .catch(err => {
+      console.error("Failed to load search index", err);
+      searchStats.innerText = "Error loading search index. Please refresh.";
+    });
+
+  // Perform search
+  searchInput.addEventListener("input", function() {
+    const query = searchInput.value.trim();
+    if (query.length < 2) {
+      searchResults.innerHTML = "";
+      searchPagination.innerHTML = "";
+      if (query.length === 0) {
+        searchStats.innerText = `Search across ${searchIndex.length} articles and notes.`;
+      } else {
+        searchStats.innerText = "Type at least 2 characters...";
+      }
+      return;
+    }
+
+    if (!fuse) return;
+    const fuseResults = fuse.search(query);
+    allResults = fuseResults.map(r => r.item);
+    currentQuery = query;
+    currentPage = 1; // Reset to page 1
+    displayResultsPage();
+  });
+
+  function displayResultsPage() {
+    if (allResults.length === 0) {
+      searchResults.innerHTML = `<p style="font-size: 1.1rem; text-align: center; margin-top: 3rem;">No matches found for "<strong>${currentQuery}</strong>". Try other keywords.</p>`;
+      searchStats.innerText = `Found 0 matches.`;
+      searchPagination.innerHTML = "";
+      return;
+    }
+
+    searchStats.innerText = `Found ${allResults.length} matches for "${currentQuery}"`;
+
+    const totalPages = Math.ceil(allResults.length / resultsPerPage);
+    const start = (currentPage - 1) * resultsPerPage;
+    const end = start + resultsPerPage;
+    const pageResults = allResults.slice(start, end);
+
+    let html = "";
+    pageResults.forEach(item => {
+      let snippet = "";
+      if (item.contents) {
+        const index = item.contents.toLowerCase().indexOf(currentQuery.toLowerCase());
+        if (index !== -1) {
+          const startIdx = Math.max(0, index - 60);
+          const endIdx = Math.min(item.contents.length, index + 100);
+          snippet = "..." + item.contents.substring(startIdx, endIdx).trim() + "...";
+        } else {
+          snippet = item.contents.substring(0, 140) + "...";
+        }
+      }
+
+      html += `
+        <article class="search-result-card">
+          <header>
+            <h2 class="search-result-card__title"><a href="${item.permalink}">${item.title || "Note / Post"}</a></h2>
+          </header>
+          <p class="search-result-card__snippet">${escapeHtml(snippet)}</p>
+          <a class="search-result-card__link" href="${item.permalink}">Read More →</a>
+        </article>
+      `;
+    });
+    searchResults.innerHTML = html;
+
+    renderSearchPagination(totalPages);
+  }
+
+  function renderSearchPagination(totalPages) {
+    if (totalPages <= 1) {
+      searchPagination.innerHTML = "";
+      return;
+    }
+
+    let html = `<ul class="pagination">`;
+    if (currentPage > 1) {
+      html += `<li class="page-item"><a class="page-link" href="#" data-page="${currentPage - 1}">←</a></li>`;
+    }
+    for (let i = 1; i <= totalPages; i++) {
+      html += `<li class="page-item${i === currentPage ? " active" : ""}"><a class="page-link" href="#" data-page="${i}">${i}</a></li>`;
+    }
+    if (currentPage < totalPages) {
+      html += `<li class="page-item"><a class="page-link" href="#" data-page="${currentPage + 1}">→</a></li>`;
+    }
+    html += `</ul>`;
+    searchPagination.innerHTML = html;
+
+    // Attach click listeners
+    searchPagination.querySelectorAll(".page-link").forEach(link => {
+      link.addEventListener("click", function(e) {
+        e.preventDefault();
+        currentPage = parseInt(this.getAttribute("data-page"));
+        displayResultsPage();
+        searchResults.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+    });
+  }
+
+  function escapeHtml(text) {
+    return text
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
+  }
+});
+</script>
+{{ end }}

@@ -1,6 +1,7 @@
 // Fonts
 $fonts: (
   fraunces: ("Fraunces", serif),
+  outfit: ("Outfit", sans-serif),
   karla: ("Karla", sans-serif),
   cormorant: ("Cormorant Garamond", serif),
   system-sans: (-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif)
@@ -14,10 +15,10 @@ $color-gray-300: #868f9d !default;
 $color-gray-400: #6b7280 !default;
 $color-gray-500: #4b5563 !default;
 $color-gray-600: #2f3845 !default;
-$color-gray-700: #1f2937 !default;
-$color-gray-800: #18202a !default;
-$color-gray-900: #121920 !default;
-$color-accent:   #d8195e !default;
+$color-gray-700: #161f38 !default;
+$color-gray-800: #0b0f19 !default;
+$color-gray-900: #020616 !default;
+$color-accent:   #6320d6 !default;
 
 // Alternative accent colors
 $accent-colors: (
@@ -58,3 +59,12 @@ $grid-gap: 1.66667rem !default;
 @import "imports/footer";
 @import "imports/variations";
 @import "imports/banner";
+@import "imports/notes";
+@import "imports/store";
+@import "imports/search";
+@import "imports/print";
+@import "imports/webmentions";
+@import "imports/code";
+@import "imports/pagination";
+@import "imports/archive";
+@import "imports/shortcodes";

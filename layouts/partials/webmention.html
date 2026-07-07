@@ -1,22 +1,36 @@
-<div class="container">
-  <div id="webmentions"></div>
+<script src="{{ "js/webmention.min.js" | relURL }}"></script>
+
+<div class="webmentions-container">
+  <h3 class="line-top" style="font-family:'Fraunces', serif; font-size:1.5rem; margin-top:3rem;">Webmentions & Responses</h3>
+  <p style="font-size:0.9rem; margin-bottom:1.5rem; color:var(--text-muted);">Responses syndicated via the IndieWeb. Mention this post's URL on your site or social feed to respond.</p>
+  <div id="webmentions">Loading responses...</div>
 </div>
 
 <script>
-Webmention.renderWebmentions("https://stephenajulu.com", {
-    template: function(props) {
-        return `
-            <div class="webmention">
-                <div class="author">
-                    <img src="${props.author.photo}" alt="${props.author.name}">
-                    <span>${props.author.name}</span>
+document.addEventListener("DOMContentLoaded", function() {
+  if (window.Webmention) {
+    Webmention.renderWebmentions("{{ .Permalink }}", {
+        target: "#webmentions",
+        template: function(props) {
+            const authorPhoto = props.author && props.author.photo ? props.author.photo : 'https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y';
+            const authorName = props.author && props.author.name ? props.author.name : 'Anonymous';
+            const content = props.content ? props.content : 'Liked or reposted this.';
+            return `
+                <div class="webmention">
+                    <div class="author">
+                        <img src="${authorPhoto}" alt="${authorName}">
+                        <span>${authorName}</span>
+                    </div>
+                    <div class="content">
+                        ${content}
+                    </div>
+                    <a href="${props.url}" target="_blank" rel="noopener noreferrer">View Source Response</a>
                 </div>
-                <div class="content">
-                    ${props.content}
-                </div>
-                <a href="${props.url}">View Comment</a>
-            </div>
-        `;
-    }
+            `;
+        }
+    });
+  } else {
+    document.getElementById("webmentions").innerText = "Webmentions script not loaded.";
+  }
 });
 </script>

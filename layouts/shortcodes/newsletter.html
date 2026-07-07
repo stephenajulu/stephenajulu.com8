@@ -32,8 +32,8 @@
 }
 </style>
 <div class="newsletter section" id="newsletter">
-    <form action="https://buttondown.com/api/emails/embed-subscribe/ajulu" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/ajulu', 'popupwindow')" class="embeddable-buttondown-form newsletter-form">
-    <input type="email" name="email" id="bd-email" placeholder="your@email.com">
-    <button type="submit" value="Subscribe">Subscribe</button>
+    <form name="newsletter" method="POST" data-netlify="true" action="/thank-you/" class="newsletter-form">
+    <input type="email" name="email" id="newsletter-email" placeholder="your@email.com" required>
+    <button type="submit">Subscribe</button>
   </form>
   </div>

@@ -1,28 +1,57 @@
 <header id="masthead" class="site-header container">
   <nav class="navbar" aria-label="Main Navigation">
-    {{ if .Site.Data.config.header.logo }}
+    {{ if hugo.Data.config.header.logo }}
     <div class="navbar__logo">
-      <a href="{{ "/" | relURL }}"><img src="{{ $.Site.Data.config.header.logo | relURL }}" alt="{{ $.Site.Data.config.header.logo_alt }}" /></a>
+      <a href="{{ "/" | relURL }}" aria-label="Stephen Ajulu Home">
+        {{ if (strings.HasSuffix hugo.Data.config.header.logo ".svg") }}
+          {{ readFile (print "static/" hugo.Data.config.header.logo) | safeHTML }}
+        {{ else }}
+          <img src="{{ hugo.Data.config.header.logo | relURL }}" alt="{{ hugo.Data.config.header.logo_alt }}" />
+        {{ end }}
+      </a>
     </div>
     {{ else }}
     <div class="navbar__title">
-      <a href='{{ "/" | relURL }}'>{{ $.Site.Data.config.header.title }}</a>
+      <a href='{{ "/" | relURL }}'>{{ hugo.Data.config.header.title }}</a>
     </div>
     {{ end }}
-    {{ if .Site.Data.config.header.has_nav }}
+    {{ if hugo.Data.config.header.has_nav }}
     <button id="navbar__open" class="navbar__toggle js-nav-toggle"><span class="screen-reader-text">Open Menu</span><span class="icon-menu" aria-hidden="true"></span></button>
     <div class="navbar__menu-container">
       <div class="navbar__scroller">
         <button id="navbar__close" class="navbar__toggle js-nav-toggle"><span class="screen-reader-text">Close Menu</span><span class="icon-close" aria-hidden="true"></span></button>
         <ul class="navbar__menu menu">
-          {{ range $action := $.Site.Data.config.header.nav_links }}
-          {{ $pageUrl := trim $.URL "/" }}
+          {{ range $action := hugo.Data.config.header.nav_links }}
+          {{ if eq $action.style "dropdown" }}
+          <li class="menu__item menu__item--has-children">
+            <a href="#" class="menu__dropdown-toggle" onclick="event.preventDefault(); this.parentNode.classList.toggle('menu__item--open');">{{ $action.label }} <span class="arrow" style="font-size:0.6em; vertical-align:middle; margin-left:2px;">▼</span></a>
+            <ul class="submenu">
+              {{ range $child := $action.children }}
+              <li class="submenu__item">
+                <a href="{{ $child.url | relURL }}">{{ $child.label }}</a>
+              </li>
+              {{ end }}
+            </ul>
+          </li>
+          {{ else }}
+          {{ $pageUrl := trim $.RelPermalink "/" }}
           {{ $actionUrl := trim $action.url "/" }}
           <li class="menu__item{{ if eq $pageUrl $actionUrl }} menu__item--current{{ end }}{{ if ne $action.style "link" }} menu__item--button{{ end }}">
             {{ $include_dict := dict "action" $action }}
             {{ partial "action.html" $include_dict }}
           </li>
           {{ end }}
+          {{ end }}
+          
+          <!-- Theme Toggle Button positioned after More nested menu -->
+          <li class="menu__item menu__item--toggle" style="display: inline-flex; align-items: center;">
+            <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle theme" style="border: none; background: transparent; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; padding: 0.25rem; color: inherit; width: 30px; height: 30px;">
+              <!-- Sun SVG (displays in dark mode) -->
+              <svg class="theme-icon-sun" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" style="width: 20px; height: 20px;"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364-6.364l-.707.707M6.343 17.657l-.707.707m0-12.728l.707.707m12.728 12.728l.707-.707M12 8a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+              <!-- Moon SVG (displays in light mode) -->
+              <svg class="theme-icon-moon" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" style="width: 20px; height: 20px;"><path stroke-linecap="round" stroke-linejoin="round" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"></path></svg>
+            </button>
+          </li>
         </ul>
       </div>
     </div>

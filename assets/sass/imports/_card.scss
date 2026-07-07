@@ -1,43 +1,101 @@
 .card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 1.5rem;
+  background: #f9fafb;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 12px;
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.01);
+
+  .palette-dark & {
+    background: #0b0f19;
+    border-color: rgba(255, 255, 255, 0.08);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  }
+
+  &:hover {
+    transform: translateY(-4px);
+    border-color: $color-accent;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.04);
+
+    .palette-dark & {
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+    }
+  }
+
   &__title {
-    font-size: 1.33333em;
-    margin: 0;
+    font-size: 1.35rem;
+    font-weight: 600;
+    margin: 0 0 0.5rem;
+    font-family: 'Fraunces', serif;
+
+    a {
+      color: inherit;
+      border: none !important;
+      &:hover {
+        color: $color-accent;
+      }
+    }
   }
 
   &__subtitle {
-    color: $color-gray-300;
+    color: $color-gray-400;
     font-style: italic;
+    margin-bottom: 0.75rem;
   }
 
   &__image {
-    margin-bottom: 1.11111em;
+    margin-bottom: 1.25rem;
+    overflow: hidden;
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.06);
 
-    .grid--col-two & {
-      max-width: 585px;
+    .palette-dark & {
+      border-color: rgba(255, 255, 255, 0.06);
     }
 
-    .grid--col-three & {
-      max-width: 380px;
+    img {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+      display: block;
+      transition: transform 0.3s ease;
     }
   }
 
-  &__body {
-    line-height: 1.5;
+  &:hover &__image img {
+    transform: scale(1.04);
+  }
 
-    &:not(:first-child) {
-      margin-top: 1em;
+  &__body {
+    line-height: 1.6;
+    color: $color-gray-600;
+    font-size: 0.95rem;
+    flex-grow: 1;
+
+    .palette-dark & {
+      color: $color-gray-300;
     }
 
     a {
       &:not(.button) {
         border-bottom: 1px solid rgba($color-accent, .3);
         color: $color-accent;
+        font-weight: 500;
   
         &:hover,
         &:focus {
-          opacity: .6;
+          opacity: .8;
         }
       }
     }
+  }
+
+  &__actions {
+    margin-top: 1.5rem;
+    display: flex;
+    gap: 0.5rem;
   }
 }

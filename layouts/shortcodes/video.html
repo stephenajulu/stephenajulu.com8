@@ -1,0 +1,5 @@
+{{ $src := .Get "src" }}
+{{ $autoplay := .Get "autoplay" | default false }}
+<div class="note-card__media">
+  <video src="{{ $src | relURL }}" controls {{ if $autoplay }}autoplay muted loop{{ end }} style="width: 100%; border-radius: 8px;"></video>
+</div>

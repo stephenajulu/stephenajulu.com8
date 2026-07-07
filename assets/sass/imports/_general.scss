@@ -222,3 +222,22 @@ figcaption {
   line-height: 1.5;
   margin: 0.5em 0 0;
 }
+
+// Custom Font assignments for Editorial Minimalism (Fraunces + Outfit)
+body {
+  font-family: "Outfit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, 
+.hero__title, 
+.section__title, 
+.post__title, 
+.post-card__title,
+.project__title, 
+.project-card__title,
+.navbar__title, 
+.card__title {
+  font-family: "Fraunces", Georgia, serif !important;
+  font-weight: 500 !important;
+}
+

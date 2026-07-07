@@ -1,0 +1,22 @@
+{{ define "content" }}
+
+<header class="section section--header">
+  <div class="container container--lg">
+    <h1 class="section__title line-top">Browse Tags</h1>
+    <p class="section__subtitle">Explore writing by topics, ideas, and interests.</p>
+  </div>
+</header>
+
+<div class="section">
+  <div class="container container--lg">
+    <div class="tag-cloud">
+      {{ range .Data.Terms.Alphabetical }}
+      <a href="{{ .Page.RelPermalink }}">
+        {{ .Page.Title }} <span class="tag-count">({{ .Count }})</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+{{ end }}

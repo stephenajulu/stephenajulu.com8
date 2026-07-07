@@ -1,0 +1,130 @@
+.archive-stats-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin: 2rem 0 4rem;
+
+  @media only screen and (min-width: 601px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.stat-card {
+  padding: 1.75rem;
+  background: #f9fafb;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 12px;
+  text-align: center;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+
+  .palette-dark & {
+    background: #0b0f19;
+    border-color: rgba(255, 255, 255, 0.08);
+  }
+
+  &:hover {
+    transform: translateY(-2px);
+    border-color: $color-accent;
+  }
+
+  &__number {
+    font-family: 'Fraunces', serif;
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: $color-accent;
+    display: block;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+  }
+
+  &__label {
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: $color-gray-500;
+
+    .palette-dark & {
+      color: $color-gray-400;
+    }
+  }
+}
+
+.archive-year-group {
+  margin-top: 3.5rem;
+
+  &:first-of-type {
+    margin-top: 0;
+  }
+}
+
+.archive-year-title {
+  font-family: 'Fraunces', serif;
+  font-weight: 500;
+  font-size: 1.85rem;
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.1);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+
+  .palette-dark & {
+    border-bottom-color: rgba(255, 255, 255, 0.1);
+  }
+}
+
+.archive-year-count {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: $color-accent;
+  opacity: 0.7;
+}
+
+.archive-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.archive-item {
+  display: flex;
+  gap: 2rem;
+  align-items: baseline;
+  margin-bottom: 1.25rem;
+  font-size: 1.05rem;
+
+  @media only screen and (max-width: 480px) {
+    gap: 1rem;
+  }
+}
+
+.archive-date {
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: $color-gray-400;
+  min-width: 65px;
+  white-space: nowrap;
+
+  .palette-dark & {
+    color: $color-gray-500;
+  }
+}
+
+.archive-title {
+  font-family: 'Outfit', sans-serif;
+  
+  a {
+    color: inherit;
+    border-bottom: 1px solid transparent !important;
+    font-weight: 500;
+    transition: color 0.2s, border-color 0.2s;
+
+    &:hover {
+      color: $color-accent;
+      border-bottom-color: rgba($color-accent, 0.4) !important;
+    }
+  }
+}

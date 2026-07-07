@@ -55,3 +55,61 @@ window.addEventListener('resize', function () {
     document.body.classList.remove('js-nav-open');
   }
 }, true);
+
+// Robust Client-side Theme Toggle Handler
+function setupThemeToggle() {
+  const themeToggle = document.getElementById("theme-toggle");
+  if (themeToggle) {
+    themeToggle.addEventListener("click", function(e) {
+      e.preventDefault();
+      let currentTheme = localStorage.getItem("theme") || "dark";
+      let newTheme = currentTheme === "dark" ? "light" : "dark";
+      localStorage.setItem("theme", newTheme);
+      document.body.classList.remove("palette-light", "palette-dark");
+      document.body.classList.add("palette-" + newTheme);
+    });
+  }
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", setupThemeToggle);
+} else {
+  setupThemeToggle();
+}
+
+// Click to Copy Code Blocks
+document.addEventListener("DOMContentLoaded", function() {
+  const codeBlocks = document.querySelectorAll("pre > code");
+  codeBlocks.forEach(codeBlock => {
+    const pre = codeBlock.parentNode;
+    pre.style.position = "relative";
+    
+    const copyButton = document.createElement("button");
+    copyButton.className = "copy-code-button";
+    copyButton.innerText = "Copy";
+    copyButton.setAttribute("aria-label", "Copy code");
+    
+    pre.appendChild(copyButton);
+    
+    copyButton.addEventListener("click", function() {
+      const codeText = codeBlock.innerText;
+      navigator.clipboard.writeText(codeText).then(() => {
+        copyButton.innerText = "Copied!";
+        setTimeout(() => {
+          copyButton.innerText = "Copy";
+        }, 2000);
+      }).catch(err => {
+        console.error("Failed to copy code", err);
+      });
+    });
+  });
+});
+
+// Register PWA Service Worker
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/pwabuilder-sw.js')
+      .then(reg => console.log('Service Worker registered successfully.', reg))
+      .catch(err => console.error('Service Worker registration failed.', err));
+  });
+}

@@ -2,7 +2,7 @@
 <html lang="en">
     <head>    
 
-        <title>{{ if .Params.seo.title }}{{ $.Params.seo.title }}{{ else }}{{ print print $.Title " | " $.Site.Data.config.title }}{{ end }}</title>
+        <title>{{ if .Params.seo.title }}{{ $.Params.seo.title }}{{ else }}{{ print print $.Title " | " hugo.Data.config.title }}{{ end }}</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="google" content="notranslate" />
@@ -13,8 +13,8 @@
         {{ range $meta := .Params.seo.extra }}
           {{ $key_name := $meta.keyName | default "name" }}
           {{ if $meta.relativeUrl }}
-            {{ if $.Site.Data.config.domain }}
-              {{ $domain := trim $.Site.Data.config.domain "/" }}
+            {{ if hugo.Data.config.domain }}
+              {{ $domain := trim hugo.Data.config.domain "/" }}
               {{ $rel_url := $meta.value | relURL }}
               {{ $full_url := print $domain $rel_url }}
               <meta {{ $key_name }}="{{ $meta.name }}" content="{{ $full_url }}">
@@ -23,24 +23,28 @@
             <meta {{ $key_name }}="{{ $meta.name }}" content="{{ $meta.value }}">
           {{ end }}
         {{ end }}
-        {{ $font := .Site.Data.config.base_font | default "fraunces" }}
-        {{ if ne $font "system-sans" }}
-        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Outfit:wght@100..900&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | toCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10 "targetPath" "css/main.css")).Permalink }}">
+        {{ if hugo.Data.config.favicon }}
+        <link rel="icon" href="{{ hugo.Data.config.favicon | relURL }}">
         {{ end }}
-        {{ if eq $font "fraunces" }}
-        <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
-        {{ else if eq $font "karla" }}
-        <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-        {{ else if eq $font "cormorant" }}
-        <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap" rel="stylesheet">
-        {{ end }}
-        <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10 "targetPath" "css/main.css")).Permalink }}">
-        {{ if .Site.Data.config.favicon }}
-        <link rel="icon" href="{{ $.Site.Data.config.favicon | relURL }}">
-        {{ end }}
-        
+        <script>
+          (function() {
+            const savedTheme = localStorage.getItem('theme') || 'dark';
+            document.documentElement.className = 'theme-' + savedTheme;
+            document.write('<style>body{opacity:0;transition:opacity 0.2s;}</style>');
+            document.addEventListener('DOMContentLoaded', () => {
+              document.body.classList.remove('palette-light', 'palette-dark');
+              document.body.classList.add('palette-' + savedTheme);
+              document.body.style.opacity = '1';
+            });
+          })();
+        </script>
+        {{ partial "seo_schema.html" . }}
     </head>
-    <body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
+    <body class="font-{{ hugo.Data.config.base_font }} palette-{{ hugo.Data.config.color_scheme }} accent-{{ hugo.Data.config.accent_color }}">
         
         <div id="site-wrap" class="site">
           {{ partial "header.html" . }}

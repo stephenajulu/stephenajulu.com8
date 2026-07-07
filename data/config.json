@@ -3,6 +3,7 @@
     "color_scheme": "light",
     "accent_color": "violet",
     "base_font": "fraunces",
+    "paystack_public_key": "pk_test_a1a251b54a552bf7a72d733cf5c862bd71b56a31",
     "header": {
         "title": "Stephen Ajulu",
         "logo": "images/logo.svg",
@@ -14,25 +15,63 @@
                 "url": "/",
                 "style": "link"
             },
-                        {
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
-                "label": "Work",
-                "url": "/portfolio/",
-                "style": "link"
-            },
             {
                 "label": "Blog",
                 "url": "/blog/",
                 "style": "link"
             },
             {
-                "label": "Consult →",
+                "label": "Notes",
+                "url": "/notes/",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
+                "label": "Contact",
                 "url": "/contact/",
-                "style": "button"
+                "style": "link"
+            },
+            {
+                "label": "More",
+                "style": "dropdown",
+                "children": [
+                    {
+                        "label": "Services",
+                        "url": "/services/"
+                    },
+                    {
+                        "label": "Portfolio",
+                        "url": "/portfolio/"
+                    },
+                    {
+                        "label": "Sovereign Store",
+                        "url": "/store/"
+                    },
+                    {
+                        "label": "Sovereign Search",
+                        "url": "/search/"
+                    },
+                    {
+                        "label": "Curriculum Vitae",
+                        "url": "/cv/"
+                    },
+                    {
+                        "label": "Writing Archive",
+                        "url": "/archive/"
+                    },
+                    {
+                        "label": "Now Page",
+                        "url": "/now/"
+                    },
+                    {
+                        "label": "Uses Page",
+                        "url": "/uses/"
+                    }
+                ]
             }
         ]
     },

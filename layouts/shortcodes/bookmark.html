@@ -1,0 +1,11 @@
+{{ $url := .Get "url" }}
+{{ $title := .Get "title" }}
+{{ $desc := .Get "description" }}
+<div class="note-card__bookmark">
+  <a href="{{ $url }}" target="_blank" rel="noopener noreferrer">
+    🔗 {{ $title | default $url }}
+  </a>
+  {{ if $desc }}
+  <p>{{ $desc }}</p>
+  {{ end }}
+</div>

@@ -1,0 +1,78 @@
+# CloudCannon Configuration File
+# Documentation: https://cloudcannon.com/documentation/articles/introducing-cloudcannon-config/
+
+# Output directories matching Hugo builds
+source: .
+output: public
+
+# Define image upload paths
+uploads_dir: static/images
+public_path: /images
+
+# Define key site metadata and default options
+paths:
+  uploads: static/images
+  dam_uploads: static/images
+
+# Define content collections
+collections_config:
+  blog:
+    path: content/blog
+    output: true
+    name: Blog Articles
+    icon: article
+    schema:
+      default:
+        path: archetypes/default.md
+  notes:
+    path: content/notes
+    output: true
+    name: Notes Feed
+    icon: chat_bubble
+    schema:
+      default:
+        path: content/notes/_index.md
+  portfolio:
+    path: content/portfolio
+    output: true
+    name: Portfolio Projects
+    icon: folder
+  til:
+    path: content/til
+    output: true
+    name: TIL Notes
+    icon: lightbulb
+  pages:
+    path: content
+    output: true
+    name: Pages
+    filter: strict
+    icon: pageview
+
+# Global configuration inputs for the editor UI
+_inputs:
+  title:
+    type: text
+  subtitle:
+    type: text
+  date:
+    type: datetime
+  image:
+    type: image
+  image_alt:
+    type: text
+  tags:
+    type: array
+    items:
+      type: text
+  gated:
+    type: boolean
+    comment: "Blur content for non-members"
+  amount_cents:
+    type: number
+    comment: "Price in cents (e.g. $29 -> 2900)"
+  currency:
+    type: text
+    comment: "e.g. USD, KES"
+  download_url:
+    type: text

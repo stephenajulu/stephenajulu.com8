@@ -1,0 +1,40 @@
+{{ $section := .section }}
+{{ $notes_number := $section.notes_number | default 3 }}
+<section id="{{ $section.section_id }}" class="section section--notes">
+  <div class="container container--md">
+    {{ if $section.title }}
+    <h2 class="section__title line-top">{{ $section.title }}</h2>
+    {{ end }}
+    {{ if $section.subtitle }}
+    <p class="section__subtitle">{{ $section.subtitle }}</p>
+    {{ end }}
+    
+    <div class="notes-feed" style="padding: 0; margin-bottom: 1.5rem;">
+      {{ $notes_sorted := ((.Site.GetPage "section" "/notes").Pages).ByDate.Reverse }}
+      {{ $recent_notes := $notes_sorted | first $notes_number }}
+      {{ range $note := $recent_notes }}
+      <article class="note-card" style="margin-bottom: 1.5rem; padding: 1.25rem;">
+        <header class="note-card__header" style="margin-bottom: 0.75rem;">
+          <span class="note-card__date">
+            <a href="{{ $note.RelPermalink }}">
+              <time class="published" datetime="{{ $note.Date | dateFormat "2006-01-02T15:04:05-07:00" }}">
+                {{ $note.Date | dateFormat "January 02, 2006 at 15:04" }}
+              </time>
+            </a>
+          </span>
+        </header>
+        <div class="note-card__body text-block" style="font-size: 0.95rem;">
+          {{ $note.Content }}
+        </div>
+      </article>
+      {{ end }}
+    </div>
+    
+    {{ if $section.actions }}
+    <div class="section__actions button-group" style="justify-content: center; margin-top: 1.5rem;">
+      {{ $include_dict := dict "actions" $section.actions }}
+      {{ partial "cta_buttons.html" $include_dict }}
+    </div>
+    {{ end }}
+  </div>
+</section>

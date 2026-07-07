@@ -1,0 +1,71 @@
+@media print {
+  body {
+    background: #fff !important;
+    color: #000 !important;
+    font-size: 11pt !important;
+    line-height: 1.4 !important;
+  }
+
+  .site-header,
+  .site-footer,
+  #navbar__open,
+  #navbar__close,
+  .navbar__menu-container,
+  .newsletter,
+  .newsletter-form,
+  .button,
+  .consult,
+  #my-cal-inline,
+  .post__meta,
+  .section--posts,
+  .section--portfolio,
+  .share-buttons,
+  .additionalreading {
+    display: none !important;
+  }
+
+  #site-wrap, 
+  .site-content,
+  .post,
+  .container {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    border: none !important;
+  }
+
+  .post__title {
+    font-size: 24pt !important;
+    margin-top: 0 !important;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid;
+    color: #000 !important;
+  }
+
+  p, blockquote, ul, ol, dl, tr, pre {
+    page-break-inside: avoid;
+  }
+
+  a {
+    text-decoration: underline !important;
+    color: #000 !important;
+  }
+  
+  a[href]:after {
+    content: " (" attr(href) ")";
+    font-size: 9pt !important;
+  }
+
+  a[href^="javascript:"]:after,
+  a[href^="#"]:after {
+    content: "";
+  }
+
+  a[href^="/"]:after {
+    content: " (https://stephenajulu.com" attr(href) ")";
+  }
+}
