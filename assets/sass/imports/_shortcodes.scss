@@ -33,3 +33,118 @@
     margin-bottom: 0;
   }
 }
+
+.newsletter-widget {
+  margin: 2rem 0;
+  width: 100%;
+  max-width: 450px;
+
+  &__form {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+
+    @media only screen and (max-width: 480px) {
+      flex-direction: column;
+      align-items: stretch;
+    }
+  }
+
+  &__input {
+    flex-grow: 1;
+    padding: 0.75rem 1.25rem !important;
+    border: 1px solid rgba(0, 0, 0, 0.15) !important;
+    border-radius: 8px !important;
+    font-family: 'Outfit', sans-serif;
+    font-size: 0.95rem;
+    background: #fff;
+    color: $color-gray-800;
+    transition: border-color 0.25s, box-shadow 0.25s;
+
+    .palette-dark & {
+      border-color: rgba(255, 255, 255, 0.15) !important;
+      background: #0b0f19;
+      color: #fff;
+    }
+
+    &:focus {
+      border-color: $color-accent !important;
+      box-shadow: 0 0 0 3px rgba($color-accent, 0.15);
+      outline: none;
+    }
+  }
+
+  &__button {
+    border-radius: 8px !important;
+    padding: 0.75rem 1.5rem !important;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+}
+
+.gated-wrapper-modern {
+  position: relative;
+}
+
+.gated-content-modern {
+  filter: blur(8px);
+  pointer-events: none;
+  user-select: none;
+  transition: filter 0.3s ease;
+}
+
+.gate-cta-modern {
+  margin: 2rem 0;
+  padding: 2.5rem;
+  border: 1px dashed $color-accent;
+  border-radius: 16px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: #f9fafb;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+
+  .palette-dark & {
+    background: #0b0f19;
+    border-color: rgba($color-accent, 0.6);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
+  }
+
+  &__icon {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+
+  &__title {
+    margin: 0 0 0.5rem;
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 1.35rem;
+  }
+
+  &__text {
+    font-size: 0.95rem;
+    margin-bottom: 1.5rem;
+    max-width: 340px;
+    color: $color-gray-500;
+
+    .palette-dark & {
+      color: $color-gray-400;
+    }
+  }
+
+  &__buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    .button {
+      border-radius: 8px !important;
+    }
+  }
+}
+
