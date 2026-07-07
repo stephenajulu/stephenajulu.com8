@@ -39,7 +39,7 @@ tags:
 - Store
 title: Gradient Wallpaper Pack 3 is Out
 ---
-35 Gradient Wallpapers at 8K resolution that look amazing on a TV, Laptop, Desktop, or Mobile Phone have been released. Buy it from my [store](https://ajulusthoughts.stephenajulu.com/store) or below.
+35 Gradient Wallpapers at 8K resolution that look amazing on a TV, Laptop, Desktop, or Mobile Phone have been released. Buy it from my [store](/store/) or below.
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 

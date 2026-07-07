@@ -79,7 +79,7 @@ I know of only 3 way of investing in land and that is through
 
 ### 3. Shares <sup>Moderate Risk</sup>
 
-I talk about this here: [How To Buy Your First Share](https://ajulusthoughts.stephenajulu.com/post/how-to-buy-your-first-share/)
+I talk about this here: [How To Buy Your First Share](/blog/how-to-buy-your-first-share/)
 
 ### 4. ETFs(Exchange Traded Fund) <sup>Moderate Risk</sup>
 
@@ -113,6 +113,6 @@ One way to do this is to register with [FXPesa](https://lp.fxpesa.com/landing-pa
 
 That's it for today I know I haven't covered all of them so I'll save the rest for another day.
 
-[Go check out my other post on how I started investing](https://ajulusthoughts.stephenajulu.com/post/how-i-started-investing/).
+[Go check out my other post on how I started investing](/blog/how-i-started-investing/).
 
 Have a great day everyone.

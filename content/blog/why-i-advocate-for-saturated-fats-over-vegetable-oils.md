@@ -177,7 +177,7 @@ Then these oils are extracted and refined using carcinogenic _hexane_ (two carbo
 
 This article is a compilation of my thoughts, research, investigations, and excerpts from credible sources.
 
-PS: Sources, if you believe I have not linked your website here yet have used your content, kindly write to me via the contact form: [here](https://stephenajulu.com/contact).
+PS: Sources, if you believe I have not linked your website here yet have used your content, kindly write to me via the contact form: [here](/contact/).
 
 Have a great day!
 
@@ -189,7 +189,7 @@ Additional Resources:
 * [Why You Should Avoid PUFAs](https://www.harpersbazaar.com/beauty/diet-fitness/a10965/pufa-free-diet/)
 * [PUFA Study](http://www.westonaprice.org/blogs/cmasterjohn/ajcn-publishes-a-new-pufa-study-that-should-make-us-long-for-the-old-days/)
 * [PUFA Study 2](http://www.westonaprice.org/blogs/cmasterjohn/ajcn-publishes-a-new-pufa-study-that-should-make-us-long-for-the-old-days/)
-* [Book Summary: The Big Fat Suprise by Nina Teicholz](https://stephenajulu.com/blog/key-ideas-in-the-big-fat-surprise-by-nina-teicholz/)
+* [Book Summary: The Big Fat Suprise by Nina Teicholz](/blog/key-ideas-in-the-big-fat-surprise-by-nina-teicholz/)
 * [The Skinny on Fat, Part 2: How Carbohydrates Make You Fat](https://www.smallfootprintfamily.com/the-skinny-on-fat-part-2 "The Skinny on Fat, Part 2")
 
 Photo by [Ashwini Chaudhary(Monty)](https://unsplash.com/@suicide_chewbacca?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

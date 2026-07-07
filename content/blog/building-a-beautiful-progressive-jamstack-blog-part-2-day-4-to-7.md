@@ -75,7 +75,7 @@ So now instead of copying the shortcode link everywhere you can just add it as a
 * Resize all images to a good size
 * SEO Optimize the site
 * Find a good free resource light analytic service
-* Copy all posts from [**Ajulu’s Thoughts**](https://ajulusthoughts.wordpress.com) to [**Ajulu’s Blog**](https://blog.stephenajulu.com)
+* Copy all posts from [**Ajulu’s Thoughts**](/) to [**Ajulu’s Blog**](https://blog.stephenajulu.com)
 * Cache all assets
 * Add Web Share
 * Add Push Notifications
@@ -94,7 +94,7 @@ TTT, First Meaningful Paint, First Contentful Paint, First CPU idle: 1.3 seconds
 TTT, First Meaningful Paint, First Contentful Paint, First CPU idle: 0.5 seconds  
 **_Our Goal is 100 in Both_**
 
-### [**Ajulu’s Thoughts**](https://ajulusthoughts.wordpress.com) – Delivering Quality Tech, Cybersecurity & Dev Content Since November 2016
+### [**Ajulu’s Thoughts**](/) – Delivering Quality Tech, Cybersecurity & Dev Content Since November 2016
 
 Hey Devs? Found anything wrong with this info? Kindly write your comment down below on what to change.
 

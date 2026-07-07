@@ -43,7 +43,7 @@ title: The Importance and Benefits of Blockchain Technology
 
 A **blockchain** is a growing list of records, called _blocks_, that are linked together using [cryptography](https://en.wikipedia.org/wiki/Cryptography "Cryptography"). Each block contains a [cryptographic hash](https://en.wikipedia.org/wiki/Cryptographic_hash_function "Cryptographic hash function") of the previous block, a [timestamp](https://en.wikipedia.org/wiki/Trusted_timestamping "Trusted timestamping"), and transaction data (generally represented as a [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree "Merkle tree")). The timestamp proves that the transaction data existed when the block was published in order to get into its hash. As blocks each contain information about the block previous to it, they form a chain, with each additional block reinforcing the ones before it. Therefore, blockchains are resistant to modification of their data because once recorded, the data in any given block cannot be altered retroactively without altering all subsequent blocks.
 
-[Learn more](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/)→
+[Learn more](/blog/what-is-blockchain-how-does-it-work-blockchain-explained/)→
 
 This trust is built on blockchain’s enhanced security, greater transparency, and instant traceability. Beyond matters of trust, blockchain delivers even more business benefits, including cost savings from increased speed, efficiency, and automation. By greatly reducing paperwork and errors, blockchain significantly reduces overhead and transaction costs and reduces or eliminates the need for third parties or middlemen to verify transactions.
 
@@ -71,7 +71,7 @@ Traditional paper-heavy processes are time-consuming, prone to human error, and 
 
 Transactions can even be automated with “smart contracts,” which increase your efficiency and speed the process even further. Once pre-specified conditions are met, the next step in the transaction or process is automatically triggered. Smart contracts reduce human intervention as well as reliance on third parties to verify that the terms of a contract have been met. In insurance, for example, once a customer has provided all necessary documentation to file a claim, the claim can automatically be settled and paid.
 
-[Learn more about smart contracts](https://stephenajulu.com/blog/what-are-smart-contracts-smart-contracts-explained/)→
+[Learn more about smart contracts](/blog/what-are-smart-contracts-smart-contracts-explained/)→
 
 ## How industries benefit from blockchain
 

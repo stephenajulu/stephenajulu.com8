@@ -53,23 +53,23 @@ tags:
 - tech
 title: Decentralized Insurance Built on the Blockchain is a Game Changer
 ---
-Let’s face it – [crypto](https://stephenajulu.com/blog/6-use-cases-for-cryptocurrency/), [Web3](https://stephenajulu.com/blog/web-3.0-explained-part-1/), [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/), whatever you want to call it – is growing fast. As a result, there are concerns and skepticism around the **volatility** and safety of digital assets, including investor funds. Would you put your hard earned money into _anything_ without some sense of safety and **security**?
+Let’s face it – [crypto](/blog/6-use-cases-for-cryptocurrency/), [Web3](https://stephenajulu.com/blog/web-3.0-explained-part-1/), [blockchain](/blog/what-is-blockchain-how-does-it-work-blockchain-explained/), whatever you want to call it – is growing fast. As a result, there are concerns and skepticism around the **volatility** and safety of digital assets, including investor funds. Would you put your hard earned money into _anything_ without some sense of safety and **security**?
 
 If we are going, to be honest with each other, and we certainly should be, it is absolutely logical that companies are skeptical to put big money into a decentralized system.
 
-In both the fast-evolving [DeFi](https://stephenajulu.com/blog/applications-and-use-cases-of-decentralized-finance-defi/) space and the “Normalverse,” there is always the risk of hacks or exploits. Enter: decentralized insurance.
+In both the fast-evolving [DeFi](/blog/applications-and-use-cases-of-decentralized-finance-defi/) space and the “Normalverse,” there is always the risk of hacks or exploits. Enter: decentralized insurance.
 
-“There have been innumerable cases of smart-contracts hacking, cyber-attacks on exchange platforms, etc. that have caused huge loss of investor funds,” Blockchain Simplified states [on Medium](https://medium.com/@blockchain_simplified/decentralized-insurance-an-emerging-sector-in-defi-79bd84502cab). “Even the magnanimous [DAO](https://stephenajulu.com/blog/what-are-daos-decentralized-autonomous-organizations-explained/) could not prevent a malware attack on its platform that resulted in the loss of billions. Decentralized Insurance has plenty of use-cases that can help prevent such consequences from occurring.”
+“There have been innumerable cases of smart-contracts hacking, cyber-attacks on exchange platforms, etc. that have caused huge loss of investor funds,” Blockchain Simplified states [on Medium](https://medium.com/@blockchain_simplified/decentralized-insurance-an-emerging-sector-in-defi-79bd84502cab). “Even the magnanimous [DAO](/blog/what-are-daos-decentralized-autonomous-organizations-explained/) could not prevent a malware attack on its platform that resulted in the loss of billions. Decentralized Insurance has plenty of use-cases that can help prevent such consequences from occurring.”
 
-## [DeFi](https://stephenajulu.com/blog/more-applications-of-decentralized-finance-defi/) Insurance
+## [DeFi](/blog/more-applications-of-decentralized-finance-defi/) Insurance
 
 We can work together to build these preventative use cases. Let’s rethink the traditional insurance cycle for the DeFi world:
 
 When a policyholder buys decentralized digital asset coverage, they are willingly participating in the protection of their participation on the blockchain. The purchase of insurance comes from a “pool of money” that has been subsidized by what is traditionally known as insurance providers.
 
-In DeFi language, these “insurance providers” are more appropriately liquidity providers (LP), or Insurance Liquidity Providers. These LPs can be any company or individual who locks their capital into a decentralized risk pool with other similar providers. Coverage can range from digital asset and smart contract risk cover to protecting [NFTs](https://stephenajulu.com/blog/what-are-nfts-non-fungible-tokens-explained/), [DAO](https://stephenajulu.com/blog/what-are-daos-decentralized-autonomous-organizations-explained/) governance, and [wallets](https://stephenajulu.com/blog/best-cryptocurrency-wallets-2022/)—and as far and wide as you can imagine.
+In DeFi language, these “insurance providers” are more appropriately liquidity providers (LP), or Insurance Liquidity Providers. These LPs can be any company or individual who locks their capital into a decentralized risk pool with other similar providers. Coverage can range from digital asset and smart contract risk cover to protecting [NFTs](/blog/what-are-nfts-non-fungible-tokens-explained/), [DAO](/blog/what-are-daos-decentralized-autonomous-organizations-explained/) governance, and [wallets](/blog/best-cryptocurrency-wallets-2022/)—and as far and wide as you can imagine.
 
-Now, let’s go one step beyond that. This policyholder has purchased coverage for their participation in another DeFi project. They’ve decided to participate in ABC Project by providing collateral, but have purchased insurance coverage in the event there is a hack or vulnerability with ABC’s [smart contracts](https://stephenajulu.com/blog/what-are-smart-contracts-smart-contracts-explained/). Not only have they protected their “stake” in that risk, but they have effectively removed that risk from the ABC Project.
+Now, let’s go one step beyond that. This policyholder has purchased coverage for their participation in another DeFi project. They’ve decided to participate in ABC Project by providing collateral, but have purchased insurance coverage in the event there is a hack or vulnerability with ABC’s [smart contracts](/blog/what-are-smart-contracts-smart-contracts-explained/). Not only have they protected their “stake” in that risk, but they have effectively removed that risk from the ABC Project.
 
 What does this mean? It means a risk pool built on community allows the users, project, and LPs to all work toward a common call of safety and security. ABC Project can subsidize the premiums or risk pool to incentivize users to buy insurance. By doing so, the users can purchase cost-effective insurance coverage. This means LPs have a steady stream of premiums. Ultimately, the overall risk of ABC has been diversified – and the entire process is more efficient.
 
@@ -89,7 +89,7 @@ A decentralized insurance model, instead, feeds an incentive loop. The business 
 
 This isn’t the only reason a decentralized community is beneficial for decentralized insurance. The traditional insurance industry is worth more than $5 trillion and often puts profit over people, or at the very least, it has the perception of putting profits over people.
 
-Building the insurance system on-chain means you are working with like-minded individuals. Incentive loop! Traditional, [centralized](https://stephenajulu.com/blog/defi-vs-traditional-finance/) insurers often have efficiency issues stemming from multiple supervisor sign-offs, long processes, etc., that can create delays of days or weeks to process payments and claims.
+Building the insurance system on-chain means you are working with like-minded individuals. Incentive loop! Traditional, [centralized](/blog/defi-vs-traditional-finance/) insurers often have efficiency issues stemming from multiple supervisor sign-offs, long processes, etc., that can create delays of days or weeks to process payments and claims.
 
 Days and weeks could mean a dramatic change in the value of your digital asset. Time and efficiency are critical. I’ll leave out the static values of traditional insurance policies, predator claims practices, and opaque propaganda for another time.
 

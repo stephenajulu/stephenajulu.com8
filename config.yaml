@@ -1,9 +1,6 @@
 title: Stephen Ajulu
 baseURL: https://stephenajulu8.netlify.app
-ignoreFiles:
-  - "old_site"
-  - "old_content"
-  - "old_images"
+
 paginate: 6
 markup:
   goldmark:

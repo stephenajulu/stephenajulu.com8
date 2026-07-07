@@ -7,7 +7,7 @@ timeToRead = 3
 title = "The 8 Phases of Cyber Security Testing"
 
 +++
-Unlike the previous post: [**The 5 Phases Of Hacking**](https://ajulusthoughts.wordpress.com/2020/03/19/the-5-phases-of-hacking/). This procedure mostly resonates with cybersecurity professionals and/or ethical hackers.
+Unlike the previous post: [**The 5 Phases Of Hacking**](/blog/the-5-phases-of-hacking/). This procedure mostly resonates with cybersecurity professionals and/or ethical hackers.
 
 ### 1. Scoping
 

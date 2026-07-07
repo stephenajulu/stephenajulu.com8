@@ -56,7 +56,7 @@ The endocrine system is a complex network of glands, hormones, and receptors. It
 
 Chemicals are an essential component of our daily lives. But some chemicals, known as endocrine disruptors, can have harmful effects on the body’s endocrine (hormone) system. Hormones act in very small amounts and at precise moments in time to regulate the body’s development, growth, reproduction, metabolism, immunity, and behavior. Endocrine disruptors interfere with natural hormone systems, and the health effects can be felt long after the exposure has stopped. Exposure to endocrine disruptors in the womb can have life-long effects and can even have consequences for the next generation.
 
-#### To learn more, read: [_Endocrine Disruptors: What They Are & How To Avoid Them_](https://stephenajulu.com/blog/endocrine-disruptors-what-they-are-how-to-avoid-them/)
+#### To learn more, read: [_Endocrine Disruptors: What They Are & How To Avoid Them_](/blog/endocrine-disruptors-what-they-are-how-to-avoid-them/)
 
 ### What are some of the known endocrine disruptors found in cosmetic and grooming products?
 
@@ -142,6 +142,6 @@ alt="Studies exploring associations between exposure to cosmetics- and PCPs-rele
 caption="Studies exploring associations between exposure to cosmetics- and PCPs-released EDCs and endometriosis."
 %}}
 
-### Read More: [**Endocrine Disruptors: What They Are & How To Avoid Them**](https://stephenajulu.com/blog/endocrine-disruptors-what-they-are-how-to-avoid-them/)
+### Read More: [**Endocrine Disruptors: What They Are & How To Avoid Them**](/blog/endocrine-disruptors-what-they-are-how-to-avoid-them/)
 
 ### Read More: [**Endocrine Disrupting Chemicals in Cosmetics and Personal Care Products and Risk of Endometriosis**](https://www.intechopen.com/chapters/72654)

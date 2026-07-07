@@ -37,11 +37,11 @@ tags:
 - blogging
 title: How to Build Your First Blog Part 2
 ---
-Recap: Today I showed you [how to buy your first share](https://ajulusthoughts.stephenajulu.com/post/how-to-buy-your-first-share/) and simple free ways to [build your first blog](https://ajulusthoughts.netlify.app/post/how-to-build-your-first-blog/).
+Recap: Today I showed you [how to buy your first share](/blog/how-to-buy-your-first-share/) and simple free ways to [build your first blog](https://ajulusthoughts.netlify.app/post/how-to-build-your-first-blog/).
 
 Now I'll show you the paid and slightly more technical ways to build your first blog.
 
-NOTE: Below are ways that require a little technical knowledge, if you don't have that, kindly go to the [first post of the series](https://ajulusthoughts.stephenajulu.com/post/how-to-build-your-first-blog/).
+NOTE: Below are ways that require a little technical knowledge, if you don't have that, kindly go to the [first post of the series](/blog/how-to-build-your-first-blog/).
 
 ## WordPress Org Way
 
@@ -72,4 +72,4 @@ To build such,
 6. Alternatively find a theme with a headless cms and start working from there
 7. Alternatively again try [StackBit](http://stackbit.com/), it's free and you can build a great blog there.
 
-That's it for today. To learn more about the JAMstack way, go check out [this](https://ajulusthoughts.stephenajulu.com/post/building-a-beautiful-progressive-jamstack-blog-part-1-day-1-to-3/), [this ](https://ajulusthoughts.stephenajulu.com/post/building-a-beautiful-progressive-jamstack-blog-part-2-day-4-to-7/)and [this]() where i show you exactly how this blog was built.
+That's it for today. To learn more about the JAMstack way, go check out [this](/blog/building-a-beautiful-progressive-jamstack-blog-part-1-day-1-to-3/), [this ](/blog/building-a-beautiful-progressive-jamstack-blog-part-2-day-4-to-7/)and [this]() where i show you exactly how this blog was built.

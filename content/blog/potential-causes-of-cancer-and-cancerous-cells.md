@@ -145,7 +145,7 @@ Here's an excerpt from [Scientific America](https://www.scientificamerican.com/a
 >
 > For example, [benzene](https://www.scientificamerican.com/article.cfm?id=even-at-low-levels-benzen), a known cause of human leukemia, is a common pollutant in vehicle exhaust. Radon, a natural radioactive gas found in many homes, raises the risk of lung cancer. [Arsenic](https://www.scientificamerican.com/blog/post.cfm?id=dangerous-drinking-water-arsenics-t-2010-02-23), linked to skin, liver, bladder and lung cancer, contaminates some drinking water supplies. Other known human carcinogens include asbestos, hexavalent chromium, aflatoxins and vinyl chloride.
 
-Now remember, some of these chemicals are in our cosmetics and grooming products. The skin is the largest organ so you can imagine the dangers of putting these things over the long term. I've already talk about endocrine & fertility disruptors found in grooming and cosmetic products, find that here: [Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics | Stephen Ajulu · Entreprenuer, Writer, Designer & Creator](https://stephenajulu.com/blog/endocrine-hormonal-disruptors-in-grooming-products-and-cosmetics/)
+Now remember, some of these chemicals are in our cosmetics and grooming products. The skin is the largest organ so you can imagine the dangers of putting these things over the long term. I've already talk about endocrine & fertility disruptors found in grooming and cosmetic products, find that here: [Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics | Stephen Ajulu · Entreprenuer, Writer, Designer & Creator](/blog/endocrine-hormonal-disruptors-in-grooming-products-and-cosmetics/)
 
 Here's a list of some cancer causing toxins;
 

@@ -60,7 +60,7 @@ Proof-of-work makes doubling digital money very, very hard. It's much what it so
 
 ### How proof-of-work works
 
-Bitcoin is a [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/), which is a shared ledger that contains a history of every Bitcoin transaction that ever took place. This blockchain, as the name suggests, is composed of blocks. Each block has the most recent transactions stored in it.
+Bitcoin is a [blockchain](/blog/what-is-blockchain-how-does-it-work-blockchain-explained/), which is a shared ledger that contains a history of every Bitcoin transaction that ever took place. This blockchain, as the name suggests, is composed of blocks. Each block has the most recent transactions stored in it.
 
 Proof-of-work is a necessary part of adding new blocks to the Bitcoin blockchain. Blocks are summoned to life by miners, the players in the ecosystem who execute proof-of-work**.** A new block is accepted by the network each time a miner comes up with a new winning proof-of-work, which happens roughly every 10 minutes.
 

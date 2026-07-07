@@ -57,7 +57,7 @@ See: [Schema Markup](https://schema.org/docs/schemas.html), [JSON-LD](https://js
 
 This HTML guide should help you do the necessary and implement these markups: [HTML for beginners](https://www.websiteplanet.com/blog/html-guide-beginners/)
 
-Hugo users, kindly check this [article](https://stephenajulu.com/blog/how-to-add-schema-json-ld-to-your-hugo-blog-site) out.
+Hugo users, kindly check this [article](/blog/how-to-add-schema-json-ld-to-your-hugo-blog-site/) out.
 
 ## 4. Load Content/Site Fast
 

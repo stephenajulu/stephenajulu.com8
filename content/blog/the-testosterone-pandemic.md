@@ -108,7 +108,7 @@ Several studies continue to show that good regular sleep of 8 hours can increase
 
 ### Plastics(+microplastics found in food)
 
-Plastics often contain xenoestrogens. Xenoestrogens are everywhere, they can be found in food coloring, furniture, industrial products, plastic tubing, clothing, and personal grooming products(more on this can be found here: [Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics](https://stephenajulu.com/blog/endocrine-hormonal-disruptors-in-grooming-products-and-cosmetics/)).
+Plastics often contain xenoestrogens. Xenoestrogens are everywhere, they can be found in food coloring, furniture, industrial products, plastic tubing, clothing, and personal grooming products(more on this can be found here: [Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics](/blog/endocrine-hormonal-disruptors-in-grooming-products-and-cosmetics/)).
 
 The list is endless. 
 
@@ -122,7 +122,7 @@ But they don't have to.
 
 You can choose to negate these effects by drinking out of metal and glass containers.
 
-You can also avoid overly processed foods, plastic-wrapped foods, unhealthy soaps, unhealthy cooking oils(see more here: [Why I Advocate For Saturated Fats Over Vegetable Oils(Updated)](https://stephenajulu.com/blog/why-i-advocate-for-saturated-fats-over-vegetable-oils/)), and cosmetics.
+You can also avoid overly processed foods, plastic-wrapped foods, unhealthy soaps, unhealthy cooking oils(see more here: [Why I Advocate For Saturated Fats Over Vegetable Oils(Updated)](/blog/why-i-advocate-for-saturated-fats-over-vegetable-oils/)), and cosmetics.
 
 Try [DR. SQUATCH](https://drsquatch.com/) soap
 

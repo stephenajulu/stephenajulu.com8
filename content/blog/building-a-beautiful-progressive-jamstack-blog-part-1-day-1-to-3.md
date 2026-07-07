@@ -62,7 +62,7 @@ You can view the up to date version here: [**https://blog.stephenajulu.com**](ht
 * Add the Add to Homescreen below the service worker register
 * Add the Web Share API
 * Add the Push Notifications API
-* Link the blog back to [**stephenajulu.com**](https://stephenajulu.com)
+* Link the blog back to [**stephenajulu.com**](/)
 * Debug and make sure everything works well including the service worker.
 * Copy all blog posts from [**https://ajulusthoughts.wordpress.com**](https://ajulusthoughts.wordpress.com "https://ajulusthoughts.wordpress.com") to [**https://blog.stephenajulu.com**](https://blog.stephenajulu.com "https://blog.stephenajulu.com")
 * Optimize Image Assets
@@ -70,7 +70,7 @@ You can view the up to date version here: [**https://blog.stephenajulu.com**](ht
 
 Once all the steps are done, the blog should be able to be installed (like a native app), viewed offline (no internet thanks to the Service Worker), and when there’s internet i should be able to inform those who’ve installed it (thanks to the Push Notifications API) that there’s a new blog post, and inform them on the coming give away that is strictly reserved for them, among other things.
 
-**NOTE:** I keep reiterating my personal site every year, working on a new design, using hugo as well but still haven’t assigned the domain name, so you can get the sneak peak of the new design here: [**https://stephenajulu.nelify.com**](https://stephenajulu.nelify.com "https://stephenajulu.nelify.com") it’s version 5. The previous versions are in the footer of [**https://stephenajulu.com**](https://stephenajulu.com "https://stephenajulu.com"). Now why do i do this? To learn new technologies while doing something meaningful and also to make sure my site is up-to date. **Also note** [**ajulusthoughts.wordpress.com**](https://ajulusthoughts.wordpress.com) **is my sweetheart nothing would ever replace it unless it looks exactly like it and promises better performance**. It took me 5 years to build this blog, i am not throwing it away. It will still be updated and will remain great, might even get it’s domain name(ajulusthoughts.com) but [**blog.stephenajulu.com**](https://blog.stephenajulu.com) will be more like a personal blog while this remains a brand blog.
+**NOTE:** I keep reiterating my personal site every year, working on a new design, using hugo as well but still haven’t assigned the domain name, so you can get the sneak peak of the new design here: [**https://stephenajulu.nelify.com**](https://stephenajulu.nelify.com "https://stephenajulu.nelify.com") it’s version 5. The previous versions are in the footer of [**https://stephenajulu.com**](https://stephenajulu.com "https://stephenajulu.com"). Now why do i do this? To learn new technologies while doing something meaningful and also to make sure my site is up-to date. **Also note** [**ajulusthoughts.wordpress.com**](/) **is my sweetheart nothing would ever replace it unless it looks exactly like it and promises better performance**. It took me 5 years to build this blog, i am not throwing it away. It will still be updated and will remain great, might even get it’s domain name(ajulusthoughts.com) but [**blog.stephenajulu.com**](https://blog.stephenajulu.com) will be more like a personal blog while this remains a brand blog.
 
 ### **Important things to know**
 
@@ -105,7 +105,7 @@ TTT, First Meaningful Paint, First Contentful Paint, First CPU idle: 0.7 seconds
 **_Our Goal is 98 or 99_**  
 Sadly Day 4 will start tomorrow as i am working on fixing the hiccup we encountered myself, no response on the issue.
 
-### [**Ajulu’s Thoughts**](https://ajulusthoughts.wordpress.com) – Delivering Quality Tech, Cybersecurity & Dev Content Since November 2016
+### [**Ajulu’s Thoughts**](/) – Delivering Quality Tech, Cybersecurity & Dev Content Since November 2016
 
 Hey Devs? Found anything wrong with this info? Kindly write your comment down below on what to change.
 

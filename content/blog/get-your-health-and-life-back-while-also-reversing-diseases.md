@@ -63,7 +63,7 @@ Leave the ones that have 1, 2, or 3 ingredients max.
 
 These oils have been known to be extremely toxic to all living things, especially humans. They go rancid very quickly and even cause cancer because they become oxidized when heated.
 
-To learn more visit my article: [**Why I Advocate For Saturated Fats over "Vegetable" Oils**](https://stephenajulu.com/blog/why-i-advocate-for-saturated-fats-over-vegetable-oils/)
+To learn more visit my article: [**Why I Advocate For Saturated Fats over "Vegetable" Oils**](/blog/why-i-advocate-for-saturated-fats-over-vegetable-oils/)
 
 **Replace all your vegetable oils except Extra Virgin Olive Oil with Butter, Tallow, Lard, or Ghee.**
 
@@ -71,7 +71,7 @@ To learn more visit my article: [**Why I Advocate For Saturated Fats over "Veget
 
 Processed meats have soy which is known to cause male infertility. Plus they also have vegetable oils and preservatives which disrupt your endocrine system, inadvertently affecting your fertility.
 
-You can learn more about processed meats, soy, vegetable oils, and other endocrine disruptors here: [**Endocrine Disruptors: What They Are and How To Avoid Them**](https://stephenajulu.com/blog/endocrine-disruptors-what-they-are-how-to-avoid-them/)**.**
+You can learn more about processed meats, soy, vegetable oils, and other endocrine disruptors here: [**Endocrine Disruptors: What They Are and How To Avoid Them**](/blog/endocrine-disruptors-what-they-are-how-to-avoid-them/)**.**
 
 ### Step 4: Use whole, unprocessed foods
 

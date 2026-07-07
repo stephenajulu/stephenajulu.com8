@@ -66,13 +66,13 @@ Subscribe to the blog for more posts on security, privacy and anonymity.
 
 **You can go check out these posts to better protect yourself, family and friends from data insecurity, identity theft, breaches, data leaks, data theft, data manipulation and more.**
 
-[**Basic Data Security for Businesses and Individuals**](https://ajulusthoughts.wordpress.com/2020/01/27/basic-data-security/) **VERY IMPORTANT!**
+[**Basic Data Security for Businesses and Individuals**](/blog/basic-data-security/) **VERY IMPORTANT!**
 
 [**How & Why Big Tech Want’s to Ditch Passwords**](https://ajulusthoughts.wordpress.com/2020/01/24/why-big-tech-is-trying-to-get-rid-of-your-passwords/) **VERY IMPORTANT! x2**
 
 [**ProtonVPN: The World’s First Free Open Source VPN**](https://ajulusthoughts.wordpress.com/2020/01/21/protonvpn-is-now-the-worlds-first-fully-open-source-vpn-app/)
 
-[**Data, The New Gold**](https://ajulusthoughts.wordpress.com/2020/01/18/data-the-new-gold/) **VERY IMPORTANT!**
+[**Data, The New Gold**](/blog/data-the-new-gold/) **VERY IMPORTANT!**
 
 [**Privacy, Security and Anonymity: The Wonderful 3s**](https://ajulusthoughts.wordpress.com/2019/01/01/privacy-anonymity-and-security-the-wonderful-threes/) **VERY IMPORTANT!**
 
@@ -88,7 +88,7 @@ Subscribe to the blog for more posts on security, privacy and anonymity.
 
 [**Metadata: Data about Data and Social Media**](https://ajulusthoughts.wordpress.com/2019/07/01/data-about-data-metadata/) **VERY IMPORTANT**
 
-[**Tor, Proxychains and VPNs**](https://ajulusthoughts.wordpress.com/2019/11/24/tor-proxychains-and-vpns/)
+[**Tor, Proxychains and VPNs**](/blog/tor-proxychains-and-vpns/)
 
 Hope you learned something.
 

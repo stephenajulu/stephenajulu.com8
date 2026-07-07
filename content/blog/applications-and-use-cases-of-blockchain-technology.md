@@ -62,19 +62,19 @@ title: Applications and Use Cases of Blockchain Technology
 ---
 ### **1. Money transfers**
 
-The original concept behind the invention of [blockchain technology](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) is still a great application. Money transfers using [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) can be less expensive and faster than using existing money transfer services. This is especially true of cross-border transactions, which are often slow and expensive. Even in the modern U.S. financial system, money transfers between accounts can take days, while a blockchain transaction takes minutes.
+The original concept behind the invention of [blockchain technology](/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) is still a great application. Money transfers using [blockchain](/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) can be less expensive and faster than using existing money transfer services. This is especially true of cross-border transactions, which are often slow and expensive. Even in the modern U.S. financial system, money transfers between accounts can take days, while a blockchain transaction takes minutes.
 
 ### **2. Financial exchanges**
 
-Many companies have popped up over the past few years offering decentralized cryptocurrency exchanges. Using [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) for exchanges allows for faster and less expensive transactions. Moreover, a [decentralized exchange](https://stephenajulu.com/blog/decentralized-finance-defined/) doesn't require investors to deposit their assets with the centralized authority, which means they maintain greater control and security. While [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/)-based exchanges primarily deal in cryptocurrency, the concept could be applied to more traditional investments as well.
+Many companies have popped up over the past few years offering decentralized cryptocurrency exchanges. Using [blockchain](/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) for exchanges allows for faster and less expensive transactions. Moreover, a [decentralized exchange](/blog/decentralized-finance-defined/) doesn't require investors to deposit their assets with the centralized authority, which means they maintain greater control and security. While [blockchain](/blog/what-is-blockchain-how-does-it-work-blockchain-explained/)-based exchanges primarily deal in cryptocurrency, the concept could be applied to more traditional investments as well.
 
 ### **3. Lending**
 
-Lenders can use [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) to execute collateralized loans through [smart contracts](https://stephenajulu.com/blog/what-are-smart-contracts-smart-contracts-explained/). Smart contracts built on the [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) allow certain events to automatically trigger things like a service payment, a margin call, full repayment of the loan, and release of collateral. As a result, loan processing is faster and less expensive, and lenders can offer better rates.
+Lenders can use [blockchain](/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) to execute collateralized loans through [smart contracts](/blog/what-are-smart-contracts-smart-contracts-explained/). Smart contracts built on the [blockchain](/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) allow certain events to automatically trigger things like a service payment, a margin call, full repayment of the loan, and release of collateral. As a result, loan processing is faster and less expensive, and lenders can offer better rates.
 
 ### **4. Insurance**
 
-Using smart contracts on a [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) can provide greater transparency for customers and insurance providers. Recording all claims on a blockchain would keep customers from making duplicate claims for the same event. Furthermore, using smart contracts can speed up the process for claimants to receive payments.
+Using smart contracts on a [blockchain](/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) can provide greater transparency for customers and insurance providers. Recording all claims on a blockchain would keep customers from making duplicate claims for the same event. Furthermore, using smart contracts can speed up the process for claimants to receive payments.
 
 ### **5. Real estate**
 
@@ -102,7 +102,7 @@ Using blockchain technology to track music and film files distributed over the i
 
 ### **11. Non-fungible tokens**
 
-[Non-fungible tokens](https://stephenajulu.com/blog/what-are-nfts-non-fungible-tokens-explained/), or NFTs, are commonly thought of as ways to own the rights to digital art. Since the blockchain prevents data from existing in two places, putting an NFT on the blockchain guarantees that only a single copy of a piece of digital art exists. That can make it like [investing in physical art](https://www.fool.com/investing/stock-market/market-sectors/communication/media-stocks/art-investment/) but without the drawbacks of storage and maintenance.
+[Non-fungible tokens](/blog/what-are-nfts-non-fungible-tokens-explained/), or NFTs, are commonly thought of as ways to own the rights to digital art. Since the blockchain prevents data from existing in two places, putting an NFT on the blockchain guarantees that only a single copy of a piece of digital art exists. That can make it like [investing in physical art](https://www.fool.com/investing/stock-market/market-sectors/communication/media-stocks/art-investment/) but without the drawbacks of storage and maintenance.
 
 NFTs can have varied applications, and ultimately they're a way to convey ownership of anything that can be represented by data. That could be the deed to a house, the broadcast rights to a video, or an event ticket. Anything remotely unique could be an NFT.
 

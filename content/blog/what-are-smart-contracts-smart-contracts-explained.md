@@ -55,19 +55,19 @@ title: What are Smart Contracts? How Do They Work? Smart Contracts Explained
 ---
 A **smart contract** is a computer program or a transaction protocol that is intended to automatically execute, control, or document legally relevant events and actions according to the terms of a contract or an agreement. The objectives of smart contracts are the reduction of need in trusted intermediates, arbitrations, and enforcement costs, fraud losses, as well as the reduction of malicious and accidental exceptions.
 
-The code and the agreements contained therein exist across a distributed, decentralized [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) network. The code controls the execution, and transactions are trackable and irreversible.
+The code and the agreements contained therein exist across a distributed, decentralized [blockchain](/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) network. The code controls the execution, and transactions are trackable and irreversible.
 
 Smart contracts permit trusted transactions and agreements to be carried out among disparate, anonymous parties without the need for a central authority, legal system, or external enforcement mechanism.
 
-Smart contracts are made possible by [blockchains](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/), a network of computers that work together to enforce rules on the network without requiring the help of an intermediary.
+Smart contracts are made possible by [blockchains](/blog/what-is-blockchain-how-does-it-work-blockchain-explained/), a network of computers that work together to enforce rules on the network without requiring the help of an intermediary.
 
 ### How smart contracts work
 
-Smart contracts work by following simple “if/when…then…” statements that are written into code on a blockchain. A network of computers executes the actions when predetermined conditions have been met and verified. These actions could include releasing funds to the appropriate parties, registering a vehicle, sending notifications, or issuing a ticket. The [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) is then updated when the transaction is completed. That means the transaction cannot be changed, and only parties who have been granted permission can see the results.
+Smart contracts work by following simple “if/when…then…” statements that are written into code on a blockchain. A network of computers executes the actions when predetermined conditions have been met and verified. These actions could include releasing funds to the appropriate parties, registering a vehicle, sending notifications, or issuing a ticket. The [blockchain](/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) is then updated when the transaction is completed. That means the transaction cannot be changed, and only parties who have been granted permission can see the results.
 
 Within a smart contract, there can be as many stipulations as needed to satisfy the participants that the task will be completed satisfactorily. To establish the terms, participants must determine how transactions and their data are represented on the blockchain, agree on the “if/when...then…” rules that govern those transactions, explore all possible exceptions, and define a framework for resolving disputes.
 
-Then the smart contract can be programmed by a developer – although increasingly, organizations that use [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) for business provide templates, web interfaces, and other online tools to simplify structuring smart contracts.
+Then the smart contract can be programmed by a developer – although increasingly, organizations that use [blockchain](/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) for business provide templates, web interfaces, and other online tools to simplify structuring smart contracts.
 
 With conventional contracts, a document outlines the terms of a relationship between two parties, which is enforceable by law. If one Party A violates the terms, Party B can take Party A to court for not complying with the agreement. A smart contract fortifies such agreements in code so the rules are automatically enforced without courts (or any third party) getting involved.
 
@@ -88,7 +88,7 @@ Some common ways of using smart contracts are:
 * **Provide the third party**: Similar to how a software library works, smart contracts can work with other smart contracts in a chain.
 * **Storage**: Store information about an application, such as domain registration information or membership records. Storage in a blockchain like Ethereum is unique in that the data is immutable and can't be erased.
 
-### Examples of [blockchain platforms](https://stephenajulu.com/blog/6-cryptocurrencies-blockchains-with-massive-potential/) supporting smart contracts
+### Examples of [blockchain platforms](/blog/6-cryptocurrencies-blockchains-with-massive-potential/) supporting smart contracts
 
 * **Bitcoin:** Provides a Turing-incomplete script language that allows the creation of custom smart contracts on top of Bitcoin like multisignature accounts, payment channels, escrows, time locks, atomic cross-chain trading, oracles, or multi-party lottery with no operator.
 * **Cardano:** A blockchain platform for smart contracts, using proof of stake

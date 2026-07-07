@@ -67,7 +67,7 @@ However, KYC guidelines often contradict the privacy efforts of DeFi. DeFi answe
 
 So, KYT solves two issues at the same time — monitoring the real-time behavior of the transactions and ensuring the privacy of the users. This makes KYT one of the major scopes for decentralized finance use cases.
 
-> **Read More:** [What is DeFi?](https://stephenajulu.com/blog/decentralized-finance-defined/)
+> **Read More:** [What is DeFi?](/blog/decentralized-finance-defined/)
 
 #### Decentralized Autonomous Organizations or DAOs
 

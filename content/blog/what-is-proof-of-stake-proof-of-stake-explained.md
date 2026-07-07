@@ -56,7 +56,7 @@ Proof-of-stake is a method of maintaining the integrity of a cryptocurrency, pre
 
 To put it simply: Proof of stake is basically a process used to validate crypto transactions through staking.
 
-Both proof-of-work and proof-of-stake are what are called “consensus mechanisms,” the method by which a [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) maintains its integrity. Consensus is what addresses the "double spending" problem of digital money. If there were any way the user of a cryptocurrency could spend their coins more than once, it would undermine the entire system. The currency would be worthless.
+Both proof-of-work and proof-of-stake are what are called “consensus mechanisms,” the method by which a [blockchain](/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) maintains its integrity. Consensus is what addresses the "double spending" problem of digital money. If there were any way the user of a cryptocurrency could spend their coins more than once, it would undermine the entire system. The currency would be worthless.
 
 This is a tricky problem, especially with online currencies that have no central authority, such as a bank or a government, to keep track of how much money each person has, how they’re spending it, and whom they’re paying.
 
@@ -68,7 +68,7 @@ In PoS, the nodes of the network commit "stakes" of tokens for a set period of t
 
 To answer the question "what is proof of stake," we must first define what it means for blockchains to achieve consensus.
 
-[Blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) is a decentralized distributed ledger of transactions. Because there's no single server controlling the network, there has to be some way for everyone to agree on which transactions are valid. Otherwise, it would be possible for people to create fake transactions.
+[Blockchain](/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) is a decentralized distributed ledger of transactions. Because there's no single server controlling the network, there has to be some way for everyone to agree on which transactions are valid. Otherwise, it would be possible for people to create fake transactions.
 
 The servers in a blockchain are called "nodes." Nodes process transactions. Some nodes have the ability to add blocks of transactions to the chain, maintaining and growing the ledger. In Proof of Work (PoW) networks (which we'll cover later) like Bitcoin, these nodes are referred to as "miners."
 
