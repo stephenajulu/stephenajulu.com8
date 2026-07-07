@@ -1,27 +1,28 @@
 ---
-title: Reverse Aging Using Scientific and Unconventional Methods
-subtitle: Here are proven ways to reverse aging
-excerpt: Here are proven ways to reverse aging
+categories:
+- Health
+- Lifestyle
 date: 2022-08-24 15:08:00+03:00
+excerpt: Here are proven ways to reverse aging
 image: images/lady-with-anti-aging-genes.jpg
 image_alt: Here are proven ways to reverse aging
+layout: post
 seo:
-  title: Reverse Aging Using Scientific and Unconventional Methods
   description: Here are proven ways to reverse aging
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Reverse Aging Using Scientific and Unconventional Methods
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here are proven ways to reverse aging
-    keyName: property
-  - name: og:image
-    value: images/lady-with-anti-aging-genes.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/lady-with-anti-aging-genes.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +30,22 @@ seo:
   - name: twitter:description
     value: Here are proven ways to reverse aging
   - name: twitter:image
-    value: images/lady-with-anti-aging-genes.jpg
     relativeUrl: true
-layout: post
+    value: images/lady-with-anti-aging-genes.jpg
+  title: Reverse Aging Using Scientific and Unconventional Methods
+subtitle: Here are proven ways to reverse aging
+tags:
+- aging
+- age
+- reverse aging
+- fasting
+- omad
+- if
+- diet
+- younger
+- look younger
+title: Reverse Aging Using Scientific and Unconventional Methods
 ---
-
 Hello there! Welcome.
 
 In this article, I'll cover proven methods to "de-age" yourself by 1, 5, and even 10 years.

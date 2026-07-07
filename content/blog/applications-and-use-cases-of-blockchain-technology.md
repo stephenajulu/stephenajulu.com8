@@ -1,27 +1,28 @@
 ---
-title: Applications and Use Cases of Blockchain Technology
-subtitle: Here are Some Applications and Use Cases of Blockchain Technology
-excerpt: Here are Some Applications and Use Cases of Blockchain Technology
+categories:
+- Technology
+- Finance
 date: 2021-12-09 13:01:00+03:00
+excerpt: Here are Some Applications and Use Cases of Blockchain Technology
 image: images/mit-algorand-01.jpg
 image_alt: Here are Some Applications and Use Cases of Blockchain Technology
+layout: post
 seo:
-  title: Applications and Use Cases of Blockchain Technology
   description: Here are Some Applications and Use Cases of Blockchain Technology
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Applications and Use Cases of Blockchain Technology
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here are Some Applications and Use Cases of Blockchain Technology
-    keyName: property
-  - name: og:image
-    value: images/mit-algorand-01.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/mit-algorand-01.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +30,36 @@ seo:
   - name: twitter:description
     value: Here are Some Applications and Use Cases of Blockchain Technology
   - name: twitter:image
-    value: images/mit-algorand-01.jpg
     relativeUrl: true
-layout: post
+    value: images/mit-algorand-01.jpg
+  title: Applications and Use Cases of Blockchain Technology
+subtitle: Here are Some Applications and Use Cases of Blockchain Technology
+tags:
+- technology
+- finance
+- blockchain
+- hyperledger
+- ledger
+- blockchains
+- blocks
+- decentralized
+- decentralized finance
+- cryptography
+- cryptocurrencies
+- cryptocurrency
+- crypto
+- gamefi
+- nft
+- non fungible tokens
+- blockchain technology
+- dao
+- defi
+- digitization
+- finance and economy
+- fintech
+- financial technology
+title: Applications and Use Cases of Blockchain Technology
 ---
-
 ### **1. Money transfers**
 
 The original concept behind the invention of [blockchain technology](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) is still a great application. Money transfers using [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) can be less expensive and faster than using existing money transfer services. This is especially true of cross-border transactions, which are often slow and expensive. Even in the modern U.S. financial system, money transfers between accounts can take days, while a blockchain transaction takes minutes.

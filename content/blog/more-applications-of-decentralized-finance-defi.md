@@ -1,27 +1,28 @@
 ---
-title: More Applications of Decentralized Finance(DeFi)
-subtitle: Here are a few more applications and use cases of Decentralized Finance
-excerpt: Here are a few more applications and use cases of Decentralized Finance
+categories:
+- Technology
+- Finance
 date: 2021-11-29 10:48:00+03:00
+excerpt: Here are a few more applications and use cases of Decentralized Finance
 image: images/10-defi-coins.jpg
 image_alt: Here are a few more applications and use cases of Decentralized Finance
+layout: post
 seo:
-  title: More Applications of Decentralized Finance(DeFi)
   description: Here are a few more applications and use cases of Decentralized Finance
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: More Applications of Decentralized Finance(DeFi)
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here are a few more applications and use cases of Decentralized Finance
-    keyName: property
-  - name: og:image
-    value: images/10-defi-coins.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/10-defi-coins.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +30,21 @@ seo:
   - name: twitter:description
     value: Here are a few more applications and use cases of Decentralized Finance
   - name: twitter:image
-    value: images/10-defi-coins.jpg
     relativeUrl: true
-layout: post
+    value: images/10-defi-coins.jpg
+  title: More Applications of Decentralized Finance(DeFi)
+subtitle: Here are a few more applications and use cases of Decentralized Finance
+tags:
+- defi
+- decentralized finance
+- finance
+- technology
+- tech
+- financial technology
+- fintech
+- blockchain
+title: More Applications of Decentralized Finance(DeFi)
 ---
-
 ### Refresher:
 
 DeFi is short for “decentralized finance,” an umbrella term for a variety of financial applications in cryptocurrency or blockchain geared toward disrupting financial intermediaries.

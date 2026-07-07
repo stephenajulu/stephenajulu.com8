@@ -1,33 +1,34 @@
 ---
-title: Host Your Website For Free, Make It Web3 Compliant and Earn Money From It
-subtitle: How to host your website for free, make it web3 friendly, and earn money
-  from your content
+categories:
+- Technology
+- Web3
+- Finance
+date: 2022-05-26 20:30:00+03:00
 excerpt: How to host your website for free, make it web3 friendly, and earn money
   from your content
-date: 2022-05-26 20:30:00+03:00
 image: images/le-buzz-kieii2b9gku-unsplash.jpg
 image_alt: How to host your website for free, make it web3 friendly, and earn money
   from your content
+layout: post
 seo:
-  title: Host Your Website For Free, Make It Web3 Compliant and Earn Money From It
   description: How to host your website for free, make it web3 friendly, and earn
     money from your content
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Host Your Website For Free, Make It Web3 Compliant and Earn Money From
       It
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: How to host your website for free, make it web3 friendly, and earn money
       from your content
-    keyName: property
-  - name: og:image
-    value: images/le-buzz-kieii2b9gku-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/le-buzz-kieii2b9gku-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -37,11 +38,22 @@ seo:
     value: How to host your website for free, make it web3 friendly, and earn money
       from your content
   - name: twitter:image
-    value: images/le-buzz-kieii2b9gku-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/le-buzz-kieii2b9gku-unsplash.jpg
+  title: Host Your Website For Free, Make It Web3 Compliant and Earn Money From It
+subtitle: How to host your website for free, make it web3 friendly, and earn money
+  from your content
+tags:
+- technology
+- web3
+- finance
+- bat
+- basicattentiontoken
+- netlify
+- fleek
+- heroku
+title: Host Your Website For Free, Make It Web3 Compliant and Earn Money From It
 ---
-
 ### Host Your Website For Free
 
 #### Static Websites

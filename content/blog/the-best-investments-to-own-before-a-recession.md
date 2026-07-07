@@ -1,32 +1,30 @@
 ---
-title: The Best Investments To Own Before A Recession (UPDATED)
-subtitle: Here are the best investments that can act as hedges against inflation and
-  recession.
+categories: []
+date: 2022-06-17 16:00:00+03:00
 excerpt: Here are the best investments that can act as hedges against inflation and
   recession.
-date: 2022-06-17 16:00:00+03:00
 image: images/christian-wiediger-poovzgc3y6k-unsplash.jpg
 image_alt: Here are the best investments that can act as hedges against inflation
   and recession.
+layout: post
 seo:
-  title: The Best Investments To Own Before A Recession (UPDATED)
   description: Here are the best investments that can act as hedges against inflation
     and recession.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: The Best Investments To Own Before A Recession (UPDATED)
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here are the best investments that can act as hedges against inflation
       and recession.
-    keyName: property
-  - name: og:image
-    value: images/christian-wiediger-poovzgc3y6k-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/christian-wiediger-poovzgc3y6k-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +33,20 @@ seo:
     value: Here are the best investments that can act as hedges against inflation
       and recession.
   - name: twitter:image
-    value: images/christian-wiediger-poovzgc3y6k-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/christian-wiediger-poovzgc3y6k-unsplash.jpg
+  title: The Best Investments To Own Before A Recession (UPDATED)
+subtitle: Here are the best investments that can act as hedges against inflation and
+  recession.
+tags:
+- investments
+- recession
+- inflation
+- investing
+- hedge
+- hedging
+title: The Best Investments To Own Before A Recession (UPDATED)
 ---
-
 Hello there, today I'll be listing some hedges against inflation. I'll go deeper into these in individual posts covering each.
 
 1. Watches - Rolex, Richard Mille, Audemars Piguet, and Patek Phillipie are good starting points

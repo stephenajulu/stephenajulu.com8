@@ -1,38 +1,36 @@
 ---
-title: 'The Debt Problem in Kenya: Causes, Effects, and Solutions'
-subtitle: Discover the shocking truth behind Kenya's debt crisis and how it could
-  impact the economy and the population. This comprehensive guide will provide you
-  with the causes, effects, and solutions to help you understand the situation better.
+categories:
+- Kenya
+date: 2023-02-24 09:45:00+03:00
 excerpt: Discover the shocking truth behind Kenya's debt crisis and how it could impact
   the economy and the population. This comprehensive guide will provide you with the
   causes, effects, and solutions to help you understand the situation better.
-date: 2023-02-24 09:45:00+03:00
 image: images/photo-1596005554384-d293674c91d7.jpeg
 image_alt: Discover the shocking truth behind Kenya's debt crisis and how it could
   impact the economy and the population. This comprehensive guide will provide you
   with the causes, effects, and solutions to help you understand the situation better.
+layout: post
 seo:
-  title: 'The Debt Problem in Kenya: Causes, Effects, and Solutions'
   description: Discover the shocking truth behind Kenya's debt crisis and how it could
     impact the economy and the population. This comprehensive guide will provide you
     with the causes, effects, and solutions to help you understand the situation better.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'The Debt Problem in Kenya: Causes, Effects, and Solutions'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Discover the shocking truth behind Kenya's debt crisis and how it could
       impact the economy and the population. This comprehensive guide will provide
       you with the causes, effects, and solutions to help you understand the situation
       better.
-    keyName: property
-  - name: og:image
-    value: images/photo-1596005554384-d293674c91d7.jpeg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/photo-1596005554384-d293674c91d7.jpeg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -43,11 +41,24 @@ seo:
       you with the causes, effects, and solutions to help you understand the situation
       better.
   - name: twitter:image
-    value: images/photo-1596005554384-d293674c91d7.jpeg
     relativeUrl: true
-layout: post
+    value: images/photo-1596005554384-d293674c91d7.jpeg
+  title: 'The Debt Problem in Kenya: Causes, Effects, and Solutions'
+subtitle: Discover the shocking truth behind Kenya's debt crisis and how it could
+  impact the economy and the population. This comprehensive guide will provide you
+  with the causes, effects, and solutions to help you understand the situation better.
+tags:
+- kenya
+- debt crisis
+- public debt
+- government
+- corruption
+- debt
+- ke
+- ksh
+- kes
+title: 'The Debt Problem in Kenya: Causes, Effects, and Solutions'
 ---
-
 Kenya, like many other developing countries, is facing a significant debt problem. The country's total public debt has been rising steadily in recent years, with the government borrowing heavily to finance infrastructure projects and budget deficits. In this article, we will examine the causes and effects of Kenya's debt problem and suggest possible solutions.
 
 ## Introduction

@@ -1,27 +1,29 @@
 ---
-title: The 48 Laws of Power(Listed)
-subtitle: ''
-excerpt: ''
+categories:
+- self improvement
+- books
+- laws of power
 date: 2021-08-09 16:07:00+03:00
+excerpt: ''
 image: images/48lawsof-power.jpg
 image_alt: ''
+layout: post
 seo:
-  title: The 48 Laws of Power(Listed)
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: The 48 Laws of Power(Listed)
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/48lawsof-power.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/48lawsof-power.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/48lawsof-power.jpg
     relativeUrl: true
-layout: post
+    value: images/48lawsof-power.jpg
+  title: The 48 Laws of Power(Listed)
+subtitle: ''
+tags:
+- self improvement
+- books
+- laws of power
+title: The 48 Laws of Power(Listed)
 ---
-
 ### Law 1: Never outshine the master
 
 ### Law 2: Never put too much trust in friends, learn how to use enemies

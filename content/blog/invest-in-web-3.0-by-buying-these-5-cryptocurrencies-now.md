@@ -1,27 +1,27 @@
 ---
-title: Invest In Web 3.0 By Buying These 5 Cryptocurrencies Now
-subtitle: Here's how to invest in Web 3.0 through cryptocurrencies
-excerpt: Here's how to invest in Web 3.0 through cryptocurrencies
+categories:
+- Technology
 date: 2021-12-08 16:13:00+03:00
+excerpt: Here's how to invest in Web 3.0 through cryptocurrencies
 image: images/web-3-0.jpg
 image_alt: Here's how to invest in Web 3.0 through cryptocurrencies
+layout: post
 seo:
-  title: Invest In Web 3.0 By Buying These 5 Cryptocurrencies Now
   description: Here's how to invest in Web 3.0 through cryptocurrencies
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Invest In Web 3.0 By Buying These 5 Cryptocurrencies Now
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here's how to invest in Web 3.0 through cryptocurrencies
-    keyName: property
-  - name: og:image
-    value: images/web-3-0.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/web-3-0.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,26 @@ seo:
   - name: twitter:description
     value: Here's how to invest in Web 3.0 through cryptocurrencies
   - name: twitter:image
-    value: images/web-3-0.jpg
     relativeUrl: true
-layout: post
+    value: images/web-3-0.jpg
+  title: Invest In Web 3.0 By Buying These 5 Cryptocurrencies Now
+subtitle: Here's how to invest in Web 3.0 through cryptocurrencies
+tags:
+- technology
+- decentralized
+- decentralized internet
+- web3
+- web30
+- decentralized storage
+- decentralized web
+- file cabinet
+- helium
+- flux
+- filecoin
+- polkadot
+- kusama
+title: Invest In Web 3.0 By Buying These 5 Cryptocurrencies Now
 ---
-
 The internet is slowly moving towards blockchain and has had an impact on investors who felt the power and freedom of the decentralized currency. Investors have made huge profits based on the DeFi protocol, and countries are trying to get on their hands on this emerging asset. Amid this is rising Web 3.0. It aims to bring to the internet what DeFi brought to the banking sector. Theoretically, Web 3.0 is the third version of the internet and aims to take back power from large tech companies. The Web 3.0 revolution will take place in the next couple of years, and the credit goes to blockchain technology. So, if you want to invest in the Web 3.0 era, why not headstart with these cryptocurrencies?
 
 **Helium:** Helium is one of the most popular Web 3.0 cryptocurrencies and is responsible for making the internet accessible to everyone. This project offers a web service designed to compete with ISP giants like Verizon and AT&T.

@@ -1,28 +1,29 @@
 ---
-title: What are CBDCs? Central Bank Digital Currency Defined
-subtitle: Why Countries are rushing to create their own central bank digital currency.
-excerpt: Why Countries are rushing to create their own central bank digital currency.
+categories:
+- Technology
+- Finance
 date: 2021-12-09 12:31:00+03:00
+excerpt: Why Countries are rushing to create their own central bank digital currency.
 image: images/cbdc.jpeg
 image_alt: Why Countries are rushing to create their own central bank digital currency.
+layout: post
 seo:
-  title: What are CBDCs? Central Bank Digital Currency Defined
   description: Why Countries are rushing to create their own central bank digital
     currency.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: What are CBDCs? Central Bank Digital Currency Defined
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Why Countries are rushing to create their own central bank digital currency.
-    keyName: property
-  - name: og:image
-    value: images/cbdc.jpeg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/cbdc.jpeg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -30,11 +31,21 @@ seo:
   - name: twitter:description
     value: Why Countries are rushing to create their own central bank digital currency.
   - name: twitter:image
-    value: images/cbdc.jpeg
     relativeUrl: true
-layout: post
+    value: images/cbdc.jpeg
+  title: What are CBDCs? Central Bank Digital Currency Defined
+subtitle: Why Countries are rushing to create their own central bank digital currency.
+tags:
+- technology
+- finance
+- cbdc
+- central bank
+- central banks
+- central bank digital currency
+- stablecoin
+- digital currency
+title: What are CBDCs? Central Bank Digital Currency Defined
 ---
-
 The future is digital and virtual.
 
 CBDC stands for “central bank digital currency,” a new type of currency that governments around the world are experimenting with. What sets a CBDC apart from established currencies is that proponents hope it can use new payment technology, typically a blockchain, to potentially increase payment efficiency and lower costs.

@@ -1,27 +1,27 @@
 ---
-title: 'The Future of Daily Tech: Holograms'
-subtitle: Join us to learn about the future of daily tech, holograms.
-excerpt: Join us to learn about the future of daily tech, holograms.
+categories:
+- Technology
 date: 2023-02-02 10:33:00+03:00
+excerpt: Join us to learn about the future of daily tech, holograms.
 image: images/new-technology-makes-real-time-3d-holograms-reality.jpg
 image_alt: Join us to learn about the future of daily tech, holograms.
+layout: post
 seo:
-  title: 'The Future of Daily Tech: Holograms'
   description: Join us to learn about the future of daily tech, holograms.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'The Future of Daily Tech: Holograms'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Join us to learn about the future of daily tech, holograms.
-    keyName: property
-  - name: og:image
-    value: images/new-technology-makes-real-time-3d-holograms-reality.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/new-technology-makes-real-time-3d-holograms-reality.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,15 @@ seo:
   - name: twitter:description
     value: Join us to learn about the future of daily tech, holograms.
   - name: twitter:image
-    value: images/new-technology-makes-real-time-3d-holograms-reality.jpg
     relativeUrl: true
-layout: post
+    value: images/new-technology-makes-real-time-3d-holograms-reality.jpg
+  title: 'The Future of Daily Tech: Holograms'
+subtitle: Join us to learn about the future of daily tech, holograms.
+tags:
+- holograms
+- technology
+title: 'The Future of Daily Tech: Holograms'
 ---
-
 Technology is constantly evolving, and with each passing day, it seems like there is a new and exciting advancement that is just around the corner. One of the most talked-about technological advancements in recent years has been the development of holograms, and how they could change the way we interact with technology in our daily lives. In this article, we will be taking a closer look at what holograms are, how they work, and the potential impact they could have on the future of daily tech.
 
 ## What are Holograms?

@@ -1,37 +1,36 @@
 ---
-title: Conversations with ChatGPT - Exploring the Science Behind Nutrition
-subtitle: 'Get the latest research-based information on nutrition, health and wellness
-  from a knowledgeable AI. Clearing up misconceptions on diet, from raw eggs to animal
-  fats and more. '
+categories:
+- Technology
+- Lifestyle
+date: 2023-02-01 15:49:00+03:00
 excerpt: 'Get the latest research-based information on nutrition, health and wellness
   from a knowledgeable AI. Clearing up misconceptions on diet, from raw eggs to animal
   fats and more. '
-date: 2023-02-01 15:49:00+03:00
 image: images/maxresdefault-1.jpg
 image_alt: 'Get the latest research-based information on nutrition, health and wellness
   from a knowledgeable AI. Clearing up misconceptions on diet, from raw eggs to animal
   fats and more. '
+layout: post
 seo:
-  title: Conversations with ChatGPT - Exploring the Science Behind Nutrition
   description: 'Get the latest research-based information on nutrition, health and
     wellness from a knowledgeable AI. Clearing up misconceptions on diet, from raw
     eggs to animal fats and more. '
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Conversations with ChatGPT - Exploring the Science Behind Nutrition
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: 'Get the latest research-based information on nutrition, health and wellness
       from a knowledgeable AI. Clearing up misconceptions on diet, from raw eggs to
       animal fats and more. '
-    keyName: property
-  - name: og:image
-    value: images/maxresdefault-1.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/maxresdefault-1.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -41,11 +40,35 @@ seo:
       from a knowledgeable AI. Clearing up misconceptions on diet, from raw eggs to
       animal fats and more. '
   - name: twitter:image
-    value: images/maxresdefault-1.jpg
     relativeUrl: true
-layout: post
+    value: images/maxresdefault-1.jpg
+  title: Conversations with ChatGPT - Exploring the Science Behind Nutrition
+subtitle: 'Get the latest research-based information on nutrition, health and wellness
+  from a knowledgeable AI. Clearing up misconceptions on diet, from raw eggs to animal
+  fats and more. '
+tags:
+- nutrition
+- diet
+- health
+- wellness
+- AI
+- myths
+- facts
+- raw eggs
+- animal fats
+- phytotoxins
+- testosterone
+- hormones
+- vegan
+- vegetables
+- grains
+- processed foods
+- oxidative stress
+- hearthealth
+- chatgpt
+- carnivore
+title: Conversations with ChatGPT - Exploring the Science Behind Nutrition
 ---
-
 **Stephen:** Question, isn't cholesterol important for hormone synthesis?
 
 **ChatGPT:** Yes, cholesterol is important for hormone synthesis. Cholesterol is a building block for several hormones, including testosterone, estrogen, and cortisol, as well as vitamin D synthesis. The body can produce its own cholesterol, but it can also be obtained from dietary sources such as animal products, including red meat. However, it is important to keep in mind that excessive consumption of saturated fat and cholesterol from dietary sources can have negative effects on heart health, so moderation is key.

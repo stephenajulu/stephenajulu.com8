@@ -1,32 +1,31 @@
 ---
-title: How To Add Google Analytics to Your Website and Measure Traffic
-subtitle: Here's how you can easily add Google Analytics to your website and start
-  measuring your traffic and more.
+categories:
+- Technology
+date: 2021-12-31 08:20:00+03:00
 excerpt: Here's how you can easily add Google Analytics to your website and start
   measuring your traffic and more.
-date: 2021-12-31 08:20:00+03:00
 image: images/ga.png
 image_alt: Here's how you can easily add Google Analytics to your website and start
   measuring your traffic and more.
+layout: post
 seo:
-  title: How To Add Google Analytics to Your Website and Measure Traffic
   description: Here's how you can easily add Google Analytics to your website and
     start measuring your traffic and more.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: How To Add Google Analytics to Your Website and Measure Traffic
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here's how you can easily add Google Analytics to your website and start
       measuring your traffic and more.
-    keyName: property
-  - name: og:image
-    value: images/ga.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/ga.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +34,25 @@ seo:
     value: Here's how you can easily add Google Analytics to your website and start
       measuring your traffic and more.
   - name: twitter:image
-    value: images/ga.png
     relativeUrl: true
-layout: post
+    value: images/ga.png
+  title: How To Add Google Analytics to Your Website and Measure Traffic
+subtitle: Here's how you can easily add Google Analytics to your website and start
+  measuring your traffic and more.
+tags:
+- search engine optimization
+- google analytics
+- web analytics
+- analytics
+- website
+- seo
+- wordpress
+- html
+- static site
+- static sites
+- traffic
+title: How To Add Google Analytics to Your Website and Measure Traffic
 ---
-
 Hi, today I'd like to help you set up Google Analytics and monitor your traffic.
 
 Before we go on, I provide a microservice where I set this(Google Analytics) up for you so that you don't have to worry about the long process, code, and all the other things we go through here in this article, so contact me via [email](mailto:alunje73@gmail.com) or [visit my contact page](/contact) to order, fast and simple.

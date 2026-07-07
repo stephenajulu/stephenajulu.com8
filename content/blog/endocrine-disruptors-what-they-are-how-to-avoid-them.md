@@ -1,32 +1,31 @@
 ---
-title: 'Endocrine Disruptors: What They Are & How To Avoid Them'
-subtitle: In this article we will cover endocrine disruptors, what they are, what
-  they do and how to avoid them
+categories:
+- Lifestyle
+date: 2022-06-15 21:03:00+03:00
 excerpt: In this article we will cover endocrine disruptors, what they are, what they
   do and how to avoid them
-date: 2022-06-15 21:03:00+03:00
 image: images/benjamin-lehman-gkz-k3xf25w-unsplash.jpg
 image_alt: In this article we will cover endocrine disruptors, what they are, what
   they do and how to avoid them
+layout: post
 seo:
-  title: 'Endocrine Disruptors: What They Are & How To Avoid Them'
   description: In this article we will cover endocrine disruptors, what they are,
     what they do and how to avoid them
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'Endocrine Disruptors: What They Are & How To Avoid Them'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: In this article we will cover endocrine disruptors, what they are, what
       they do and how to avoid them
-    keyName: property
-  - name: og:image
-    value: images/benjamin-lehman-gkz-k3xf25w-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/benjamin-lehman-gkz-k3xf25w-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +34,27 @@ seo:
     value: In this article we will cover endocrine disruptors, what they are, what
       they do and how to avoid them
   - name: twitter:image
-    value: images/benjamin-lehman-gkz-k3xf25w-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/benjamin-lehman-gkz-k3xf25w-unsplash.jpg
+  title: 'Endocrine Disruptors: What They Are & How To Avoid Them'
+subtitle: In this article we will cover endocrine disruptors, what they are, what
+  they do and how to avoid them
+tags:
+- endocrinology
+- endocrine
+- endocrine system
+- hormonal therapy
+- testosterone
+- progesterone
+- estrogen
+- hormones
+- hormonal
+- lifestyle
+- endocrine disruptors
+- endocrine disruptor
+- disruptor
+title: 'Endocrine Disruptors: What They Are & How To Avoid Them'
 ---
-
 In this article, I will go over endocrine disruptors that disrupt normal hormonal health. Let's first start with the definition and work of the endocrine system.
 
 #### What is the endocrine system and what are its functions?

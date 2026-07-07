@@ -1,42 +1,39 @@
 ---
-title: 'For The Love of Hoodies: ESNTLS Review'
-subtitle: Discover the world of luxury streetwear with the ultimate ESNTLS review.
-  Learn about the premium materials, unique designs, and exceptional craftsmanship
-  that make ESNTLS hoodies stand out. Read now to find out why ESNTLS is worth the
-  investment.
+categories:
+- Lifestyle
+date: 2023-02-10 10:00:00+03:00
 excerpt: Discover the world of luxury streetwear with the ultimate ESNTLS review.
   Learn about the premium materials, unique designs, and exceptional craftsmanship
   that make ESNTLS hoodies stand out. Read now to find out why ESNTLS is worth the
   investment.
-date: 2023-02-10 10:00:00+03:00
 image: images/photo-1502547645797-4d2b434459af.jpeg
 image_alt: Discover the world of luxury streetwear with the ultimate ESNTLS review.
   Learn about the premium materials, unique designs, and exceptional craftsmanship
   that make ESNTLS hoodies stand out. Read now to find out why ESNTLS is worth the
   investment.
+layout: post
 seo:
-  title: 'For The Love of Hoodies: ESNTLS Review'
   description: Discover the world of luxury streetwear with the ultimate ESNTLS review.
     Learn about the premium materials, unique designs, and exceptional craftsmanship
     that make ESNTLS hoodies stand out. Read now to find out why ESNTLS is worth the
     investment.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'For The Love of Hoodies: ESNTLS Review'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Discover the world of luxury streetwear with the ultimate ESNTLS review.
       Learn about the premium materials, unique designs, and exceptional craftsmanship
       that make ESNTLS hoodies stand out. Read now to find out why ESNTLS is worth
       the investment.
-    keyName: property
-  - name: og:image
-    value: images/photo-1502547645797-4d2b434459af.jpeg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/photo-1502547645797-4d2b434459af.jpeg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -47,11 +44,18 @@ seo:
       that make ESNTLS hoodies stand out. Read now to find out why ESNTLS is worth
       the investment.
   - name: twitter:image
-    value: images/photo-1502547645797-4d2b434459af.jpeg
     relativeUrl: true
-layout: post
+    value: images/photo-1502547645797-4d2b434459af.jpeg
+  title: 'For The Love of Hoodies: ESNTLS Review'
+subtitle: Discover the world of luxury streetwear with the ultimate ESNTLS review.
+  Learn about the premium materials, unique designs, and exceptional craftsmanship
+  that make ESNTLS hoodies stand out. Read now to find out why ESNTLS is worth the
+  investment.
+tags:
+- esntls
+- hoodies
+title: 'For The Love of Hoodies: ESNTLS Review'
 ---
-
 Hoodies have become an essential part of our wardrobe, especially during the colder seasons. They are comfortable, stylish, and versatile, making them a perfect choice for casual outings and daily wear. With so many options available in the market, it can be overwhelming to choose the right one for you. In this article, we take a closer look at ESNTLS, one of the most popular hoodie brands, and what makes them stand out from the rest.
 
 ## What is ESNTLS?

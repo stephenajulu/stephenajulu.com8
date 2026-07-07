@@ -1,32 +1,33 @@
 ---
-title: What are NFTs? Non Fungible Tokens Explained
-subtitle: In this article, i'll tell you exactly what nfts are and why they are worth
-  a lot of money. Non Fungible Tokens Explained.
+categories:
+- Technology
+- Art
+- Finance
+date: 2021-11-30 18:36:00+03:00
 excerpt: In this article, i'll tell you exactly what nfts are and why they are worth
   a lot of money. Non Fungible Tokens Explained.
-date: 2021-11-30 18:36:00+03:00
 image: images/nft-art-what-is-it.jpg
 image_alt: In this article, i'll tell you exactly what nfts are and why they are worth
   a lot of money. Non Fungible Tokens Explained.
+layout: post
 seo:
-  title: What are NFTs? Non Fungible Tokens Explained
   description: In this article, i'll tell you exactly what nfts are and why they are
     worth a lot of money. Non Fungible Tokens Explained.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: What are NFTs? Non Fungible Tokens Explained
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: In this article, i'll tell you exactly what nfts are and why they are worth
       a lot of money. Non Fungible Tokens Explained.
-    keyName: property
-  - name: og:image
-    value: images/nft-art-what-is-it.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/nft-art-what-is-it.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +36,31 @@ seo:
     value: In this article, i'll tell you exactly what nfts are and why they are worth
       a lot of money. Non Fungible Tokens Explained.
   - name: twitter:image
-    value: images/nft-art-what-is-it.jpg
     relativeUrl: true
-layout: post
+    value: images/nft-art-what-is-it.jpg
+  title: What are NFTs? Non Fungible Tokens Explained
+subtitle: In this article, i'll tell you exactly what nfts are and why they are worth
+  a lot of money. Non Fungible Tokens Explained.
+tags:
+- art
+- nft
+- nfts
+- non fungible tokens
+- non fungible token
+- tokens
+- digital art
+- cryptocurrencies
+- crypto
+- cryptocurrency
+- tech
+- technology
+- finance
+- blockchain
+- opensea
+- mint
+- minting
+title: What are NFTs? Non Fungible Tokens Explained
 ---
-
 Hi there! Today i'd like to talk about NFTs and all the hype surrounding them right now. To begin, we must first know what they are. So,
 
 ### What is an NFT?

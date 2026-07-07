@@ -1,32 +1,32 @@
 ---
-title: 'Outlier Male Series: Mind, Body and Spirit'
-subtitle: Here we continue to discuss how one can become an outlier male by building
-  the fundamentals, the mind, body and spirit.
+categories:
+- lifestyle
+- masculinity
+date: 2023-01-02 13:00:00+03:00
 excerpt: Here we continue to discuss how one can become an outlier male by building
   the fundamentals, the mind, body and spirit.
-date: 2023-01-02 13:00:00+03:00
 image: images/photo-nic-khhukoxqo4k-unsplash.jpg
 image_alt: Here we continue to discuss how one can become an outlier male by building
   the fundamentals, the mind, body and spirit.
+layout: post
 seo:
-  title: 'Outlier Male Series: Mind, Body and Spirit'
   description: Here we continue to discuss how one can become an outlier male by building
     the fundamentals, the mind, body and spirit.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'Outlier Male Series: Mind, Body and Spirit'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here we continue to discuss how one can become an outlier male by building
       the fundamentals, the mind, body and spirit.
-    keyName: property
-  - name: og:image
-    value: images/photo-nic-khhukoxqo4k-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/photo-nic-khhukoxqo4k-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +35,28 @@ seo:
     value: Here we continue to discuss how one can become an outlier male by building
       the fundamentals, the mind, body and spirit.
   - name: twitter:image
-    value: images/photo-nic-khhukoxqo4k-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/photo-nic-khhukoxqo4k-unsplash.jpg
+  title: 'Outlier Male Series: Mind, Body and Spirit'
+subtitle: Here we continue to discuss how one can become an outlier male by building
+  the fundamentals, the mind, body and spirit.
+tags:
+- lifestyle
+- masculinity
+- health
+- life optimization
+- self improvement
+- personal development
+- men
+- man
+- mind
+- body
+- spirit
+- growth
+- skills
+- faith
+title: 'Outlier Male Series: Mind, Body and Spirit'
 ---
-
 Hello Guys,
 
 Now here's the game plan.

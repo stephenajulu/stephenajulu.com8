@@ -1,32 +1,31 @@
 ---
-title: Room/Apartment/House Design Inspiration For Men
-subtitle: Here are some rooms, apartments, bachelor pads, and house design inspirations
-  for men
+categories:
+- Design
+date: 2022-07-15 09:30:00+03:00
 excerpt: Here are some rooms, apartments, bachelor pads, and house design inspirations
   for men
-date: 2022-07-15 09:30:00+03:00
 image: images/c428c262c47eb50ceb459d7d5f07ab43.jpg
 image_alt: Here are some rooms, apartments, bachelor pads, and house design inspirations
   for men
+layout: post
 seo:
-  title: Room/Apartment/House Design Inspiration For Men
   description: Here are some rooms, apartments, bachelor pads, and house design inspirations
     for men
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Room/Apartment/House Design Inspiration For Men
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here are some rooms, apartments, bachelor pads, and house design inspirations
       for men
-    keyName: property
-  - name: og:image
-    value: images/c428c262c47eb50ceb459d7d5f07ab43.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/c428c262c47eb50ceb459d7d5f07ab43.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +34,23 @@ seo:
     value: Here are some rooms, apartments, bachelor pads, and house design inspirations
       for men
   - name: twitter:image
-    value: images/c428c262c47eb50ceb459d7d5f07ab43.jpg
     relativeUrl: true
-layout: post
+    value: images/c428c262c47eb50ceb459d7d5f07ab43.jpg
+  title: Room/Apartment/House Design Inspiration For Men
+subtitle: Here are some rooms, apartments, bachelor pads, and house design inspirations
+  for men
+tags:
+- design
+- interior design
+- masculine
+- bachelor pad
+- man pad
+- room design
+- apartment design
+- house design
+- inspiration
+title: Room/Apartment/House Design Inspiration For Men
 ---
-
 The purpose of this article is to allow you to take elements, colors, and designs from these inspirations and add them together in an effort to design your own.
 
 

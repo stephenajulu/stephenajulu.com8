@@ -1,27 +1,28 @@
 ---
-title: Gradient Wallpaper Pack 3 is Out
-subtitle: ''
-excerpt: ''
+categories:
+- Wallpapers
+- Store
 date: 2021-09-02 19:02:00+03:00
+excerpt: ''
 image: images/gradient-wallpapers-3-0-8k-cover.png
 image_alt: ''
+layout: post
 seo:
-  title: Gradient Wallpaper Pack 3 is Out
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Gradient Wallpaper Pack 3 is Out
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/gradient-wallpapers-3-0-8k-cover.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/gradient-wallpapers-3-0-8k-cover.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +30,15 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/gradient-wallpapers-3-0-8k-cover.png
     relativeUrl: true
-layout: post
+    value: images/gradient-wallpapers-3-0-8k-cover.png
+  title: Gradient Wallpaper Pack 3 is Out
+subtitle: ''
+tags:
+- Wallpapers
+- Store
+title: Gradient Wallpaper Pack 3 is Out
 ---
-
 35 Gradient Wallpapers at 8K resolution that look amazing on a TV, Laptop, Desktop, or Mobile Phone have been released. Buy it from my [store](https://ajulusthoughts.stephenajulu.com/store) or below.
 
 <script src="https://gumroad.com/js/gumroad.js"></script>

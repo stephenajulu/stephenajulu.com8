@@ -1,27 +1,27 @@
 ---
-title: How To Add Schema JSON-LD to Your Hugo Blog/Site
-subtitle: ''
-excerpt: ''
+categories:
+- SEO
 date: 2021-06-26 17:53:00+03:00
+excerpt: ''
 image: images/generative-social-image-1.png
 image_alt: ''
+layout: post
 seo:
-  title: How To Add Schema JSON-LD to Your Hugo Blog/Site
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: How To Add Schema JSON-LD to Your Hugo Blog/Site
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/generative-social-image-1.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/generative-social-image-1.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,17 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/generative-social-image-1.png
     relativeUrl: true
-layout: post
+    value: images/generative-social-image-1.png
+  title: How To Add Schema JSON-LD to Your Hugo Blog/Site
+subtitle: ''
+tags:
+- schema
+- jsonld
+- schema markup
+- search engine optimization
+title: How To Add Schema JSON-LD to Your Hugo Blog/Site
 ---
-
 Here's the code:
 ```html
     {{ if .IsHome }}

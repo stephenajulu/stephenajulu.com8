@@ -1,27 +1,29 @@
 ---
-title: My Investment Strategy
-subtitle: Here's my investment strategy and how i diversify
-excerpt: Here's my investment strategy and how i diversify
+categories:
+- investments
+- investment
+- investment strategy
 date: 2021-11-13 12:24:00+03:00
+excerpt: Here's my investment strategy and how i diversify
 image: images/adeolu-eletu-unrkg2jh1j0-unsplash.jpg
 image_alt: Here's my investment strategy and how i diversify
+layout: post
 seo:
-  title: My Investment Strategy
   description: Here's my investment strategy and how i diversify
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: My Investment Strategy
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here's my investment strategy and how i diversify
-    keyName: property
-  - name: og:image
-    value: images/adeolu-eletu-unrkg2jh1j0-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/adeolu-eletu-unrkg2jh1j0-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,23 @@ seo:
   - name: twitter:description
     value: Here's my investment strategy and how i diversify
   - name: twitter:image
-    value: images/adeolu-eletu-unrkg2jh1j0-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/adeolu-eletu-unrkg2jh1j0-unsplash.jpg
+  title: My Investment Strategy
+subtitle: Here's my investment strategy and how i diversify
+tags:
+- investments
+- investment
+- investment strategy
+- cryptocurrencies
+- stocks
+- shares
+- mutual funds
+- money market funds
+- real estate
+- real estate investment trust
+title: My Investment Strategy
 ---
-
 Here's my simple investment strategy
 
 **Blue Chip Stocks: 20%**

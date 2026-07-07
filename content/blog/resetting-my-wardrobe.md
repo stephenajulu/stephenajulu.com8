@@ -1,27 +1,28 @@
 ---
-title: Resetting My Wardrobe
-subtitle: ''
-excerpt: ''
+categories:
+- fashion
+- lifestyle
 date: 2021-06-27 11:09:00+03:00
+excerpt: ''
 image: images/resetwardrobe.png
 image_alt: ''
+layout: post
 seo:
-  title: Resetting My Wardrobe
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Resetting My Wardrobe
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/resetwardrobe.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/resetwardrobe.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +30,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/resetwardrobe.png
     relativeUrl: true
-layout: post
+    value: images/resetwardrobe.png
+  title: Resetting My Wardrobe
+subtitle: ''
+tags:
+- fashion
+- lifestyle
+- clothing
+title: Resetting My Wardrobe
 ---
-
 I recently took a good look into my wardrobe and what I realized was eye-opening.
 
 Many times we keep old torn clothes and there are some clothes we rarely wear. I believe every year we need to do something I call "a wardrobe refresh", where we get rid of clothes we don't wear, the torn ones and the impractical ones and buy a new set.

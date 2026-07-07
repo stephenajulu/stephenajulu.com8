@@ -1,27 +1,29 @@
 ---
-title: The Art of War(Listed)
-subtitle: ''
-excerpt: ''
+categories:
+- self improvement
+- books
+- art of war
 date: 2021-08-09 16:19:00+03:00
+excerpt: ''
 image: images/theartofwar.jpg
 image_alt: ''
+layout: post
 seo:
-  title: The Art of War(Listed)
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: The Art of War(Listed)
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/theartofwar.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/theartofwar.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/theartofwar.jpg
     relativeUrl: true
-layout: post
+    value: images/theartofwar.jpg
+  title: The Art of War(Listed)
+subtitle: ''
+tags:
+- self improvement
+- books
+- art of war
+title: The Art of War(Listed)
 ---
-
 * “According as circumstances are favorable, one should modify one’s plans.”
 * “All warfare is based on deception. Hence when able to attack we must seem unable. When using our forces we must seem inactive. When we are near we make the enemy believe we are far away. When far away we must make the enemy believe we are near.”
 * “Appear weak when you are strong, and strong when you are weak.”

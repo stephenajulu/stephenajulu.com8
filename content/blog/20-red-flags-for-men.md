@@ -1,28 +1,28 @@
 ---
-title: Men, Here Are 20 Characteristics Of The Women to Avoid
-subtitle: Men, here are 20 red flags, that if you see in/on a woman, run away. RUN!
-excerpt: Men, here are 20 red flags, that if you see in/on a woman, run away. RUN!
+categories:
+- Dating
 date: 2022-01-10 13:25:00+03:00
+excerpt: Men, here are 20 red flags, that if you see in/on a woman, run away. RUN!
 image: images/olga-solodilova-2hwdnsti2zw-unsplash.jpg
 image_alt: Men, here are 20 red flags, that if you see in/on a woman, run away. RUN!
+layout: post
 seo:
-  title: Men, Here Are 20 Characteristics Of The Women to Avoid
   description: Men, here are 20 red flags, that if you see in/on a woman, run away.
     RUN!
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Men, Here Are 20 Characteristics Of The Women to Avoid
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Men, here are 20 red flags, that if you see in/on a woman, run away. RUN!
-    keyName: property
-  - name: og:image
-    value: images/olga-solodilova-2hwdnsti2zw-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/olga-solodilova-2hwdnsti2zw-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -30,11 +30,17 @@ seo:
   - name: twitter:description
     value: Men, here are 20 red flags, that if you see in/on a woman, run away. RUN!
   - name: twitter:image
-    value: images/olga-solodilova-2hwdnsti2zw-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/olga-solodilova-2hwdnsti2zw-unsplash.jpg
+  title: Men, Here Are 20 Characteristics Of The Women to Avoid
+subtitle: Men, here are 20 red flags, that if you see in/on a woman, run away. RUN!
+tags:
+- dating
+- for men
+- men
+- red flags
+title: Men, Here Are 20 Characteristics Of The Women to Avoid
 ---
-
 Hello guys, today I'll cover 20 red flags that if you see from a woman, run away very fast.
 
  1. Too many male friends and male best friends

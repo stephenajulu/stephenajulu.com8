@@ -1,12 +1,8 @@
 ---
-title: 25 Upcoming NFT Projects to Invest in and Get In on Early
-subtitle: NFTs might just be the hottest thing in the crypto sphere. When shopping
-  for the best NFTs to invest in, such as Bored Ape Yacht Club or CryptoPunks, you’ll
-  be spending at least 70 to 80 ETH. While NFTs are still relative newcomers to the
-  art world, they’re drawing a significant amount of buzz and collectors are willing
-  to pay a premium for top NFTs. The time to buy is when new NFT projects are just
-  getting off the ground, and that means getting on the whitelist or VIP list. So
-  how do you invest in the best upcoming NFT projects?
+categories:
+- Technology
+- Tech
+date: 2023-02-15 16:02:00+03:00
 excerpt: NFTs might just be the hottest thing in the crypto sphere. When shopping
   for the best NFTs to invest in, such as Bored Ape Yacht Club or CryptoPunks, you’ll
   be spending at least 70 to 80 ETH. While NFTs are still relative newcomers to the
@@ -14,7 +10,6 @@ excerpt: NFTs might just be the hottest thing in the crypto sphere. When shoppin
   to pay a premium for top NFTs. The time to buy is when new NFT projects are just
   getting off the ground, and that means getting on the whitelist or VIP list. So
   how do you invest in the best upcoming NFT projects?
-date: 2023-02-15 16:02:00+03:00
 image: images/how-to-buy-and-sell-nfts-aio-bot-1280x720.jpg
 image_alt: NFTs might just be the hottest thing in the crypto sphere. When shopping
   for the best NFTs to invest in, such as Bored Ape Yacht Club or CryptoPunks, you’ll
@@ -23,8 +18,8 @@ image_alt: NFTs might just be the hottest thing in the crypto sphere. When shopp
   to pay a premium for top NFTs. The time to buy is when new NFT projects are just
   getting off the ground, and that means getting on the whitelist or VIP list. So
   how do you invest in the best upcoming NFT projects?
+layout: post
 seo:
-  title: 25 Upcoming NFT Projects to Invest in and Get In on Early
   description: NFTs might just be the hottest thing in the crypto sphere. When shopping
     for the best NFTs to invest in, such as Bored Ape Yacht Club or CryptoPunks, you’ll
     be spending at least 70 to 80 ETH. While NFTs are still relative newcomers to
@@ -33,13 +28,14 @@ seo:
     are just getting off the ground, and that means getting on the whitelist or VIP
     list. So how do you invest in the best upcoming NFT projects?
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 25 Upcoming NFT Projects to Invest in and Get In on Early
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: NFTs might just be the hottest thing in the crypto sphere. When shopping
       for the best NFTs to invest in, such as Bored Ape Yacht Club or CryptoPunks,
       you’ll be spending at least 70 to 80 ETH. While NFTs are still relative newcomers
@@ -47,11 +43,10 @@ seo:
       are willing to pay a premium for top NFTs. The time to buy is when new NFT projects
       are just getting off the ground, and that means getting on the whitelist or
       VIP list. So how do you invest in the best upcoming NFT projects?
-    keyName: property
-  - name: og:image
-    value: images/how-to-buy-and-sell-nfts-aio-bot-1280x720.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/how-to-buy-and-sell-nfts-aio-bot-1280x720.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -65,11 +60,45 @@ seo:
       are just getting off the ground, and that means getting on the whitelist or
       VIP list. So how do you invest in the best upcoming NFT projects?
   - name: twitter:image
-    value: images/how-to-buy-and-sell-nfts-aio-bot-1280x720.jpg
     relativeUrl: true
-layout: post
+    value: images/how-to-buy-and-sell-nfts-aio-bot-1280x720.jpg
+  title: 25 Upcoming NFT Projects to Invest in and Get In on Early
+subtitle: NFTs might just be the hottest thing in the crypto sphere. When shopping
+  for the best NFTs to invest in, such as Bored Ape Yacht Club or CryptoPunks, you’ll
+  be spending at least 70 to 80 ETH. While NFTs are still relative newcomers to the
+  art world, they’re drawing a significant amount of buzz and collectors are willing
+  to pay a premium for top NFTs. The time to buy is when new NFT projects are just
+  getting off the ground, and that means getting on the whitelist or VIP list. So
+  how do you invest in the best upcoming NFT projects?
+tags:
+- nfts
+- nft
+- illuvium
+- imaginary ones
+- invisible friends
+- bayc
+- cryptopunks
+- bored ape yacht club
+- cool cats
+- HAPE prime
+- DAPE
+- Stoner Ape Club
+- star atlas
+- pixelmon
+- cryptoon goonze
+- wonderpals
+- solsand
+- gooniez gang
+- bluechip nfts
+- bluechip
+- crypto baristas
+- autograph
+- celopunks
+- otaku origins
+- memeland
+- mavrix
+title: 25 Upcoming NFT Projects to Invest in and Get In on Early
 ---
-
 NFTs might just be the hottest thing in the crypto sphere. When shopping for the best NFTs to invest in, such as Bored Ape Yacht Club or CryptoPunks, you’ll be spending at least 70 to 80 ETH. While NFTs are still relative newcomers to the art world, they’re drawing a significant amount of buzz and collectors are willing to pay a premium for top NFTs. The time to buy is when new NFT projects are just getting off the ground, and that means getting on the [whitelist](https://learn.bybit.com/nft/what-is-nft-whitelist/) or VIP list. So how do you invest in the best upcoming NFT projects?
 
 It can be tough to cut through the digital clutter and discover the NFT projects that really resonate with you — or the NFT projects that are most likely to succeed. How can you decide which NFTs to invest in? With the right investment plan, knowing what you want from top NFTs, and active involvement in upcoming NFT projects, you can be prepared for anything that comes your way.

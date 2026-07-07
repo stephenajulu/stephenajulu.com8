@@ -1,27 +1,27 @@
 ---
-title: 6 Use Cases for Cryptocurrencies
-subtitle: Here are some use cases for cryptocurrency
-excerpt: Here are some use cases for cryptocurrency
+categories:
+- Tech
 date: 2022-08-14 10:35:00+03:00
+excerpt: Here are some use cases for cryptocurrency
 image: images/kanchanara-oqepgkdx3ra-unsplash.jpg
 image_alt: Here are some use cases for cryptocurrency
+layout: post
 seo:
-  title: 6 Use Cases for Cryptocurrencies
   description: Here are some use cases for cryptocurrency
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 6 Use Cases for Cryptocurrencies
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here are some use cases for cryptocurrency
-    keyName: property
-  - name: og:image
-    value: images/kanchanara-oqepgkdx3ra-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/kanchanara-oqepgkdx3ra-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,15 @@ seo:
   - name: twitter:description
     value: Here are some use cases for cryptocurrency
   - name: twitter:image
-    value: images/kanchanara-oqepgkdx3ra-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/kanchanara-oqepgkdx3ra-unsplash.jpg
+  title: 6 Use Cases for Cryptocurrencies
+subtitle: Here are some use cases for cryptocurrency
+tags:
+- crypto
+- cryptocurrency
+title: 6 Use Cases for Cryptocurrencies
 ---
-
 ### Play Online Casino Games
 
 One use for cryptocurrency that is often overlooked is online gambling. Due to the decentralized nature of digital currencies, there are no central authorities or banks that can block your transactions.

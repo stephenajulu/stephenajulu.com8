@@ -1,27 +1,27 @@
 ---
-title: Investment Platforms and Apps for Kenyans
-subtitle: Top investment platforms and apps Kenyans can use to buy and hold assets
-excerpt: Top investment platforms and apps Kenyans can use to buy and hold assets
+categories:
+- Investments
 date: 2022-06-16 16:00:00+03:00
+excerpt: Top investment platforms and apps Kenyans can use to buy and hold assets
 image: images/kanchanara-re9vlmvdizi-unsplash.jpg
 image_alt: Top investment platforms and apps Kenyans can use to buy and hold assets
+layout: post
 seo:
-  title: Investment Platforms and Apps for Kenyans
   description: Top investment platforms and apps Kenyans can use to buy and hold assets
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Investment Platforms and Apps for Kenyans
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Top investment platforms and apps Kenyans can use to buy and hold assets
-    keyName: property
-  - name: og:image
-    value: images/kanchanara-re9vlmvdizi-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/kanchanara-re9vlmvdizi-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,33 @@ seo:
   - name: twitter:description
     value: Top investment platforms and apps Kenyans can use to buy and hold assets
   - name: twitter:image
-    value: images/kanchanara-re9vlmvdizi-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/kanchanara-re9vlmvdizi-unsplash.jpg
+  title: Investment Platforms and Apps for Kenyans
+subtitle: Top investment platforms and apps Kenyans can use to buy and hold assets
+tags:
+- binance
+- fxpesa
+- coinbase
+- hisa
+- cryptocurrencies
+- cryptocurrency
+- stocks
+- stock
+- shares
+- share
+- genghiscapital
+- nse
+- nyse
+- forex
+- fx
+- reits
+- etf
+- etfs
+- reit
+- real estate investment trust
+title: Investment Platforms and Apps for Kenyans
 ---
-
 #### 1. [Binance](https://www.binance.com/en/activity/referral/offers/claim?ref=CPA_00P42ACTQZ): for Cryptocurrencies and NFTs
 
 #### 2. [Coinbase](https://www.coinbase.com/join/ajulu_v): for Cryptocurrencies and NFTs

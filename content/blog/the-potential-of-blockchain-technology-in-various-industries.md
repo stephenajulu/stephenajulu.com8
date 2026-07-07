@@ -1,18 +1,13 @@
 ---
-title: The Potential of Blockchain Technology in Various Industries
-subtitle: 'This article delves into the potential of blockchain technology in various
-  industries such as finance, banking, supply chain management, healthcare, and governance.
-  It explains how blockchain technology can provide secure, transparent, and decentralized
-  systems, leading to improved efficiency, reduced costs, and increased transparency.
-  It also addresses the challenges that must be overcome for its widespread adoption,
-  such as scalability and lack of regulation. '
+categories:
+- Technology
+date: 2023-01-01 14:00:00+03:00
 excerpt: 'This article delves into the potential of blockchain technology in various
   industries such as finance, banking, supply chain management, healthcare, and governance.
   It explains how blockchain technology can provide secure, transparent, and decentralized
   systems, leading to improved efficiency, reduced costs, and increased transparency.
   It also addresses the challenges that must be overcome for its widespread adoption,
   such as scalability and lack of regulation. '
-date: 2023-01-01 14:00:00+03:00
 image: images/shubham-dhage-gc_aoajql2q-unsplash.jpg
 image_alt: 'This article delves into the potential of blockchain technology in various
   industries such as finance, banking, supply chain management, healthcare, and governance.
@@ -20,8 +15,8 @@ image_alt: 'This article delves into the potential of blockchain technology in v
   systems, leading to improved efficiency, reduced costs, and increased transparency.
   It also addresses the challenges that must be overcome for its widespread adoption,
   such as scalability and lack of regulation. '
+layout: post
 seo:
-  title: The Potential of Blockchain Technology in Various Industries
   description: 'This article delves into the potential of blockchain technology in
     various industries such as finance, banking, supply chain management, healthcare,
     and governance. It explains how blockchain technology can provide secure, transparent,
@@ -29,24 +24,24 @@ seo:
     increased transparency. It also addresses the challenges that must be overcome
     for its widespread adoption, such as scalability and lack of regulation. '
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: The Potential of Blockchain Technology in Various Industries
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: 'This article delves into the potential of blockchain technology in various
       industries such as finance, banking, supply chain management, healthcare, and
       governance. It explains how blockchain technology can provide secure, transparent,
       and decentralized systems, leading to improved efficiency, reduced costs, and
       increased transparency. It also addresses the challenges that must be overcome
       for its widespread adoption, such as scalability and lack of regulation. '
-    keyName: property
-  - name: og:image
-    value: images/shubham-dhage-gc_aoajql2q-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/shubham-dhage-gc_aoajql2q-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -59,11 +54,24 @@ seo:
       increased transparency. It also addresses the challenges that must be overcome
       for its widespread adoption, such as scalability and lack of regulation. '
   - name: twitter:image
-    value: images/shubham-dhage-gc_aoajql2q-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/shubham-dhage-gc_aoajql2q-unsplash.jpg
+  title: The Potential of Blockchain Technology in Various Industries
+subtitle: 'This article delves into the potential of blockchain technology in various
+  industries such as finance, banking, supply chain management, healthcare, and governance.
+  It explains how blockchain technology can provide secure, transparent, and decentralized
+  systems, leading to improved efficiency, reduced costs, and increased transparency.
+  It also addresses the challenges that must be overcome for its widespread adoption,
+  such as scalability and lack of regulation. '
+tags:
+- Blockchain technology
+- Decentralized systems
+- Secure transactions
+- Transparent systems
+- blockchain
+- decentralization
+title: The Potential of Blockchain Technology in Various Industries
 ---
-
 Blockchain technology, first introduced as the underlying technology behind the digital currency Bitcoin, has the potential to revolutionize various industries by providing secure, transparent, and decentralized systems. From finance and banking to healthcare and supply chain management, the applications of blockchain technology are vast and varied. In this essay, we will explore the potential of blockchain technology in various industries and the challenges that must be overcome for its widespread adoption.
 
 ## Finance and Banking 

@@ -1,32 +1,31 @@
 ---
-title: What is Proof of Work?
-subtitle: Proof-of-work is the algorithm that secures many cryptocurrencies, including
-  Bitcoin and Ethereum. Here we explain what PoW is. Learn more.
+categories:
+- Technology
+date: 2021-12-09 12:10:00+03:00
 excerpt: Proof-of-work is the algorithm that secures many cryptocurrencies, including
   Bitcoin and Ethereum. Here we explain what PoW is. Learn more.
-date: 2021-12-09 12:10:00+03:00
 image: images/webp-net-resizeimage.jpg
 image_alt: Proof-of-work is the algorithm that secures many cryptocurrencies, including
   Bitcoin and Ethereum. Here we explain what PoW is. Learn more.
+layout: post
 seo:
-  title: What is Proof of Work?
   description: Proof-of-work is the algorithm that secures many cryptocurrencies,
     including Bitcoin and Ethereum. Here we explain what PoW is. Learn more.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: What is Proof of Work?
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Proof-of-work is the algorithm that secures many cryptocurrencies, including
       Bitcoin and Ethereum. Here we explain what PoW is. Learn more.
-    keyName: property
-  - name: og:image
-    value: images/webp-net-resizeimage.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/webp-net-resizeimage.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +34,22 @@ seo:
     value: Proof-of-work is the algorithm that secures many cryptocurrencies, including
       Bitcoin and Ethereum. Here we explain what PoW is. Learn more.
   - name: twitter:image
-    value: images/webp-net-resizeimage.jpg
     relativeUrl: true
-layout: post
+    value: images/webp-net-resizeimage.jpg
+  title: What is Proof of Work?
+subtitle: Proof-of-work is the algorithm that secures many cryptocurrencies, including
+  Bitcoin and Ethereum. Here we explain what PoW is. Learn more.
+tags:
+- technology
+- bitcoin
+- ethereum
+- pow
+- proof of work
+- cryptocurrencies
+- crypto
+- cryptocurrency
+title: What is Proof of Work?
 ---
-
 Proof-of-work is the algorithm that secures many cryptocurrencies, including Bitcoin and Ethereum. Most digital currencies have a central entity or leader keeping track of every user and how much money they have. But there’s no such leader in charge of cryptocurrencies like Bitcoin. Proof-of-work is needed to make the online currency work without a company or government running the show.
 
 More specifically proof-of-work solves the "double-spending problem," which is trickier to solve without a leader in charge. If users can double-spend their coins, this inflates the overall supply, debasing everyone else's coins and making the currency unpredictable and worthless.

@@ -1,32 +1,37 @@
 ---
-title: 5 Things Every Man In His 20s Should Do
-subtitle: 'Here are 5 things that will set a man in his 20s apart from the rest of
-  the pack. '
+categories:
+- Masculinity
+- Self improvement
+- Self Mastery
+- Growth
+- Masculine
+- Man
+- Men
+date: 2021-11-22 05:26:00+03:00
 excerpt: 'Here are 5 things that will set a man in his 20s apart from the rest of
   the pack. '
-date: 2021-11-22 05:26:00+03:00
 image: images/matheus-ferrero-tkrrvwxjb_8.jpg
 image_alt: 'Here are 5 things that will set a man in his 20s apart from the rest of
   the pack. '
+layout: post
 seo:
-  title: 5 Things Every Man In His 20s Should Do
   description: 'Here are 5 things that will set a man in his 20s apart from the rest
     of the pack. '
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 5 Things Every Man In His 20s Should Do
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: 'Here are 5 things that will set a man in his 20s apart from the rest of
       the pack. '
-    keyName: property
-  - name: og:image
-    value: images/matheus-ferrero-tkrrvwxjb_8.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/matheus-ferrero-tkrrvwxjb_8.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +40,24 @@ seo:
     value: 'Here are 5 things that will set a man in his 20s apart from the rest of
       the pack. '
   - name: twitter:image
-    value: images/matheus-ferrero-tkrrvwxjb_8.jpg
     relativeUrl: true
-layout: post
+    value: images/matheus-ferrero-tkrrvwxjb_8.jpg
+  title: 5 Things Every Man In His 20s Should Do
+subtitle: 'Here are 5 things that will set a man in his 20s apart from the rest of
+  the pack. '
+tags:
+- Masculinity
+- self improvement
+- self mastery
+- Growth
+- Masculine
+- Man
+- manhood
+- Men
+- Level up
+- Personal development
+title: 5 Things Every Man In His 20s Should Do
 ---
-
 Hi men! 
 
 Here are 5 things you should do in order to set up your life for success and level up.

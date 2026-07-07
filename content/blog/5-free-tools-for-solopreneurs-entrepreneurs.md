@@ -1,27 +1,29 @@
 ---
-title: 5 Free Tools For Solopreneurs/Entrepreneurs (Updated)
-subtitle: ''
-excerpt: ''
+categories:
+- entrepreneurs
+- solopreneurs
+- tools
 date: 2022-06-15 10:28:00+03:00
+excerpt: ''
 image: images/brooke-lark-nmffl1zjbw4-unsplash.jpg
 image_alt: ''
+layout: post
 seo:
-  title: 5 Free Tools For Solopreneurs/Entrepreneurs (Updated)
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 5 Free Tools For Solopreneurs/Entrepreneurs (Updated)
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/brooke-lark-nmffl1zjbw4-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/brooke-lark-nmffl1zjbw4-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/brooke-lark-nmffl1zjbw4-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/brooke-lark-nmffl1zjbw4-unsplash.jpg
+  title: 5 Free Tools For Solopreneurs/Entrepreneurs (Updated)
+subtitle: ''
+tags:
+- entrepreneurs
+- solopreneurs
+- tools
+title: 5 Free Tools For Solopreneurs/Entrepreneurs (Updated)
 ---
-
 Here are a few free tools to help ease your solo entrepreneur journey.
 
 1. [**Adobe Spark Post**](https://spark.adobe.com/) **/** [**Canva**](https://partner.canva.com/2r3dPO) - For designing posters and more

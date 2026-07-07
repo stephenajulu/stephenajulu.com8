@@ -1,42 +1,39 @@
 ---
-title: 'Advice from a Multi-Millionaire on Life Optimization: Alex Becker'
-subtitle: 'If you''re a young dude and you feel lost/directionless. Especially in
-  terms of success. This is why. It comes down to 3 things: Brain Deficiency, Brain
-  Addictions and Life Overcomplexity. Fix these...you''ll likely figure out what you
-  want and make it faster than you think'
+categories:
+- lifestyle
+date: 2022-12-17 17:00:00+03:00
 excerpt: 'If you''re a young dude and you feel lost/directionless. Especially in terms
   of success. This is why. It comes down to 3 things: Brain Deficiency, Brain Addictions
   and Life Overcomplexity. Fix these...you''ll likely figure out what you want and
   make it faster than you think'
-date: 2022-12-17 17:00:00+03:00
 image: images/10-pillars-of-wealth-alex-becker-1024x686-1.jpg
 image_alt: 'If you''re a young dude and you feel lost/directionless. Especially in
   terms of success. This is why. It comes down to 3 things: Brain Deficiency, Brain
   Addictions and Life Overcomplexity. Fix these...you''ll likely figure out what you
   want and make it faster than you think'
+layout: post
 seo:
-  title: 'Advice from a Multi-Millionaire on Life Optimization: Alex Becker'
   description: 'If you''re a young dude and you feel lost/directionless. Especially
     in terms of success. This is why. It comes down to 3 things: Brain Deficiency,
     Brain Addictions and Life Overcomplexity. Fix these...you''ll likely figure out
     what you want and make it faster than you think'
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'Advice from a Multi-Millionaire on Life Optimization: Alex Becker'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: 'If you''re a young dude and you feel lost/directionless. Especially in
       terms of success. This is why. It comes down to 3 things: Brain Deficiency,
       Brain Addictions and Life Overcomplexity. Fix these...you''ll likely figure
       out what you want and make it faster than you think'
-    keyName: property
-  - name: og:image
-    value: images/10-pillars-of-wealth-alex-becker-1024x686-1.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/10-pillars-of-wealth-alex-becker-1024x686-1.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -47,11 +44,18 @@ seo:
       Brain Addictions and Life Overcomplexity. Fix these...you''ll likely figure
       out what you want and make it faster than you think'
   - name: twitter:image
-    value: images/10-pillars-of-wealth-alex-becker-1024x686-1.jpg
     relativeUrl: true
-layout: post
+    value: images/10-pillars-of-wealth-alex-becker-1024x686-1.jpg
+  title: 'Advice from a Multi-Millionaire on Life Optimization: Alex Becker'
+subtitle: 'If you''re a young dude and you feel lost/directionless. Especially in
+  terms of success. This is why. It comes down to 3 things: Brain Deficiency, Brain
+  Addictions and Life Overcomplexity. Fix these...you''ll likely figure out what you
+  want and make it faster than you think'
+tags:
+- lifestyle
+- life optimization
+title: 'Advice from a Multi-Millionaire on Life Optimization: Alex Becker'
 ---
-
 If you're a young dude and you feel lost/directionless..especially in terms of success
 
 This is why. It comes down to 3 things

@@ -1,32 +1,32 @@
 ---
-title: 'Hire Web3 Developers: Everything you need to know'
-subtitle: The blockchain ecosystem has seen unprecedented growth with many companies
-  now looking to hire Web3 developers with experience in cryptocurrency.
+categories:
+- Technology
+- Tech
+date: 2022-11-04 09:36:00+03:00
 excerpt: The blockchain ecosystem has seen unprecedented growth with many companies
   now looking to hire Web3 developers with experience in cryptocurrency.
-date: 2022-11-04 09:36:00+03:00
 image: images/629e4c88792d375fdca6d6a4_5-hire-web3-developers_-everything-you-need-to-know-to-find-top-web3-engineers.png
 image_alt: The blockchain ecosystem has seen unprecedented growth with many companies
   now looking to hire Web3 developers with experience in cryptocurrency.
+layout: post
 seo:
-  title: 'Hire Web3 Developers: Everything you need to know'
   description: The blockchain ecosystem has seen unprecedented growth with many companies
     now looking to hire Web3 developers with experience in cryptocurrency.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'Hire Web3 Developers: Everything you need to know'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: The blockchain ecosystem has seen unprecedented growth with many companies
       now looking to hire Web3 developers with experience in cryptocurrency.
-    keyName: property
-  - name: og:image
-    value: images/629e4c88792d375fdca6d6a4_5-hire-web3-developers_-everything-you-need-to-know-to-find-top-web3-engineers.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/629e4c88792d375fdca6d6a4_5-hire-web3-developers_-everything-you-need-to-know-to-find-top-web3-engineers.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +35,30 @@ seo:
     value: The blockchain ecosystem has seen unprecedented growth with many companies
       now looking to hire Web3 developers with experience in cryptocurrency.
   - name: twitter:image
-    value: images/629e4c88792d375fdca6d6a4_5-hire-web3-developers_-everything-you-need-to-know-to-find-top-web3-engineers.png
     relativeUrl: true
-layout: post
+    value: images/629e4c88792d375fdca6d6a4_5-hire-web3-developers_-everything-you-need-to-know-to-find-top-web3-engineers.png
+  title: 'Hire Web3 Developers: Everything you need to know'
+subtitle: The blockchain ecosystem has seen unprecedented growth with many companies
+  now looking to hire Web3 developers with experience in cryptocurrency.
+tags:
+- tech
+- technology
+- blockchain
+- web3
+- web3 developer
+- web3 developers
+- web3 engineers
+- smart contract
+- nodes
+- cryptocurrency wallets
+- web3 sdks
+- dapps
+- blockchain software developer
+- core blockchain developer
+- solidity
+- rust
+title: 'Hire Web3 Developers: Everything you need to know'
 ---
-
 The blockchain ecosystem has seen unprecedented growth with many companies now looking to hire Web3 developers with experience in cryptocurrency.
 
 The web is undergoing dramatic changes. Of the latest changes is Web3, a new version of the internet, which is quickly expanding in size and popularity.

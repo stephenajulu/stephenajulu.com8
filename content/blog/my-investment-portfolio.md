@@ -1,27 +1,30 @@
 ---
-title: My Investment Portfolio
-subtitle: Revealing my current investment portfolio and potential invest list
-excerpt: Revealing my current investment portfolio and potential invest list
+categories:
+- invest
+- investment
+- crypto
+- stocks
 date: 2021-11-12 10:40:00+03:00
+excerpt: Revealing my current investment portfolio and potential invest list
 image: images/invest.jpg
 image_alt: Revealing my current investment portfolio and potential invest list
+layout: post
 seo:
-  title: My Investment Portfolio
   description: Revealing my current investment portfolio and potential invest list
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: My Investment Portfolio
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Revealing my current investment portfolio and potential invest list
-    keyName: property
-  - name: og:image
-    value: images/invest.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/invest.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +32,25 @@ seo:
   - name: twitter:description
     value: Revealing my current investment portfolio and potential invest list
   - name: twitter:image
-    value: images/invest.jpg
     relativeUrl: true
-layout: post
+    value: images/invest.jpg
+  title: My Investment Portfolio
+subtitle: Revealing my current investment portfolio and potential invest list
+tags:
+- invest
+- investment
+- crypto
+- stocks
+- investments
+- cryptocurrencies
+- stock
+- shares
+- share
+- binance
+- portfolio
+- investment portfolio
+title: My Investment Portfolio
 ---
-
 Hi, how are you?
 
 Today I'll be revealing my investment portfolio in a bid to encourage young people in their teens, twenties, and thirties to invest.

@@ -1,27 +1,29 @@
 ---
-title: Solving The Worlds Relationship & Marriage Crisis
-subtitle: ''
-excerpt: ''
+categories:
+- Relationships
+- Life
+- Marriage
 date: 2021-08-02 12:08:00+03:00
+excerpt: ''
 image: images/djim-loic-hl4mrleyqxu-unsplash.jpg
 image_alt: ''
+layout: post
 seo:
-  title: Solving The Worlds Relationship & Marriage Crisis
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Solving The Worlds Relationship & Marriage Crisis
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/djim-loic-hl4mrleyqxu-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/djim-loic-hl4mrleyqxu-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/djim-loic-hl4mrleyqxu-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/djim-loic-hl4mrleyqxu-unsplash.jpg
+  title: Solving The Worlds Relationship & Marriage Crisis
+subtitle: ''
+tags:
+- Relationships
+- Life
+- Marriage
+title: Solving The Worlds Relationship & Marriage Crisis
 ---
-
 Here's a solution to all the issues mankind is facing in relationships + tips for a successful relationship and marriage.
 
 ## Men

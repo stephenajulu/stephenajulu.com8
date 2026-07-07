@@ -1,40 +1,36 @@
 ---
-title: 'Personal Branding 101: How to Present Yourself in Social Media Including Cover
-  Images, Bio Optimization, and Presentation'
-subtitle: In today's world, social media platforms have become the go-to place for
-  individuals to present themselves to the world. Personal branding has become an
-  essential aspect of creating a lasting impression on people.
+categories:
+- Personal Branding
+date: 2023-03-03 12:09:00+03:00
 excerpt: In today's world, social media platforms have become the go-to place for
   individuals to present themselves to the world. Personal branding has become an
   essential aspect of creating a lasting impression on people.
-date: 2023-03-03 12:09:00+03:00
 image: images/photo-1554774853-aae0a22c8aa4.jpeg
 image_alt: In today's world, social media platforms have become the go-to place for
   individuals to present themselves to the world. Personal branding has become an
   essential aspect of creating a lasting impression on people.
+layout: post
 seo:
-  title: 'Personal Branding 101: How to Present Yourself in Social Media Including
-    Cover Images, Bio Optimization, and Presentation'
   description: In today's world, social media platforms have become the go-to place
     for individuals to present themselves to the world. Personal branding has become
     an essential aspect of creating a lasting impression on people.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'Personal Branding 101: How to Present Yourself in Social Media Including
       Cover Images, Bio Optimization, and Presentation'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: In today's world, social media platforms have become the go-to place for
       individuals to present themselves to the world. Personal branding has become
       an essential aspect of creating a lasting impression on people.
-    keyName: property
-  - name: og:image
-    value: images/photo-1554774853-aae0a22c8aa4.jpeg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/photo-1554774853-aae0a22c8aa4.jpeg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -45,11 +41,22 @@ seo:
       individuals to present themselves to the world. Personal branding has become
       an essential aspect of creating a lasting impression on people.
   - name: twitter:image
-    value: images/photo-1554774853-aae0a22c8aa4.jpeg
     relativeUrl: true
-layout: post
+    value: images/photo-1554774853-aae0a22c8aa4.jpeg
+  title: 'Personal Branding 101: How to Present Yourself in Social Media Including
+    Cover Images, Bio Optimization, and Presentation'
+subtitle: In today's world, social media platforms have become the go-to place for
+  individuals to present themselves to the world. Personal branding has become an
+  essential aspect of creating a lasting impression on people.
+tags:
+- personal brand
+- personal branding
+- instagram
+- facebook
+- twitter
+title: 'Personal Branding 101: How to Present Yourself in Social Media Including Cover
+  Images, Bio Optimization, and Presentation'
 ---
-
 Personal Branding 101: How to Present Yourself in Social Media Including Cover Images, Bio Optimization, and Presentation
 
 In today's world, social media platforms have become the go-to place for individuals to present themselves to the world. Personal branding has become an essential aspect of creating a lasting impression on people. With the rise of social media, it has become even more crucial to present yourself in the best possible way. This article will guide you through the process of personal branding and help you create a strong and impactful online presence.

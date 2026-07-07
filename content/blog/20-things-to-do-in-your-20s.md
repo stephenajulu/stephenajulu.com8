@@ -1,30 +1,30 @@
 ---
-title: 20 Things To Do In Your 20s
-subtitle: Here are 20 things you should do in your twenties to get ahead ft Jose Zuniga
-excerpt: Here are 20 things you should do in your twenties to get ahead ft Jose Zuniga
+categories:
+- Lifestyle
 date: 2022-04-26 18:35:00+03:00
+excerpt: Here are 20 things you should do in your twenties to get ahead ft Jose Zuniga
 image: images/wp6604477.webp
 image_alt: Here are 20 things you should do in your twenties to get ahead ft Jose
   Zuniga
+layout: post
 seo:
-  title: 20 Things To Do In Your 20s
   description: Here are 20 things you should do in your twenties to get ahead ft Jose
     Zuniga
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 20 Things To Do In Your 20s
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here are 20 things you should do in your twenties to get ahead ft Jose
       Zuniga
-    keyName: property
-  - name: og:image
-    value: images/wp6604477.webp
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/wp6604477.webp
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -33,11 +33,14 @@ seo:
     value: Here are 20 things you should do in your twenties to get ahead ft Jose
       Zuniga
   - name: twitter:image
-    value: images/wp6604477.webp
     relativeUrl: true
-layout: post
+    value: images/wp6604477.webp
+  title: 20 Things To Do In Your 20s
+subtitle: Here are 20 things you should do in your twenties to get ahead ft Jose Zuniga
+tags:
+- self improvement
+title: 20 Things To Do In Your 20s
 ---
-
 ##### 1. Take more risks
 
 ##### 2. Read

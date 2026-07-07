@@ -1,37 +1,36 @@
 ---
-title: 'The Future of Daily Tech: How NFTs will Impact Your Future'
-subtitle: NFTs are revolutionizing the way we think about digital ownership and authenticity.
-  From gaming to real estate, healthcare to education, NFTs have the potential to
-  transform a wide range of industries. Find out more.......
+categories:
+- Tech
+- Lifestyle
+date: 2023-03-03 08:16:00+03:00
 excerpt: NFTs are revolutionizing the way we think about digital ownership and authenticity.
   From gaming to real estate, healthcare to education, NFTs have the potential to
   transform a wide range of industries. Find out more.......
-date: 2023-03-03 08:16:00+03:00
 image: images/photo-1643101681441-0c38d714fa14.png
 image_alt: NFTs are revolutionizing the way we think about digital ownership and authenticity.
   From gaming to real estate, healthcare to education, NFTs have the potential to
   transform a wide range of industries. Find out more.......
+layout: post
 seo:
-  title: 'The Future of Daily Tech: How NFTs will Impact Your Future'
   description: NFTs are revolutionizing the way we think about digital ownership and
     authenticity. From gaming to real estate, healthcare to education, NFTs have the
     potential to transform a wide range of industries. Find out more.......
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'The Future of Daily Tech: How NFTs will Impact Your Future'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: NFTs are revolutionizing the way we think about digital ownership and authenticity.
       From gaming to real estate, healthcare to education, NFTs have the potential
       to transform a wide range of industries. Find out more.......
-    keyName: property
-  - name: og:image
-    value: images/photo-1643101681441-0c38d714fa14.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/photo-1643101681441-0c38d714fa14.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -41,11 +40,36 @@ seo:
       From gaming to real estate, healthcare to education, NFTs have the potential
       to transform a wide range of industries. Find out more.......
   - name: twitter:image
-    value: images/photo-1643101681441-0c38d714fa14.png
     relativeUrl: true
-layout: post
+    value: images/photo-1643101681441-0c38d714fa14.png
+  title: 'The Future of Daily Tech: How NFTs will Impact Your Future'
+subtitle: NFTs are revolutionizing the way we think about digital ownership and authenticity.
+  From gaming to real estate, healthcare to education, NFTs have the potential to
+  transform a wide range of industries. Find out more.......
+tags:
+- NFTs
+- NFT
+- non fungible token
+- non fungible tokens
+- blockchain
+- digital ownership
+- authenticity
+- gaming
+- real estate
+- healthcare
+- education
+- finance
+- social media
+- tech
+- technology
+- digitalcredentials
+- aiverification
+- technology
+- tokens
+- cryptography
+- crypto
+title: 'The Future of Daily Tech: How NFTs will Impact Your Future'
 ---
-
 The world of tech is constantly evolving, and one of the most exciting developments in recent years is the rise of Non-Fungible Tokens (NFTs). 
 
 NFTs are a type of digital asset that use blockchain technology to verify ownership and uniqueness, and they are quickly becoming a hot topic in the tech world. In this article, we will explore the future of daily tech and how NFT technology will be a part of our daily lives.

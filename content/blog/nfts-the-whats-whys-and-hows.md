@@ -1,27 +1,28 @@
 ---
-title: 'NFTs: The What, Why and How'
-subtitle: Learn all about NFTs
-excerpt: Learn all about NFTs
+categories:
+- nfts
+- cryptocurrencies
 date: 2022-04-30 12:01:00+03:00
+excerpt: Learn all about NFTs
 image: images/istock-1363842094.jpg
 image_alt: Learn all about NFTs
+layout: post
 seo:
-  title: 'NFTs: The What, Why and How'
   description: Learn all about NFTs
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'NFTs: The What, Why and How'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Learn all about NFTs
-    keyName: property
-  - name: og:image
-    value: images/istock-1363842094.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/istock-1363842094.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +30,16 @@ seo:
   - name: twitter:description
     value: Learn all about NFTs
   - name: twitter:image
-    value: images/istock-1363842094.jpg
     relativeUrl: true
-layout: post
+    value: images/istock-1363842094.jpg
+  title: 'NFTs: The What, Why and How'
+subtitle: Learn all about NFTs
+tags:
+- nfts
+- non fungible tokens
+- cryptocurrencies
+title: 'NFTs: The What, Why and How'
 ---
-
 So you’ve been hearing more and more about this mysterious [NFT topic](https://www.fundz.net/blog/nft-startups-storming-the-stage-past-future-and-earnings), and you’re ready to find out what it’s all really about. You’re in the right place! We’re going to go over the basics of NFTs and demystify some common areas of confusion and misconception. Ready?
 
 Let’s start with the name. [NFT](https://insidexpress.com/technology/nft/) stands for [non-fungible token](https://aetsoft.net/insights/blog/nft-marketplace/). Don’t worry; it’s not as complicated as it sounds. ‘Fungible’ means that something can be traded, like physical currency or [cryptocurrencies](https://smartoptions.io/cryptocurrency-beginners-guide/). So, a non-fungible token means that this particular token can’t be traded for another one. Why? Because NFTs are digital representations of assets, and those assets can be nearly anything. An NFT isn’t a currency; it’s basically a certification of authenticity for a digital asset. Frequently, these assets are collectibles, like sports memorabilia, but they’re digital.

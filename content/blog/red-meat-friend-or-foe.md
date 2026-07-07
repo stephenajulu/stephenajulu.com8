@@ -1,35 +1,35 @@
 ---
-title: 'Red Meat: Friend or Foe'
-subtitle: Is red meat a friend or a foe? In this article we look at new research that
-  seems to be indicating that red meat is actually healthy contrary to popular belief.
+categories:
+- Lifestyle
+- Health
+date: 2023-01-28 08:45:00+03:00
 excerpt: Is red meat a friend or a foe? In this article we look at new research that
   seems to be indicating that red meat is actually healthy contrary to popular belief.
-date: 2023-01-28 08:45:00+03:00
 image: images/photo-1555265399-48aa9c11d869.jpeg
 image_alt: Is red meat a friend or a foe? In this article we look at new research
   that seems to be indicating that red meat is actually healthy contrary to popular
   belief.
+layout: post
 seo:
-  title: 'Red Meat: Friend or Foe'
   description: Is red meat a friend or a foe? In this article we look at new research
     that seems to be indicating that red meat is actually healthy contrary to popular
     belief.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'Red Meat: Friend or Foe'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Is red meat a friend or a foe? In this article we look at new research
       that seems to be indicating that red meat is actually healthy contrary to popular
       belief.
-    keyName: property
-  - name: og:image
-    value: images/photo-1555265399-48aa9c11d869.jpeg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/photo-1555265399-48aa9c11d869.jpeg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -39,11 +39,23 @@ seo:
       that seems to be indicating that red meat is actually healthy contrary to popular
       belief.
   - name: twitter:image
-    value: images/photo-1555265399-48aa9c11d869.jpeg
     relativeUrl: true
-layout: post
+    value: images/photo-1555265399-48aa9c11d869.jpeg
+  title: 'Red Meat: Friend or Foe'
+subtitle: Is red meat a friend or a foe? In this article we look at new research that
+  seems to be indicating that red meat is actually healthy contrary to popular belief.
+tags:
+- red meat
+- meat
+- research
+- chronic disease
+- carnivore
+- lipivore
+- health
+- lifestyle
+- bioavailability
+title: 'Red Meat: Friend or Foe'
 ---
-
 Red meat, including beef, pork, and lamb, has long been considered a dietary villain due to its association with an increased risk of chronic diseases such as cancer, diabetes, and heart disease. However, recent research has shown that these claims may not be entirely accurate and that red meat can actually be a key healthy component of a balanced diet.
 
 First, it is important to understand that not all red meat is created equal. Processed meats, such as bacon, deli meats, and sausages, have been consistently linked to an increased risk of chronic diseases due to their high levels of salt, preservatives, and other additives. However, unprocessed red meats, such as grass-fed beef and wild game, are a rich source of nutrients, including protein, iron, zinc, and B vitamins.

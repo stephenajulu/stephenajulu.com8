@@ -1,27 +1,28 @@
 ---
-title: Coins You Should Be Buying During This Dip and HODL Long Term
-subtitle: Coins You Should Be Buying During This Dip and HODL Long Term
-excerpt: Coins You Should Be Buying During This Dip and HODL Long Term
+categories:
+- investing
+- finance
 date: 2022-05-17 12:22:00+03:00
+excerpt: Coins You Should Be Buying During This Dip and HODL Long Term
 image: images/quantitatives-hio84a6fnvw-unsplash.jpg
 image_alt: Coins You Should Be Buying During This Dip and HODL Long Term
+layout: post
 seo:
-  title: Coins You Should Be Buying During This Dip and HODL Long Term
   description: Coins You Should Be Buying During This Dip and HODL Long Term
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Coins You Should Be Buying During This Dip and HODL Long Term
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Coins You Should Be Buying During This Dip and HODL Long Term
-    keyName: property
-  - name: og:image
-    value: images/quantitatives-hio84a6fnvw-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/quantitatives-hio84a6fnvw-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +30,17 @@ seo:
   - name: twitter:description
     value: Coins You Should Be Buying During This Dip and HODL Long Term
   - name: twitter:image
-    value: images/quantitatives-hio84a6fnvw-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/quantitatives-hio84a6fnvw-unsplash.jpg
+  title: Coins You Should Be Buying During This Dip and HODL Long Term
+subtitle: Coins You Should Be Buying During This Dip and HODL Long Term
+tags:
+- investing
+- finance
+- cryptocurrency
+- cryptocurrencies
+title: Coins You Should Be Buying During This Dip and HODL Long Term
 ---
-
 These coins may hold future technologies or may be used to power amazing things.
 
  1. Bitcoin

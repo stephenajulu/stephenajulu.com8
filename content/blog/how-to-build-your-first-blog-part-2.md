@@ -1,27 +1,27 @@
 ---
-title: How to Build Your First Blog Part 2
-subtitle: ''
-excerpt: ''
+categories:
+- life
 date: 2021-02-08 06:20:00+00:00
+excerpt: ''
 image: images/blog.jpg
 image_alt: ''
+layout: post
 seo:
-  title: How to Build Your First Blog Part 2
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: How to Build Your First Blog Part 2
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/blog.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/blog.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,14 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/blog.jpg
     relativeUrl: true
-layout: post
+    value: images/blog.jpg
+  title: How to Build Your First Blog Part 2
+subtitle: ''
+tags:
+- blogging
+title: How to Build Your First Blog Part 2
 ---
-
 Recap: Today I showed you [how to buy your first share](https://ajulusthoughts.stephenajulu.com/post/how-to-buy-your-first-share/) and simple free ways to [build your first blog](https://ajulusthoughts.netlify.app/post/how-to-build-your-first-blog/).
 
 Now I'll show you the paid and slightly more technical ways to build your first blog.

@@ -1,27 +1,29 @@
 ---
-title: Simple Search Engine Optimization(SEO) Guide
-subtitle: ''
-excerpt: ''
+categories:
+- seo
+- search engine optimization
+- seo guide
 date: 2021-08-01 17:45:00+03:00
+excerpt: ''
 image: images/stephen-phillips-hostreviews-co-uk-shr_xn8s8qu-unsplash.jpg
 image_alt: ''
+layout: post
 seo:
-  title: Simple Search Engine Optimization(SEO) Guide
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Simple Search Engine Optimization(SEO) Guide
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/stephen-phillips-hostreviews-co-uk-shr_xn8s8qu-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/stephen-phillips-hostreviews-co-uk-shr_xn8s8qu-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/stephen-phillips-hostreviews-co-uk-shr_xn8s8qu-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/stephen-phillips-hostreviews-co-uk-shr_xn8s8qu-unsplash.jpg
+  title: Simple Search Engine Optimization(SEO) Guide
+subtitle: ''
+tags:
+- seo
+- search engine optimization
+- seo guide
+title: Simple Search Engine Optimization(SEO) Guide
 ---
-
 Here's a simple search engine optimization guide
 
 ## 1. Create Good Content

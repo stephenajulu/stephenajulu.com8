@@ -1,40 +1,37 @@
 ---
-title: 'An Introduction in Blockchain, Cryptocurrencies, Tokens, Smart Contracts,
-  NFTs, Web3, DeFi, GameFi and DeIn: Crash Course'
-subtitle: Here i'll cover surface level facts about the blockchain, cryptocurrency,
-  token, smart contract, non fungible token, web3, decentralized finance, game finance
-  and decentralized insurance technologies
+categories:
+- Technology
+- Tech
+date: 2022-08-21 18:20:00+03:00
 excerpt: Here i'll cover surface level facts about the blockchain, cryptocurrency,
   token, smart contract, non fungible token, web3, decentralized finance, game finance
   and decentralized insurance technologies
-date: 2022-08-21 18:20:00+03:00
 image: images/1644357966865.png
 image_alt: Here i'll cover surface level facts about the blockchain, cryptocurrency,
   token, smart contract, non fungible token, web3, decentralized finance, game finance
   and decentralized insurance technologies
+layout: post
 seo:
-  title: 'An Introduction in Blockchain, Cryptocurrencies, Tokens, Smart Contracts,
-    NFTs, Web3, DeFi, GameFi and DeIn: Crash Course'
   description: Here i'll cover surface level facts about the blockchain, cryptocurrency,
     token, smart contract, non fungible token, web3, decentralized finance, game finance
     and decentralized insurance technologies
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'An Introduction in Blockchain, Cryptocurrencies, Tokens, Smart Contracts,
       NFTs, Web3, DeFi, GameFi and DeIn: Crash Course'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here i'll cover surface level facts about the blockchain, cryptocurrency,
       token, smart contract, non fungible token, web3, decentralized finance, game
       finance and decentralized insurance technologies
-    keyName: property
-  - name: og:image
-    value: images/1644357966865.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/1644357966865.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -45,11 +42,34 @@ seo:
       token, smart contract, non fungible token, web3, decentralized finance, game
       finance and decentralized insurance technologies
   - name: twitter:image
-    value: images/1644357966865.png
     relativeUrl: true
-layout: post
+    value: images/1644357966865.png
+  title: 'An Introduction in Blockchain, Cryptocurrencies, Tokens, Smart Contracts,
+    NFTs, Web3, DeFi, GameFi and DeIn: Crash Course'
+subtitle: Here i'll cover surface level facts about the blockchain, cryptocurrency,
+  token, smart contract, non fungible token, web3, decentralized finance, game finance
+  and decentralized insurance technologies
+tags:
+- blockchain
+- cryptocurrency
+- token
+- smart contract
+- non fungible token
+- web3
+- decentralized finance
+- game finance
+- decentralized insuarance
+- crypto
+- nft
+- defi
+- gamefi
+- dein
+- cryptocurrencies
+- tokens
+- tokenomics
+title: 'An Introduction in Blockchain, Cryptocurrencies, Tokens, Smart Contracts,
+  NFTs, Web3, DeFi, GameFi and DeIn: Crash Course'
 ---
-
 Hello there, today I'll be covering definitions:
 
 ## What is blockchain?

@@ -1,32 +1,33 @@
 ---
-title: Top 6 Cryptocurrency Gaming Tokens/Coins To Watch
-subtitle: Here's my top 6 gaming token recommendation list with their price as seen
-  during the writing of this article.
+categories:
+- Finance
+- Technology
+- Gaming
+date: 2021-12-02 11:35:00+03:00
 excerpt: Here's my top 6 gaming token recommendation list with their price as seen
   during the writing of this article.
-date: 2021-12-02 11:35:00+03:00
 image: images/nft-crypto-gaming-developers.jpg
 image_alt: Here's my top 6 gaming token recommendation list with their price as seen
   during the writing of this article.
+layout: post
 seo:
-  title: Top 6 Cryptocurrency Gaming Tokens/Coins To Watch
   description: Here's my top 6 gaming token recommendation list with their price as
     seen during the writing of this article.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Top 6 Cryptocurrency Gaming Tokens/Coins To Watch
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here's my top 6 gaming token recommendation list with their price as seen
       during the writing of this article.
-    keyName: property
-  - name: og:image
-    value: images/nft-crypto-gaming-developers.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/nft-crypto-gaming-developers.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +36,35 @@ seo:
     value: Here's my top 6 gaming token recommendation list with their price as seen
       during the writing of this article.
   - name: twitter:image
-    value: images/nft-crypto-gaming-developers.jpg
     relativeUrl: true
-layout: post
+    value: images/nft-crypto-gaming-developers.jpg
+  title: Top 6 Cryptocurrency Gaming Tokens/Coins To Watch
+subtitle: Here's my top 6 gaming token recommendation list with their price as seen
+  during the writing of this article.
+tags:
+- finance
+- technology
+- gaming
+- cryptocurrencies
+- cryptocurrency
+- tokens
+- gaming tokens
+- gaming coins
+- cryptocurrency gaming tokens
+- cryptocurrency gaming coins
+- cryptocurrency tokens
+- cryptocurrency coins
+- axie infinity
+- axs
+- enj
+- enjin
+- gala
+- sand
+- sandbox
+- ilv
+- illuvium
+title: Top 6 Cryptocurrency Gaming Tokens/Coins To Watch
 ---
-
 Here are my top 6 gaming tokens listed with their price as seen during the writing of this article.
 
 1. Axie Infinity(AXS): $136 or Ksh 15,320.40

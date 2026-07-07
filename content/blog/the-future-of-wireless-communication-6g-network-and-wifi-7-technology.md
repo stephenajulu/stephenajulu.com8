@@ -1,38 +1,38 @@
 ---
-title: 'The Future of Wireless Communication: 6G Network and WiFi 7 Technology'
-subtitle: Learn about the latest developments in wireless communication with 6G network
-  and Wi-Fi 7 technology. Discover how these advancements will transform industries
-  and our daily lives, and what we can expect from the future of wireless communication.
+categories:
+- Technology
+- Tech
+- Lifestyle
+date: 2023-02-17 10:14:00+03:00
 excerpt: Learn about the latest developments in wireless communication with 6G network
   and Wi-Fi 7 technology. Discover how these advancements will transform industries
   and our daily lives, and what we can expect from the future of wireless communication.
-date: 2023-02-17 10:14:00+03:00
 image: images/spectrum-regulator-industry-2.jpg
 image_alt: Learn about the latest developments in wireless communication with 6G network
   and Wi-Fi 7 technology. Discover how these advancements will transform industries
   and our daily lives, and what we can expect from the future of wireless communication.
+layout: post
 seo:
-  title: 'The Future of Wireless Communication: 6G Network and WiFi 7 Technology'
   description: Learn about the latest developments in wireless communication with
     6G network and Wi-Fi 7 technology. Discover how these advancements will transform
     industries and our daily lives, and what we can expect from the future of wireless
     communication.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'The Future of Wireless Communication: 6G Network and WiFi 7 Technology'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Learn about the latest developments in wireless communication with 6G network
       and Wi-Fi 7 technology. Discover how these advancements will transform industries
       and our daily lives, and what we can expect from the future of wireless communication.
-    keyName: property
-  - name: og:image
-    value: images/spectrum-regulator-industry-2.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/spectrum-regulator-industry-2.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -42,11 +42,29 @@ seo:
       and Wi-Fi 7 technology. Discover how these advancements will transform industries
       and our daily lives, and what we can expect from the future of wireless communication.
   - name: twitter:image
-    value: images/spectrum-regulator-industry-2.jpg
     relativeUrl: true
-layout: post
+    value: images/spectrum-regulator-industry-2.jpg
+  title: 'The Future of Wireless Communication: 6G Network and WiFi 7 Technology'
+subtitle: Learn about the latest developments in wireless communication with 6G network
+  and Wi-Fi 7 technology. Discover how these advancements will transform industries
+  and our daily lives, and what we can expect from the future of wireless communication.
+tags:
+- 6g
+- 5g
+- 4g
+- wifi 6
+- wifi 6e
+- wifi 7
+- wireless communication
+- technology
+- data speed
+- latency
+- connectivity
+- healthcare
+- transportation
+- manufacturing
+title: 'The Future of Wireless Communication: 6G Network and WiFi 7 Technology'
 ---
-
 Wireless communication has revolutionized the way we connect and interact with each other, and as technology continues to advance, we can expect even faster and more reliable networks in the future. In this article, we will discuss the latest developments in wireless technology, specifically the emergence of 6G network and WiFi 7. We will explore the potential benefits of these technologies and how they will shape the future of wireless communication.
 
 What is 6G Network? 6G network is the next generation of wireless technology that promises to deliver even faster data speeds, lower latency, and greater connectivity than the current 5G networks. While 5G is still in its early stages, with limited deployment and adoption, researchers and industry experts are already working on developing 6G technology.

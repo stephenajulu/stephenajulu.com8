@@ -1,34 +1,33 @@
 ---
-title: The Testosterone Pandemic
-subtitle: Testosterone has been dropping each year by 1% since 1950. Men are becoming
-  less manly, not only in behavior and appearance but also in their biological makeup.
+categories:
+- Health
+date: 2022-08-16 21:32:00+03:00
 excerpt: Testosterone has been dropping each year by 1% since 1950. Men are becoming
   less manly, not only in behavior and appearance but also in their biological makeup.
-date: 2022-08-16 21:32:00+03:00
 image: images/800px-gigachad.png
 image_alt: Testosterone has been dropping each year by 1% since 1950. Men are becoming
   less manly, not only in behavior and appearance but also in their biological makeup.
+layout: post
 seo:
-  title: The Testosterone Pandemic
   description: Testosterone has been dropping each year by 1% since 1950. Men are
     becoming less manly, not only in behavior and appearance but also in their biological
     makeup.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: The Testosterone Pandemic
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Testosterone has been dropping each year by 1% since 1950. Men are becoming
       less manly, not only in behavior and appearance but also in their biological
       makeup.
-    keyName: property
-  - name: og:image
-    value: images/800px-gigachad.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/800px-gigachad.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -38,11 +37,20 @@ seo:
       less manly, not only in behavior and appearance but also in their biological
       makeup.
   - name: twitter:image
-    value: images/800px-gigachad.png
     relativeUrl: true
-layout: post
+    value: images/800px-gigachad.png
+  title: The Testosterone Pandemic
+subtitle: Testosterone has been dropping each year by 1% since 1950. Men are becoming
+  less manly, not only in behavior and appearance but also in their biological makeup.
+tags:
+- testosterone
+- androgen
+- pandemic
+- men
+- endocrine
+- endocrinology
+title: The Testosterone Pandemic
 ---
-
 Testosterone has been dropping each year by 1% since 1950.
 
 Men are becoming less manly, not only in behavior and appearance but also in their biological makeup.

@@ -1,27 +1,27 @@
 ---
-title: 'App of The Week #2'
-subtitle: ''
-excerpt: ''
+categories:
+- apps
 date: 2021-06-27 06:40:00+03:00
+excerpt: ''
 image: images/adobe_post_20210627_0658040-5932378357381964.png
 image_alt: ''
+layout: post
 seo:
-  title: 'App of The Week #2'
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'App of The Week #2'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/adobe_post_20210627_0658040-5932378357381964.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/adobe_post_20210627_0658040-5932378357381964.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/adobe_post_20210627_0658040-5932378357381964.png
     relativeUrl: true
-layout: post
+    value: images/adobe_post_20210627_0658040-5932378357381964.png
+  title: 'App of The Week #2'
+subtitle: ''
+tags:
+- apps
+- simplenote
+- note taking
+title: 'App of The Week #2'
 ---
-
 Here's the app of the week #2
 
 ## [Simplenote](https://play.google.com/store/apps/details?id=com.automattic.simplenote)

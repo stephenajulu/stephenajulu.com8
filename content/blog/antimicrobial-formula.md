@@ -1,32 +1,31 @@
 ---
-title: Antimicrobial Formula(Natural Antibiotic)
-subtitle: Here's an antimicrobial formula that can boost your immunity and help you
-  fight off harmful bacteria, viruses, and even fungus.
+categories:
+- health
+date: 2022-05-17 03:36:00+03:00
 excerpt: Here's an antimicrobial formula that can boost your immunity and help you
   fight off harmful bacteria, viruses, and even fungus.
-date: 2022-05-17 03:36:00+03:00
 image: images/dominik-martin-jyfmyif4n70-unsplash.jpg
 image_alt: Here's an antimicrobial formula that can boost your immunity and help you
   fight off harmful bacteria, viruses, and even fungus.
+layout: post
 seo:
-  title: Antimicrobial Formula(Natural Antibiotic)
   description: Here's an antimicrobial formula that can boost your immunity and help
     you fight off harmful bacteria, viruses, and even fungus.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Antimicrobial Formula(Natural Antibiotic)
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here's an antimicrobial formula that can boost your immunity and help you
       fight off harmful bacteria, viruses, and even fungus.
-    keyName: property
-  - name: og:image
-    value: images/dominik-martin-jyfmyif4n70-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/dominik-martin-jyfmyif4n70-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +34,15 @@ seo:
     value: Here's an antimicrobial formula that can boost your immunity and help you
       fight off harmful bacteria, viruses, and even fungus.
   - name: twitter:image
-    value: images/dominik-martin-jyfmyif4n70-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/dominik-martin-jyfmyif4n70-unsplash.jpg
+  title: Antimicrobial Formula(Natural Antibiotic)
+subtitle: Here's an antimicrobial formula that can boost your immunity and help you
+  fight off harmful bacteria, viruses, and even fungus.
+tags:
+- health
+title: Antimicrobial Formula(Natural Antibiotic)
 ---
-
 Here's an antimicrobial recipe that can boost your immunity/health and help you fight off harmful bacteria, viruses, and even fungus.
 
 Requirements:

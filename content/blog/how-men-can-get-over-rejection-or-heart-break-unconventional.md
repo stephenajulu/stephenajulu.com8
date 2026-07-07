@@ -1,27 +1,27 @@
 ---
-title: 'How Men Can Get Over Rejection or Heart Break: Unconventional'
-subtitle: How to deal with rejection or hurt break like a man
-excerpt: How to deal with rejection or hurt break like a man
+categories:
+- Lifestyle
 date: 2023-02-24 14:42:00+03:00
+excerpt: How to deal with rejection or hurt break like a man
 image: images/photo-1591602672136-b205b9e92d12-1.jpeg
 image_alt: How to deal with rejection or hurt break like a man
+layout: post
 seo:
-  title: 'How Men Can Get Over Rejection or Heart Break: Unconventional'
   description: How to deal with rejection or hurt break like a man
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'How Men Can Get Over Rejection or Heart Break: Unconventional'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: How to deal with rejection or hurt break like a man
-    keyName: property
-  - name: og:image
-    value: images/photo-1591602672136-b205b9e92d12-1.jpeg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/photo-1591602672136-b205b9e92d12-1.jpeg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,22 @@ seo:
   - name: twitter:description
     value: How to deal with rejection or hurt break like a man
   - name: twitter:image
-    value: images/photo-1591602672136-b205b9e92d12-1.jpeg
     relativeUrl: true
-layout: post
+    value: images/photo-1591602672136-b205b9e92d12-1.jpeg
+  title: 'How Men Can Get Over Rejection or Heart Break: Unconventional'
+subtitle: How to deal with rejection or hurt break like a man
+tags:
+- heart break
+- rejection
+- love
+- career
+- men
+- man
+- masculinity
+- mental health
+- health
+title: 'How Men Can Get Over Rejection or Heart Break: Unconventional'
 ---
-
 1. Create distance: If it's someone who stays far from you. Delete contacts, unfollow, and do everything you can to create distance. If you can't, read on.
 2. Get in the gym: The gym is a great place to deal with your inner demons and emotional issues. Just pump it away. Use more pain to musk pain. In my country Kenya, we have a saying: "Dawa ya moto ni moto" The best solution in case of a fire is more fire.
 3. Go monk mode: Just abandon everything and focus on getting ahead. These females are in the millions but you only have one life. Focus, get rich, get fit, and grow then watch the number of options you have grow.

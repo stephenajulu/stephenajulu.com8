@@ -1,27 +1,27 @@
 ---
-title: How To Invest
-subtitle: ''
-excerpt: ''
+categories:
+- finance
 date: 2021-02-10 09:00:00+00:00
+excerpt: ''
 image: images/feature-758x426.jpg
 image_alt: ''
+layout: post
 seo:
-  title: How To Invest
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: How To Invest
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/feature-758x426.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/feature-758x426.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,19 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/feature-758x426.jpg
     relativeUrl: true
-layout: post
+    value: images/feature-758x426.jpg
+  title: How To Invest
+subtitle: ''
+tags:
+- investment
+- investing
+- finance
+- investing kenya
+- getting stated
+- featured
+title: How To Invest
 ---
-
 Hey there? Today I'll show you how to get started investing.
 
 **Disclaimer: I am not a financial expert, down below is purely my opinion.**

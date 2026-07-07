@@ -1,27 +1,28 @@
 ---
-title: 8 Basic Laws Of Men
-subtitle: A framework to properly navigate your life as a man of excellence
-excerpt: A framework to properly navigate your life as a man of excellence
+categories:
+- Self Improvement
+- Lifestyle
 date: 2022-11-10 21:30:00+03:00
+excerpt: A framework to properly navigate your life as a man of excellence
 image: images/jens-lindner-dp6g1yjwqca-unsplash.jpg
 image_alt: A framework to properly navigate your life as a man of excellence
+layout: post
 seo:
-  title: 8 Basic Laws Of Men
   description: A framework to properly navigate your life as a man of excellence
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 8 Basic Laws Of Men
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: A framework to properly navigate your life as a man of excellence
-    keyName: property
-  - name: og:image
-    value: images/jens-lindner-dp6g1yjwqca-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/jens-lindner-dp6g1yjwqca-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +30,25 @@ seo:
   - name: twitter:description
     value: A framework to properly navigate your life as a man of excellence
   - name: twitter:image
-    value: images/jens-lindner-dp6g1yjwqca-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/jens-lindner-dp6g1yjwqca-unsplash.jpg
+  title: 8 Basic Laws Of Men
+subtitle: A framework to properly navigate your life as a man of excellence
+tags:
+- masculinity
+- masculine
+- men
+- man
+- laws of men
+- laws for men
+- self improvement
+- self mastery
+- personal development
+- lifestyle
+- mensday
+- excellence
+title: 8 Basic Laws Of Men
 ---
-
 ### **Law 1: Build Your Foundation**
 
 ### **Law 2: Equip Yourself For The Journey**

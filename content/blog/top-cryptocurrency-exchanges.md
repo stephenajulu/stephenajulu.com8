@@ -1,28 +1,29 @@
 ---
-title: Top Cryptocurrency Exchanges
-subtitle: Here a the top cryptocurrency exchanges listed based on transaction volume
-excerpt: Here a the top cryptocurrency exchanges listed based on transaction volume
+categories:
+- Technology
+- Finance
 date: 2021-12-01 14:35:00+03:00
+excerpt: Here a the top cryptocurrency exchanges listed based on transaction volume
 image: images/top-5-crypto-exchanges-to-trade-cryptos-in-2021.jpg
 image_alt: Here a the top cryptocurrency exchanges listed based on transaction volume
+layout: post
 seo:
-  title: Top Cryptocurrency Exchanges
   description: Here a the top cryptocurrency exchanges listed based on transaction
     volume
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Top Cryptocurrency Exchanges
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here a the top cryptocurrency exchanges listed based on transaction volume
-    keyName: property
-  - name: og:image
-    value: images/top-5-crypto-exchanges-to-trade-cryptos-in-2021.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/top-5-crypto-exchanges-to-trade-cryptos-in-2021.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -30,11 +31,18 @@ seo:
   - name: twitter:description
     value: Here a the top cryptocurrency exchanges listed based on transaction volume
   - name: twitter:image
-    value: images/top-5-crypto-exchanges-to-trade-cryptos-in-2021.jpg
     relativeUrl: true
-layout: post
+    value: images/top-5-crypto-exchanges-to-trade-cryptos-in-2021.jpg
+  title: Top Cryptocurrency Exchanges
+subtitle: Here a the top cryptocurrency exchanges listed based on transaction volume
+tags:
+- finance
+- technology
+- cryptocurrency
+- cryptocurrencies
+- cryptocurrency exchange
+title: Top Cryptocurrency Exchanges
 ---
-
 1. Binance: [Register here](https://accounts.binance.com/en/register?ref=CL2JFAB6)
 2. Coinbase: [Register here](https://www.coinbase.com/join/ajulu_v)
 3. FTX

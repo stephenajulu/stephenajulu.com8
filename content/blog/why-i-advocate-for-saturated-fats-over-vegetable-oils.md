@@ -1,27 +1,28 @@
 ---
-title: Why I Advocate For Saturated Fats Over Vegetable Oils(Updated)
-subtitle: Why I Advocate For Saturated Fats Over Vegetable Oils
-excerpt: Why I Advocate For Saturated Fats Over Vegetable Oils
+categories:
+- health
+- lifestyle
 date: 2022-06-15 19:19:00+03:00
+excerpt: Why I Advocate For Saturated Fats Over Vegetable Oils
 image: images/ashwini-chaudhary-monty-w0oykevw9n4-unsplash.jpg
 image_alt: Why I Advocate For Saturated Fats Over Vegetable Oils
+layout: post
 seo:
-  title: Why I Advocate For Saturated Fats Over Vegetable Oils(Updated)
   description: Why I Advocate For Saturated Fats Over Vegetable Oils
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Why I Advocate For Saturated Fats Over Vegetable Oils(Updated)
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Why I Advocate For Saturated Fats Over Vegetable Oils
-    keyName: property
-  - name: og:image
-    value: images/ashwini-chaudhary-monty-w0oykevw9n4-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/ashwini-chaudhary-monty-w0oykevw9n4-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +30,15 @@ seo:
   - name: twitter:description
     value: Why I Advocate For Saturated Fats Over Vegetable Oils
   - name: twitter:image
-    value: images/ashwini-chaudhary-monty-w0oykevw9n4-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/ashwini-chaudhary-monty-w0oykevw9n4-unsplash.jpg
+  title: Why I Advocate For Saturated Fats Over Vegetable Oils(Updated)
+subtitle: Why I Advocate For Saturated Fats Over Vegetable Oils
+tags:
+- health
+- lifestyle
+title: Why I Advocate For Saturated Fats Over Vegetable Oils(Updated)
 ---
-
 Here's why I believe saturated animal fats, coconut oil, avocado oil, and olive oil should replace ALL your vegetable oils:
 
 ### 1. Vegetable oils are not actually made from vegetables

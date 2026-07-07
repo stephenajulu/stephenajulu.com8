@@ -1,32 +1,32 @@
 ---
-title: Benefits of A Cold Shower/Bath
-subtitle: In this post, I cover the benefits of a cold shower or bath. Especially
-  for me.
+categories:
+- grooming
+- health
+date: 2022-01-31 08:51:00+03:00
 excerpt: In this post, I cover the benefits of a cold shower or bath. Especially for
   me.
-date: 2022-01-31 08:51:00+03:00
 image: images/seth-doyle-ji6lmwtghf4-unsplash.jpg
 image_alt: In this post, I cover the benefits of a cold shower or bath. Especially
   for me.
+layout: post
 seo:
-  title: Benefits of A Cold Shower/Bath
   description: In this post, I cover the benefits of a cold shower or bath. Especially
     for me.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Benefits of A Cold Shower/Bath
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: In this post, I cover the benefits of a cold shower or bath. Especially
       for me.
-    keyName: property
-  - name: og:image
-    value: images/seth-doyle-ji6lmwtghf4-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/seth-doyle-ji6lmwtghf4-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +35,21 @@ seo:
     value: In this post, I cover the benefits of a cold shower or bath. Especially
       for me.
   - name: twitter:image
-    value: images/seth-doyle-ji6lmwtghf4-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/seth-doyle-ji6lmwtghf4-unsplash.jpg
+  title: Benefits of A Cold Shower/Bath
+subtitle: In this post, I cover the benefits of a cold shower or bath. Especially
+  for me.
+tags:
+- cold showers
+- cold shower
+- cold bath
+- cold baths
+- grooming
+- health
+- mental health
+title: Benefits of A Cold Shower/Bath
 ---
-
 Hello there guys! How are you? Today I'd like to cover the benefits of bathing with cold water.
 
 * **It wakes you up faster than a coffee cup**. Struggling to shake off morning grogginess? Freezing water boosts the production of norepinephrine and dopamine, two hormones that shift your nervous system into a sympathetic state – which essentially means that it’s a great way to get hyped up.

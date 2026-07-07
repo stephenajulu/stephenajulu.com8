@@ -1,27 +1,27 @@
 ---
-title: How I Started Investing
-subtitle: ''
-excerpt: ''
+categories:
+- finance
 date: 2021-02-08 15:00:00+00:00
+excerpt: ''
 image: images/investing-1.png
 image_alt: ''
+layout: post
 seo:
-  title: How I Started Investing
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: How I Started Investing
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/investing-1.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/investing-1.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,12 +29,18 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/investing-1.png
     relativeUrl: true
-layout: post
+    value: images/investing-1.png
+  title: How I Started Investing
+subtitle: ''
+tags:
+- investment
+- investing
+- finance
+- investing kenya
+- getting stated
+title: How I Started Investing
 ---
-
-
 Hi, how are you? 
 
 My name is Stephen and welcome to "How I Started Investing".

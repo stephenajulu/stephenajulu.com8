@@ -1,27 +1,28 @@
 ---
-title: Green Flags For Men Interested In A Keeper
-subtitle: Men, these green flags make her a keeper
-excerpt: Men, these green flags make her a keeper
+categories:
+- Dating
+- Women
 date: 2022-01-27 13:04:00+03:00
+excerpt: Men, these green flags make her a keeper
 image: images/sasha-freemind-nxo2zskhthg-unsplash.jpg
 image_alt: Men, these green flags make her a keeper
+layout: post
 seo:
-  title: Green Flags For Men Interested In A Keeper
   description: Men, these green flags make her a keeper
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Green Flags For Men Interested In A Keeper
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Men, these green flags make her a keeper
-    keyName: property
-  - name: og:image
-    value: images/sasha-freemind-nxo2zskhthg-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/sasha-freemind-nxo2zskhthg-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +30,17 @@ seo:
   - name: twitter:description
     value: Men, these green flags make her a keeper
   - name: twitter:image
-    value: images/sasha-freemind-nxo2zskhthg-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/sasha-freemind-nxo2zskhthg-unsplash.jpg
+  title: Green Flags For Men Interested In A Keeper
+subtitle: Men, these green flags make her a keeper
+tags:
+- dating
+- women
+- green flags
+- red flags
+title: Green Flags For Men Interested In A Keeper
 ---
-
 Hello there! How are you? With no second to waste let's jump right in. But before that remember that you have to first put in work on yourself. Improve yourself first. Be worthy of seeking out these high-quality women.
 
  1. Has a good relationship with her father: I always say this, if she can't respect her father what makes you think she will respect you? Does she speak highly of him? What does the family look like? If she has a good relationship with her father then that's great.

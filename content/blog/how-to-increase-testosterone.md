@@ -1,27 +1,29 @@
 ---
-title: How to Increase Testosterone
-subtitle: ''
-excerpt: ''
+categories:
+- man
+- manhood
+- testosterone
 date: 2021-08-06 17:45:00+03:00
+excerpt: ''
 image: images/abby-savage-9urds43o8c-unsplash.jpg
 image_alt: ''
+layout: post
 seo:
-  title: How to Increase Testosterone
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: How to Increase Testosterone
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/abby-savage-9urds43o8c-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/abby-savage-9urds43o8c-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/abby-savage-9urds43o8c-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/abby-savage-9urds43o8c-unsplash.jpg
+  title: How to Increase Testosterone
+subtitle: ''
+tags:
+- man
+- manhood
+- testosterone
+title: How to Increase Testosterone
 ---
-
 Can you believe that our fathers and grandfathers had 10 times the testosterone we have today? Today I'll show you how to increase it.
 
 But first, let learn more about this male hormone.

@@ -1,27 +1,27 @@
 ---
-title: Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics
-subtitle: Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics
-excerpt: Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics
+categories:
+- Health
 date: 2022-07-22 08:36:00+03:00
+excerpt: Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics
 image: images/camilo-jimenez-0ylmwcxlwlw-unsplash.jpg
 image_alt: Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics
+layout: post
 seo:
-  title: Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics
   description: Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics
-    keyName: property
-  - name: og:image
-    value: images/camilo-jimenez-0ylmwcxlwlw-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/camilo-jimenez-0ylmwcxlwlw-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,23 @@ seo:
   - name: twitter:description
     value: Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics
   - name: twitter:image
-    value: images/camilo-jimenez-0ylmwcxlwlw-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/camilo-jimenez-0ylmwcxlwlw-unsplash.jpg
+  title: Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics
+subtitle: Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics
+tags:
+- endocrine system
+- endocrinology
+- endocrine disruptors
+- hormones
+- hormonal
+- hormonal disruptors
+- health
+- pthalates
+- parabens
+- toxic cosmetics
+title: Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics
 ---
-
 First, let's start with the definition of the endocrine system.
 
 ### What is the endocrine system?

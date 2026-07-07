@@ -1,27 +1,27 @@
 ---
-title: High Value In-Demand Skills
-subtitle: ''
-excerpt: ''
+categories:
+- skills
 date: 2021-09-02 12:28:00+03:00
+excerpt: ''
 image: images/priscilla-du-preez-xkkcui44im0-unsplash.jpg
 image_alt: ''
+layout: post
 seo:
-  title: High Value In-Demand Skills
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: High Value In-Demand Skills
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/priscilla-du-preez-xkkcui44im0-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/priscilla-du-preez-xkkcui44im0-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,14 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/priscilla-du-preez-xkkcui44im0-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/priscilla-du-preez-xkkcui44im0-unsplash.jpg
+  title: High Value In-Demand Skills
+subtitle: ''
+tags:
+- skill
+title: High Value In-Demand Skills
 ---
-
 Let me start by saying this, "Every skill you acquire doubles your chances of success"
 
 Here are a few high-value high-income in-demand skills:

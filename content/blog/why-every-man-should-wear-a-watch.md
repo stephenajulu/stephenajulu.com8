@@ -1,27 +1,29 @@
 ---
-title: Why EVERY Man Should Wear a Watch
-subtitle: ''
-excerpt: ''
+categories:
+- fashion
+- lifestyle
+- watches
 date: 2021-08-09 17:06:00+03:00
+excerpt: ''
 image: images/watch1.jpg
 image_alt: ''
+layout: post
 seo:
-  title: Why EVERY Man Should Wear a Watch
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Why EVERY Man Should Wear a Watch
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/watch1.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/watch1.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/watch1.jpg
     relativeUrl: true
-layout: post
+    value: images/watch1.jpg
+  title: Why EVERY Man Should Wear a Watch
+subtitle: ''
+tags:
+- fashion
+- lifestyle
+- watches
+title: Why EVERY Man Should Wear a Watch
 ---
-
 I often talk about how important accessories are to your overall look and wardrobe. When done well, they add that extra 20% that pulls everything together and really lets your personality shine. I don’t recommend a ton of accessories but watches are one of the most important ones. It’s true that the watch you wear says a lot about you, whether you like it or not. Here is data collected from both men and women on why every man should wear a watch.
 
 ![](https://ajulusthoughts.files.wordpress.com/2020/01/oniakna.jpg?w=1024)

@@ -1,47 +1,45 @@
 ---
-title: The Future of Daily Life
-subtitle: The future of daily life is full of possibilities, with advancements in
-  smart homes, smart cities, IoT, wearables, augmented reality, holograms, wireless
-  technology, modularity, blockchain, quantum computing, electric cars, flying cars,
-  railguns, cryosleep, robots, drones, and more. Discover what the future could hold
-  in this in-depth article.
+categories:
+- Lifestyle
+- Technology
+- Tech
+date: 2023-02-16 14:35:00+03:00
 excerpt: The future of daily life is full of possibilities, with advancements in smart
   homes, smart cities, IoT, wearables, augmented reality, holograms, wireless technology,
   modularity, blockchain, quantum computing, electric cars, flying cars, railguns,
   cryosleep, robots, drones, and more. Discover what the future could hold in this
   in-depth article.
-date: 2023-02-16 14:35:00+03:00
 image: images/wp8380764.jpg
 image_alt: The future of daily life is full of possibilities, with advancements in
   smart homes, smart cities, IoT, wearables, augmented reality, holograms, wireless
   technology, modularity, blockchain, quantum computing, electric cars, flying cars,
   railguns, cryosleep, robots, drones, and more. Discover what the future could hold
   in this in-depth article.
+layout: post
 seo:
-  title: The Future of Daily Life
   description: The future of daily life is full of possibilities, with advancements
     in smart homes, smart cities, IoT, wearables, augmented reality, holograms, wireless
     technology, modularity, blockchain, quantum computing, electric cars, flying cars,
     railguns, cryosleep, robots, drones, and more. Discover what the future could
     hold in this in-depth article.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: The Future of Daily Life
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: The future of daily life is full of possibilities, with advancements in
       smart homes, smart cities, IoT, wearables, augmented reality, holograms, wireless
       technology, modularity, blockchain, quantum computing, electric cars, flying
       cars, railguns, cryosleep, robots, drones, and more. Discover what the future
       could hold in this in-depth article.
-    keyName: property
-  - name: og:image
-    value: images/wp8380764.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/wp8380764.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -53,11 +51,29 @@ seo:
       cars, railguns, cryosleep, robots, drones, and more. Discover what the future
       could hold in this in-depth article.
   - name: twitter:image
-    value: images/wp8380764.jpg
     relativeUrl: true
-layout: post
+    value: images/wp8380764.jpg
+  title: The Future of Daily Life
+subtitle: The future of daily life is full of possibilities, with advancements in
+  smart homes, smart cities, IoT, wearables, augmented reality, holograms, wireless
+  technology, modularity, blockchain, quantum computing, electric cars, flying cars,
+  railguns, cryosleep, robots, drones, and more. Discover what the future could hold
+  in this in-depth article.
+tags:
+- intersection of life and technology
+- future tech
+- future technology
+- smart cities
+- smart homes
+- iot
+- wearables
+- augmented reality
+- holograms
+- blockchain
+- sustainability
+- Artificial intelligence
+title: The Future of Daily Life
 ---
-
 The future of daily life is nothing short of magical. With advancements in smart homes, smart cities, IoT, wearables, augmented reality, holograms, wireless technology, modularity, blockchain, quantum computing, electric cars, flying cars, railguns, cryosleep, robots, drones, instant data transfer no matter the distance, and non-contact wireless charging, our world is on the brink of a revolutionary transformation.
 
 Imagine waking up in a smart home that greets you by name, as you get ready for the day with the assistance of wearable technology that tracks your health and wellness. You step out of your home and into a smart city, where self-driving electric cars transport you seamlessly to your destination. As you gaze out the window, you see flying cars soaring through the sky, and railguns zipping past at lightning speed.

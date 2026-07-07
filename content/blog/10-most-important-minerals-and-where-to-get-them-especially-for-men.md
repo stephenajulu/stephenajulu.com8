@@ -1,27 +1,27 @@
 ---
-title: 10 Most Important Minerals and Where To Get Them (especially for men)
-subtitle: 10 Most Important Minerals and Where To Get Them
-excerpt: 10 Most Important Minerals and Where To Get Them
+categories:
+- Lifestyle
 date: 2022-05-04 09:17:00+03:00
+excerpt: 10 Most Important Minerals and Where To Get Them
 image: images/ktryna-wq7verajaae-unsplash.jpg
 image_alt: 10 Most Important Minerals and Where To Get Them
+layout: post
 seo:
-  title: 10 Most Important Minerals and Where To Get Them (especially for men)
   description: 10 Most Important Minerals and Where To Get Them
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 10 Most Important Minerals and Where To Get Them (especially for men)
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: 10 Most Important Minerals and Where To Get Them
-    keyName: property
-  - name: og:image
-    value: images/ktryna-wq7verajaae-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/ktryna-wq7verajaae-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,16 @@ seo:
   - name: twitter:description
     value: 10 Most Important Minerals and Where To Get Them
   - name: twitter:image
-    value: images/ktryna-wq7verajaae-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/ktryna-wq7verajaae-unsplash.jpg
+  title: 10 Most Important Minerals and Where To Get Them (especially for men)
+subtitle: 10 Most Important Minerals and Where To Get Them
+tags:
+- food
+- nutrition
+- lifestyle
+title: 10 Most Important Minerals and Where To Get Them (especially for men)
 ---
-
  1. Zinc
  2. Sals
  3. Selenium

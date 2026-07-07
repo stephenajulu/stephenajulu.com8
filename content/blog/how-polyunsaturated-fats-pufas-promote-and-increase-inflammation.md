@@ -1,42 +1,39 @@
 ---
-title: How Polyunsaturated Fats(PUFAs) Promote and Increase Inflammation
-subtitle: inflammation is a natural response by the immune system to protect the body
-  against foreign invaders such as bacteria, viruses, and toxins. Recent studies have
-  shown that polyunsaturated fats (PUFAs) found in vegetable oils can cause inflammation.
-  Read on!
+categories:
+- Lifestyle
+date: 2023-03-09 08:20:00+03:00
 excerpt: inflammation is a natural response by the immune system to protect the body
   against foreign invaders such as bacteria, viruses, and toxins. Recent studies have
   shown that polyunsaturated fats (PUFAs) found in vegetable oils can cause inflammation.
   Read on!
-date: 2023-03-09 08:20:00+03:00
 image: images/photo-1597160394325-310e117dc000.jpeg
 image_alt: inflammation is a natural response by the immune system to protect the
   body against foreign invaders such as bacteria, viruses, and toxins. Recent studies
   have shown that polyunsaturated fats (PUFAs) found in vegetable oils can cause inflammation.
   Read on!
+layout: post
 seo:
-  title: How Polyunsaturated Fats(PUFAs) Promote and Increase Inflammation
   description: inflammation is a natural response by the immune system to protect
     the body against foreign invaders such as bacteria, viruses, and toxins. Recent
     studies have shown that polyunsaturated fats (PUFAs) found in vegetable oils can
     cause inflammation. Read on!
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: How Polyunsaturated Fats(PUFAs) Promote and Increase Inflammation
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: inflammation is a natural response by the immune system to protect the
       body against foreign invaders such as bacteria, viruses, and toxins. Recent
       studies have shown that polyunsaturated fats (PUFAs) found in vegetable oils
       can cause inflammation. Read on!
-    keyName: property
-  - name: og:image
-    value: images/photo-1597160394325-310e117dc000.jpeg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/photo-1597160394325-310e117dc000.jpeg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -47,11 +44,31 @@ seo:
       studies have shown that polyunsaturated fats (PUFAs) found in vegetable oils
       can cause inflammation. Read on!
   - name: twitter:image
-    value: images/photo-1597160394325-310e117dc000.jpeg
     relativeUrl: true
-layout: post
+    value: images/photo-1597160394325-310e117dc000.jpeg
+  title: How Polyunsaturated Fats(PUFAs) Promote and Increase Inflammation
+subtitle: inflammation is a natural response by the immune system to protect the body
+  against foreign invaders such as bacteria, viruses, and toxins. Recent studies have
+  shown that polyunsaturated fats (PUFAs) found in vegetable oils can cause inflammation.
+  Read on!
+tags:
+- pufas
+- polyunsaturated fats
+- omega 3
+- pufa
+- inflammation
+- cardiovascular
+- metabolic
+- obesity
+- cancer
+- omega 6
+- seed oils
+- vegetable oils
+- transfats
+- cholesterol
+- heart disease
+title: How Polyunsaturated Fats(PUFAs) Promote and Increase Inflammation
 ---
-
 Inflammation is a natural response by the immune system to protect the body against foreign invaders such as bacteria, viruses, and toxins. However, when inflammation becomes chronic, it can lead to various diseases such as diabetes, cancer, and heart disease. Recent studies have shown that polyunsaturated fats (PUFAs) found in vegetable oils, nuts, and seeds can promote and increase inflammation in the body. In this article, we will discuss the effects of polyunsaturated fats on inflammation and how to reduce their intake for better health.
 
 ## What are Polyunsaturated Fats?

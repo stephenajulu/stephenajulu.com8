@@ -1,45 +1,40 @@
 ---
-title: 'Shocking Truth Revealed: Why Fertility is Dropping at an Alarming Rate in
-  Both Males and Females!'
-subtitle: Have you ever wondered why more and more couples are struggling to conceive
-  these days? Is there something sinister behind the decline in fertility rates among
-  both men and women? Join us as we uncover the shocking truth behind this alarming
-  phenomenon
+categories:
+- Lifestyle
+date: 2023-02-24 08:05:00+03:00
 excerpt: Have you ever wondered why more and more couples are struggling to conceive
   these days? Is there something sinister behind the decline in fertility rates among
   both men and women? Join us as we uncover the shocking truth behind this alarming
   phenomenon
-date: 2023-02-24 08:05:00+03:00
 image: images/photo-1515091110873-2a9680d5e323.jpeg
 image_alt: Have you ever wondered why more and more couples are struggling to conceive
   these days? Is there something sinister behind the decline in fertility rates among
   both men and women? Join us as we uncover the shocking truth behind this alarming
   phenomenon
+layout: post
 seo:
-  title: 'Shocking Truth Revealed: Why Fertility is Dropping at an Alarming Rate in
-    Both Males and Females!'
   description: Have you ever wondered why more and more couples are struggling to
     conceive these days? Is there something sinister behind the decline in fertility
     rates among both men and women? Join us as we uncover the shocking truth behind
     this alarming phenomenon
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'Shocking Truth Revealed: Why Fertility is Dropping at an Alarming Rate
       in Both Males and Females!'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Have you ever wondered why more and more couples are struggling to conceive
       these days? Is there something sinister behind the decline in fertility rates
       among both men and women? Join us as we uncover the shocking truth behind this
       alarming phenomenon
-    keyName: property
-  - name: og:image
-    value: images/photo-1515091110873-2a9680d5e323.jpeg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/photo-1515091110873-2a9680d5e323.jpeg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -51,11 +46,26 @@ seo:
       among both men and women? Join us as we uncover the shocking truth behind this
       alarming phenomenon
   - name: twitter:image
-    value: images/photo-1515091110873-2a9680d5e323.jpeg
     relativeUrl: true
-layout: post
+    value: images/photo-1515091110873-2a9680d5e323.jpeg
+  title: 'Shocking Truth Revealed: Why Fertility is Dropping at an Alarming Rate in
+    Both Males and Females!'
+subtitle: Have you ever wondered why more and more couples are struggling to conceive
+  these days? Is there something sinister behind the decline in fertility rates among
+  both men and women? Join us as we uncover the shocking truth behind this alarming
+  phenomenon
+tags:
+- fertility
+- infertility
+- reproductive health
+- environmental
+- lifestyle
+- medical
+- men
+- women
+title: 'Shocking Truth Revealed: Why Fertility is Dropping at an Alarming Rate in
+  Both Males and Females!'
 ---
-
 ## How and Why Fertility is Dropping At An Alarming Rate in Both Males and Females Amongst The Human Species
 
 As human beings, we rely on our reproductive health to continue the legacy of our species. However, over the last few decades, there has been a worrying trend in the decline of fertility rates in both men and women. In this article, we will explore the reasons behind this alarming phenomenon and what can be done to address it.

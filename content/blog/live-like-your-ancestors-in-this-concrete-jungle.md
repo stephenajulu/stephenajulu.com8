@@ -1,32 +1,31 @@
 ---
-title: Live Like Your Ancestors In This Concrete Jungle
-subtitle: The source of all diseases and medical issues stems from our disconnection
-  from nature
+categories:
+- Lifestyle
+date: 2022-05-22 13:10:00+03:00
 excerpt: The source of all diseases and medical issues stems from our disconnection
   from nature
-date: 2022-05-22 13:10:00+03:00
 image: images/surya-prakosa-qqzqrn7ithy-unsplash.jpg
 image_alt: The source of all diseases and medical issues stems from our disconnection
   from nature
+layout: post
 seo:
-  title: Live Like Your Ancestors In This Concrete Jungle
   description: The source of all diseases and medical issues stems from our disconnection
     from nature
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Live Like Your Ancestors In This Concrete Jungle
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: The source of all diseases and medical issues stems from our disconnection
       from nature
-    keyName: property
-  - name: og:image
-    value: images/surya-prakosa-qqzqrn7ithy-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/surya-prakosa-qqzqrn7ithy-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,8 +34,12 @@ seo:
     value: The source of all diseases and medical issues stems from our disconnection
       from nature
   - name: twitter:image
-    value: images/surya-prakosa-qqzqrn7ithy-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/surya-prakosa-qqzqrn7ithy-unsplash.jpg
+  title: Live Like Your Ancestors In This Concrete Jungle
+subtitle: The source of all diseases and medical issues stems from our disconnection
+  from nature
+tags:
+- lifestyle
+title: Live Like Your Ancestors In This Concrete Jungle
 ---
-

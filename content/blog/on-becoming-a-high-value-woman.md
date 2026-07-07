@@ -1,27 +1,29 @@
 ---
-title: On Becoming a High Value Woman
-subtitle: ''
-excerpt: ''
+categories:
+- high value woman
+- high value
+- woman
 date: 2021-08-02 16:04:00+03:00
+excerpt: ''
 image: images/averie-woodard-4nulm-juyfo-unsplash.jpg
 image_alt: ''
+layout: post
 seo:
-  title: On Becoming a High Value Woman
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: On Becoming a High Value Woman
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/averie-woodard-4nulm-juyfo-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/averie-woodard-4nulm-juyfo-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/averie-woodard-4nulm-juyfo-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/averie-woodard-4nulm-juyfo-unsplash.jpg
+  title: On Becoming a High Value Woman
+subtitle: ''
+tags:
+- high value woman
+- high value
+- woman
+title: On Becoming a High Value Woman
 ---
-
 Here's how you or any woman can level up and become a high-value woman
 
 ## What is a High-Value Woman?

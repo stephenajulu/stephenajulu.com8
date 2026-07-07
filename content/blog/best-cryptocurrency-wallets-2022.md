@@ -1,27 +1,28 @@
 ---
-title: Best Cryptocurrency Wallets 2022
-subtitle: Get your cryptocurrencies off exchanges and into wallets now!
-excerpt: Get your cryptocurrencies off exchanges and into wallets now!
+categories:
+- Finance
+- Technology
 date: 2022-05-26 21:05:00+03:00
+excerpt: Get your cryptocurrencies off exchanges and into wallets now!
 image: images/olieman-eth-evqnygt1pwg-unsplash.jpg
 image_alt: Get your cryptocurrencies off exchanges and into wallets now!
+layout: post
 seo:
-  title: Best Cryptocurrency Wallets 2022
   description: Get your cryptocurrencies off exchanges and into wallets now!
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Best Cryptocurrency Wallets 2022
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Get your cryptocurrencies off exchanges and into wallets now!
-    keyName: property
-  - name: og:image
-    value: images/olieman-eth-evqnygt1pwg-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/olieman-eth-evqnygt1pwg-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,12 +30,23 @@ seo:
   - name: twitter:description
     value: Get your cryptocurrencies off exchanges and into wallets now!
   - name: twitter:image
-    value: images/olieman-eth-evqnygt1pwg-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/olieman-eth-evqnygt1pwg-unsplash.jpg
+  title: Best Cryptocurrency Wallets 2022
+subtitle: Get your cryptocurrencies off exchanges and into wallets now!
+tags:
+- finance
+- technology
+- cryptocurrencies
+- wallets
+- tokens
+- cryptocurrency
+- token
+- wallet
+- bitcoin
+- ethereum
+title: Best Cryptocurrency Wallets 2022
 ---
-
-
 We should all remove our coins, tokens, and crypto from exchanges and into secure wallets where only the user has the private key and can access the wallet.
 
 Here are some great wallets for holding your crypto:

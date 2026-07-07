@@ -1,37 +1,35 @@
 ---
-title: Keep Your Work Space Clean, Sleek and Tidy with This Minimal Leather Mat
-subtitle: So if you’re looking to up your work-from-home game, head to ULX Store to
-  check out the minimalist desk mats. These work in the office as well. Just roll
-  it and pack it!
+categories:
+- Tech
+date: 2022-07-10 11:12:00+03:00
 excerpt: So if you’re looking to up your work-from-home game, head to ULX Store to
   check out the minimalist desk mats. These work in the office as well. Just roll
   it and pack it!
-date: 2022-07-10 11:12:00+03:00
 image: images/deskmat-black_094239d3-0925-49a9-9577-7b82fdf942ad_1680x.webp
 image_alt: So if you’re looking to up your work-from-home game, head to ULX Store
   to check out the minimalist desk mats. These work in the office as well. Just roll
   it and pack it!
+layout: post
 seo:
-  title: Keep Your Work Space Clean, Sleek and Tidy with This Minimal Leather Mat
   description: So if you’re looking to up your work-from-home game, head to ULX Store
     to check out the minimalist desk mats. These work in the office as well. Just
     roll it and pack it!
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Keep Your Work Space Clean, Sleek and Tidy with This Minimal Leather Mat
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: So if you’re looking to up your work-from-home game, head to ULX Store
       to check out the minimalist desk mats. These work in the office as well. Just
       roll it and pack it!
-    keyName: property
-  - name: og:image
-    value: images/deskmat-black_094239d3-0925-49a9-9577-7b82fdf942ad_1680x.webp
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/deskmat-black_094239d3-0925-49a9-9577-7b82fdf942ad_1680x.webp
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -41,11 +39,25 @@ seo:
       to check out the minimalist desk mats. These work in the office as well. Just
       roll it and pack it!
   - name: twitter:image
-    value: images/deskmat-black_094239d3-0925-49a9-9577-7b82fdf942ad_1680x.webp
     relativeUrl: true
-layout: post
+    value: images/deskmat-black_094239d3-0925-49a9-9577-7b82fdf942ad_1680x.webp
+  title: Keep Your Work Space Clean, Sleek and Tidy with This Minimal Leather Mat
+subtitle: So if you’re looking to up your work-from-home game, head to ULX Store to
+  check out the minimalist desk mats. These work in the office as well. Just roll
+  it and pack it!
+tags:
+- gear
+- layout
+- setup
+- laptop setup
+- workspace
+- desk mats
+- desk mat
+- ULX Store
+- leather
+- leather desk mat
+title: Keep Your Work Space Clean, Sleek and Tidy with This Minimal Leather Mat
 ---
-
 If you work from home then you’ve got to be making sure your workspace is as sleek and productive as possible.
 
 Look no further than the minimalist desk mats from ULX Store. Made from vegan leather, the sleek desk mats come in three colorways; black, tan brown, and grey.

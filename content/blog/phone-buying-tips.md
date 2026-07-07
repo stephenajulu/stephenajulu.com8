@@ -1,27 +1,27 @@
 ---
-title: Phone Buying Tips
-subtitle: Phone buying tips that will help you
-excerpt: Phone buying tips that will help you
+categories:
+- Tech
 date: 2022-06-11 20:00:00+03:00
+excerpt: Phone buying tips that will help you
 image: images/youssef-sarhan-sdth9wydmre-unsplash.jpg
 image_alt: Phone buying tips that will help you
+layout: post
 seo:
-  title: Phone Buying Tips
   description: Phone buying tips that will help you
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Phone Buying Tips
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Phone buying tips that will help you
-    keyName: property
-  - name: og:image
-    value: images/youssef-sarhan-sdth9wydmre-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/youssef-sarhan-sdth9wydmre-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,28 @@ seo:
   - name: twitter:description
     value: Phone buying tips that will help you
   - name: twitter:image
-    value: images/youssef-sarhan-sdth9wydmre-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/youssef-sarhan-sdth9wydmre-unsplash.jpg
+  title: Phone Buying Tips
+subtitle: Phone buying tips that will help you
+tags:
+- tech
+- phones
+- smartphones
+- android
+- iphone
+- ios
+- tecno
+- xiaomi
+- redmi
+- oppo
+- oneplus
+- samsung
+- vivo
+- itel
+- infinix
+title: Phone Buying Tips
 ---
-
 Let's jump right in.
 
 1. Make sure to do due diligence. - Always research the specs you want, check their prices on local selling sites, and know what exactly you want to buy. This protects you from scams and high prices.

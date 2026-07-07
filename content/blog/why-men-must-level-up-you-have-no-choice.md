@@ -1,27 +1,29 @@
 ---
-title: 'Why Men Must Level Up: You Have No Choice'
-subtitle: ''
-excerpt: ''
+categories:
+- self improvement
+- suffering
+- manhood
 date: 2021-08-10 11:37:00+03:00
+excerpt: ''
 image: images/tom-pumford-t5lmpsyxnsu-unsplash.jpg
 image_alt: ''
+layout: post
 seo:
-  title: 'Why Men Must Level Up: You Have No Choice'
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'Why Men Must Level Up: You Have No Choice'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/tom-pumford-t5lmpsyxnsu-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/tom-pumford-t5lmpsyxnsu-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/tom-pumford-t5lmpsyxnsu-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/tom-pumford-t5lmpsyxnsu-unsplash.jpg
+  title: 'Why Men Must Level Up: You Have No Choice'
+subtitle: ''
+tags:
+- self improvement
+- suffering
+- manhood
+title: 'Why Men Must Level Up: You Have No Choice'
 ---
-
 <br>
 
 > Back in the days of our grand fathers and great grandfathers, boys used to be initiated through pain and suffering in order to become men. There was circumcision(no anesthesia), front teeth pulling(no anesthesia), hunting, killing lions and other wild animals, isolation in forests, beatings, blood letting, "natural" tatooing(like the Sudanese people), fighting, bullet ant glove wearing and more.

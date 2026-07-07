@@ -1,27 +1,29 @@
 ---
-title: 6 Key Things Men Should Improve
-subtitle: ''
-excerpt: ''
+categories:
+- men
+- self improvement
+- high value
 date: 2021-08-11 16:00:00+03:00
+excerpt: ''
 image: images/luigi-estuye-lucreative-uih-y7kmaee-unsplash.jpg
 image_alt: ''
+layout: post
 seo:
-  title: 6 Key Things Men Should Improve
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 6 Key Things Men Should Improve
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/luigi-estuye-lucreative-uih-y7kmaee-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/luigi-estuye-lucreative-uih-y7kmaee-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/luigi-estuye-lucreative-uih-y7kmaee-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/luigi-estuye-lucreative-uih-y7kmaee-unsplash.jpg
+  title: 6 Key Things Men Should Improve
+subtitle: ''
+tags:
+- men
+- self improvement
+- high value
+title: 6 Key Things Men Should Improve
 ---
-
 ### Status
 
 ### Finances

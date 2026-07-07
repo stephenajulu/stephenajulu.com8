@@ -1,27 +1,29 @@
 ---
-title: Invest In Yourself(Old Post)
-subtitle: ''
-excerpt: ''
+categories:
+- life
+- lifestyle
+- self improvement
 date: 2021-08-09 05:17:00+03:00
+excerpt: ''
 image: images/bronzeman.jpeg
 image_alt: ''
+layout: post
 seo:
-  title: Invest In Yourself(Old Post)
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Invest In Yourself(Old Post)
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/bronzeman.jpeg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/bronzeman.jpeg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/bronzeman.jpeg
     relativeUrl: true
-layout: post
+    value: images/bronzeman.jpeg
+  title: Invest In Yourself(Old Post)
+subtitle: ''
+tags:
+- life
+- lifestyle
+- self improvement
+title: Invest In Yourself(Old Post)
 ---
-
 Hey guys, what’s up? It’s your guy, Stephen Ajulu. And today’s topic is Investing in yourself, now I am in no way a certified advise-man, but this is something many self-made recognize and encourage. This is what Warren Buffet said,
 
 > **“The most important investment you can make is in yourself**. Very few people get anything like their potential horsepower translated into the actual horsepower of their output in life. Potential exceeds realization for many people…**The best asset is your own self. You can become to an enormous degree the person you want to be.** “

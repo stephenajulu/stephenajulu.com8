@@ -1,27 +1,27 @@
 ---
-title: 'Interesting Technologies 2022: Part 1'
-subtitle: Here are some new interesting technologies
-excerpt: Here are some new interesting technologies
+categories:
+- Technology
 date: 2022-09-06 16:00:00+03:00
+excerpt: Here are some new interesting technologies
 image: images/fabio-oyxis2kalvg-unsplash.jpg
 image_alt: Here are some new interesting technologies
+layout: post
 seo:
-  title: 'Interesting Technologies 2022: Part 1'
   description: Here are some new interesting technologies
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'Interesting Technologies 2022: Part 1'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here are some new interesting technologies
-    keyName: property
-  - name: og:image
-    value: images/fabio-oyxis2kalvg-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/fabio-oyxis2kalvg-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,19 @@ seo:
   - name: twitter:description
     value: Here are some new interesting technologies
   - name: twitter:image
-    value: images/fabio-oyxis2kalvg-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/fabio-oyxis2kalvg-unsplash.jpg
+  title: 'Interesting Technologies 2022: Part 1'
+subtitle: Here are some new interesting technologies
+tags:
+- trends
+- technology
+- technologies
+- technology trends
+- tech
+- security
+title: 'Interesting Technologies 2022: Part 1'
 ---
-
 ## Digital Trust
 
 Blockchain technology, distributed ledgers, and non-fungible tokens (NFTs) are transforming our world, and we will continue to see advances in this technology in 2022. These innovations go beyond Bitcoin to things like smart contracts that allow us to verify ownership with NFTs. This year, we will see more companies and individuals enhancing physical objects with blockchain technology and tokens.

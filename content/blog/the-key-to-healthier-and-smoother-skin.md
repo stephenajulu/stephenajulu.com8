@@ -1,32 +1,33 @@
 ---
-title: The Key to Healthier and Smoother Skin
-subtitle: Here's the key to healthier and smoother skin that can make you look youthful
-  like me.
+categories:
+- health
+- beauty
+- self improvement
+date: 2022-04-16 13:00:00+03:00
 excerpt: Here's the key to healthier and smoother skin that can make you look youthful
   like me.
-date: 2022-04-16 13:00:00+03:00
 image: images/lesly-juarez-1ahgngkuhr0-unsplash.jpg
 image_alt: Here's the key to healthier and smoother skin that can make you look youthful
   like me.
+layout: post
 seo:
-  title: The Key to Healthier and Smoother Skin
   description: Here's the key to healthier and smoother skin that can make you look
     youthful like me.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: The Key to Healthier and Smoother Skin
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here's the key to healthier and smoother skin that can make you look youthful
       like me.
-    keyName: property
-  - name: og:image
-    value: images/lesly-juarez-1ahgngkuhr0-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/lesly-juarez-1ahgngkuhr0-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +36,20 @@ seo:
     value: Here's the key to healthier and smoother skin that can make you look youthful
       like me.
   - name: twitter:image
-    value: images/lesly-juarez-1ahgngkuhr0-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/lesly-juarez-1ahgngkuhr0-unsplash.jpg
+  title: The Key to Healthier and Smoother Skin
+subtitle: Here's the key to healthier and smoother skin that can make you look youthful
+  like me.
+tags:
+- health
+- beauty
+- self improvement
+- skin
+- youth
+- healthy skin
+title: The Key to Healthier and Smoother Skin
 ---
-
 #### 1. It all starts with your gut.
 
 Are you eating good food or junk food? You should know eating junk food leads to junk-filled organs. This applies to your skin. You want to eat more animal-based fatty foods e.g beef. You want to avoid things made in factories. Eat real food. Like meat, eggs, organs, cruciferous vegetables, tubers, and such. Stay away from sugar and vegetable oils. If your skin is dry, double down your intake of fatty meats. If it’s moderate or too oily eat a slice of good meat with minimum fat.

@@ -1,32 +1,32 @@
 ---
-title: Applications and Use Cases of Decentralized Finance(DeFi)
-subtitle: Last time, i defined decentralized finance. Today we look at it's use cases
-  and applications.
+categories:
+- Technology
+- Finance
+date: 2021-11-28 18:53:00+03:00
 excerpt: Last time, i defined decentralized finance. Today we look at it's use cases
   and applications.
-date: 2021-11-28 18:53:00+03:00
 image: images/n0hcw35at9m4acjgaqkw_what-is-defi-decentralized-finance-guide.jpe
 image_alt: Last time, i defined decentralized finance. Today we look at it's use cases
   and applications.
+layout: post
 seo:
-  title: Applications and Use Cases of Decentralized Finance(DeFi)
   description: Last time, i defined decentralized finance. Today we look at it's use
     cases and applications.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Applications and Use Cases of Decentralized Finance(DeFi)
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Last time, i defined decentralized finance. Today we look at it's use cases
       and applications.
-    keyName: property
-  - name: og:image
-    value: images/n0hcw35at9m4acjgaqkw_what-is-defi-decentralized-finance-guide.jpe
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/n0hcw35at9m4acjgaqkw_what-is-defi-decentralized-finance-guide.jpe
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +35,23 @@ seo:
     value: Last time, i defined decentralized finance. Today we look at it's use cases
       and applications.
   - name: twitter:image
-    value: images/n0hcw35at9m4acjgaqkw_what-is-defi-decentralized-finance-guide.jpe
     relativeUrl: true
-layout: post
+    value: images/n0hcw35at9m4acjgaqkw_what-is-defi-decentralized-finance-guide.jpe
+  title: Applications and Use Cases of Decentralized Finance(DeFi)
+subtitle: Last time, i defined decentralized finance. Today we look at it's use cases
+  and applications.
+tags:
+- defi
+- decentralized
+- decentralized finance
+- finance
+- financial technology
+- fintech
+- blockchain
+- technology
+- dexs
+title: Applications and Use Cases of Decentralized Finance(DeFi)
 ---
-
 Refresher:
 
 DeFi is short for “decentralized finance,” an umbrella term for a variety of financial applications in cryptocurrency or blockchain geared toward disrupting financial intermediaries.

@@ -1,35 +1,32 @@
 ---
-title: 'Cryptocurrency, Blockchain, Smart Contract, NFT, Web 3, DeFi and GameFi 101:
-  Definition'
-subtitle: Cryptocurrencies, Blockchain, Smart Contracts, Non Fungible Tokens, Web
-  3, Decentralized Finance and Game Finance Explained
+categories:
+- Technology
+date: 2021-12-16 07:15:00+03:00
 excerpt: Cryptocurrencies, Blockchain, Smart Contracts, Non Fungible Tokens, Web 3,
   Decentralized Finance and Game Finance Explained
-date: 2021-12-16 07:15:00+03:00
 image: images/newhype101definition.png
 image_alt: Cryptocurrencies, Blockchain, Smart Contracts, Non Fungible Tokens, Web
   3, Decentralized Finance and Game Finance Explained
+layout: post
 seo:
-  title: 'Cryptocurrency, Blockchain, Smart Contract, NFT, Web 3, DeFi and GameFi
-    101: Definition'
   description: Cryptocurrencies, Blockchain, Smart Contracts, Non Fungible Tokens,
     Web 3, Decentralized Finance and Game Finance Explained
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'Cryptocurrency, Blockchain, Smart Contract, NFT, Web 3, DeFi and GameFi
       101: Definition'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Cryptocurrencies, Blockchain, Smart Contracts, Non Fungible Tokens, Web
       3, Decentralized Finance and Game Finance Explained
-    keyName: property
-  - name: og:image
-    value: images/newhype101definition.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/newhype101definition.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -39,11 +36,26 @@ seo:
     value: Cryptocurrencies, Blockchain, Smart Contracts, Non Fungible Tokens, Web
       3, Decentralized Finance and Game Finance Explained
   - name: twitter:image
-    value: images/newhype101definition.png
     relativeUrl: true
-layout: post
+    value: images/newhype101definition.png
+  title: 'Cryptocurrency, Blockchain, Smart Contract, NFT, Web 3, DeFi and GameFi
+    101: Definition'
+subtitle: Cryptocurrencies, Blockchain, Smart Contracts, Non Fungible Tokens, Web
+  3, Decentralized Finance and Game Finance Explained
+tags:
+- cryptocurrency
+- blockchain
+- smart contract
+- nft
+- web3
+- nonfungibletoken
+- decentralizedfinance
+- defi
+- gamefi
+- gamefinance
+title: 'Cryptocurrency, Blockchain, Smart Contract, NFT, Web 3, DeFi and GameFi 101:
+  Definition'
 ---
-
 ### What is a cryptocurrency?
 
 A **cryptocurrency** is any form of currency that exists digitally or virtually and uses cryptography to secure transactions. Cryptocurrencies don't have a central issuing or regulating authority, instead, they use a decentralized system to record transactions and issue new units.

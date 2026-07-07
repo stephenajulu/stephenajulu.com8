@@ -1,28 +1,29 @@
 ---
-title: 20 Things Men Must Do In 2022
-subtitle: Here are 20 things I believe we(MEN) must do in 2022 for success and fulfillment
-excerpt: Here are 20 things I believe we(MEN) must do in 2022 for success and fulfillment
+categories:
+- Masculinity
+- Self Improvement
 date: 2021-12-27 15:43:00+03:00
+excerpt: Here are 20 things I believe we(MEN) must do in 2022 for success and fulfillment
 image: images/imageedit_27_9513163132.jpg
 image_alt: Here are 20 things I believe we(MEN) must do in 2022 for success and fulfillment
+layout: post
 seo:
-  title: 20 Things Men Must Do In 2022
   description: Here are 20 things I believe we(MEN) must do in 2022 for success and
     fulfillment
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 20 Things Men Must Do In 2022
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here are 20 things I believe we(MEN) must do in 2022 for success and fulfillment
-    keyName: property
-  - name: og:image
-    value: images/imageedit_27_9513163132.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/imageedit_27_9513163132.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -30,11 +31,22 @@ seo:
   - name: twitter:description
     value: Here are 20 things I believe we(MEN) must do in 2022 for success and fulfillment
   - name: twitter:image
-    value: images/imageedit_27_9513163132.jpg
     relativeUrl: true
-layout: post
+    value: images/imageedit_27_9513163132.jpg
+  title: 20 Things Men Must Do In 2022
+subtitle: Here are 20 things I believe we(MEN) must do in 2022 for success and fulfillment
+tags:
+- men
+- self improvement
+- self mastery
+- masculinity
+- man
+- manhood
+- masculine
+- growth
+- success
+title: 20 Things Men Must Do In 2022
 ---
-
 Look, guys, I'm in no way or shape better than you. We are just all men here doing our best to improve ourselves and those around us. Constant self-improvement is key.
 
 With that said, here are 20 things I believe we(MEN) must do in 2022 to bolster our success. I'll keep it as brief as possible.

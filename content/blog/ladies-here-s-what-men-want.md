@@ -1,27 +1,27 @@
 ---
-title: Ladies, Here's What Men Want and It's Surprisingly Simple
-subtitle: Ladies, here's men want, it's surprisingly simple.
-excerpt: Ladies, here's men want, it's surprisingly simple.
+categories:
+- Dating
 date: 2021-12-18 14:32:00+03:00
+excerpt: Ladies, here's men want, it's surprisingly simple.
 image: images/jd-mason-q9rqinia5ou-unsplash.jpg
 image_alt: Ladies, here's men want, it's surprisingly simple.
+layout: post
 seo:
-  title: Ladies, Here's What Men Want and It's Surprisingly Simple
   description: Ladies, here's men want, it's surprisingly simple.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Ladies, Here's What Men Want and It's Surprisingly Simple
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Ladies, here's men want, it's surprisingly simple.
-    keyName: property
-  - name: og:image
-    value: images/jd-mason-q9rqinia5ou-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/jd-mason-q9rqinia5ou-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,28 @@ seo:
   - name: twitter:description
     value: Ladies, here's men want, it's surprisingly simple.
   - name: twitter:image
-    value: images/jd-mason-q9rqinia5ou-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/jd-mason-q9rqinia5ou-unsplash.jpg
+  title: Ladies, Here's What Men Want and It's Surprisingly Simple
+subtitle: Ladies, here's men want, it's surprisingly simple.
+tags:
+- dating
+- couple
+- what men want
+- men
+- women
+- couples
+- marriage
+- couple
+- ladies
+- gents
+- gentlemen
+- men of culture
+- man of culture
+- dating
+- courtship
+title: Ladies, Here's What Men Want and It's Surprisingly Simple
 ---
-
 1. **Physical Attraction** - He must feel physically attracted to you. We first fall in love with what we see. And no I'm not suggesting you go for butt lifts and apply excessive makeup. Just do you, look good. If you are alone, show some skin. Do the old "picking up my scarf/handkerchief to show a bit of my ass" thing you used to do. LOSE WEIGHT! Unless he's into Fat-BBW. But seriously lose weight. Look, ladies, I understand but it's always better to improve than to make excuses and stay unhealthy. Can you say you are truly happy with that extra weight? If you are, fine but 9 times out of 10 you are not and you have been lying to yourself that it's okay to be fat. But no it isn't, being overweight predisposes you to so many health risks even childbirth complications. Every man I know wants a healthy wife with whom he can live a long life and have healthy kids who he can see grow up. I'm not body shaming you. Lose weight don't make excuses. Choose growth over comfort. Just look good. You don't need a fat ass to get a guy. Stay clean, look healthy, I hear there are exercises that give you hips? Try them. I mean why not? You'll feel good, he'll feel good, everyone wins right?
 2. **Respect** - Men naturally want to be respected especially by you. We want to dominate. 
 3. **To feel wanted** - Don't hesitate to show him how much you love and want him, especially sexually. Give him the "thirst gaze" sometimes. Just don't be needy and clingy. There are plenty of ways you can do this without being insufferable.

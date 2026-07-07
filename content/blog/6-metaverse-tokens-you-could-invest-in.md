@@ -1,27 +1,30 @@
 ---
-title: 6 Metaverse Tokens You Could Invest In
-subtitle: Here Are 6 Metaverse Tokens You Could Invest In
-excerpt: Here Are 6 Metaverse Tokens You Could Invest In
+categories:
+- metaverse
+- tokens
+- crypto
+- cryptocurrencies
 date: 2021-11-07 15:47:34+03:00
+excerpt: Here Are 6 Metaverse Tokens You Could Invest In
 image: images/metaverse-1200x900.jpg
 image_alt: Here Are 6 Metaverse Tokens You Could Invest In
+layout: post
 seo:
-  title: 6 Metaverse Tokens You Could Invest In
   description: Here Are 6 Metaverse Tokens You Could Invest In
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 6 Metaverse Tokens You Could Invest In
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here Are 6 Metaverse Tokens You Could Invest In
-    keyName: property
-  - name: og:image
-    value: images/metaverse-1200x900.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/metaverse-1200x900.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +32,45 @@ seo:
   - name: twitter:description
     value: Here Are 6 Metaverse Tokens You Could Invest In
   - name: twitter:image
-    value: images/metaverse-1200x900.jpg
     relativeUrl: true
-layout: post
+    value: images/metaverse-1200x900.jpg
+  title: 6 Metaverse Tokens You Could Invest In
+subtitle: Here Are 6 Metaverse Tokens You Could Invest In
+tags:
+- metaverse
+- tokens
+- crypto
+- vr
+- cryptocurrencies
+- digital land
+- virtual reality
+- augmented reality
+- extended reality
+- ar
+- xr
+- ready player one
+- sword art online
+- tron
+- ethereum
+- decentraland
+- mana
+- axie infinity
+- axs
+- axies
+- enjin
+- enj
+- sandbox
+- the sandbox
+- sand
+- star atlas
+- atlas
+- metaverse index
+- mvi
+- ERC20
+- nft
+- etf
+title: 6 Metaverse Tokens You Could Invest In
 ---
-
 Ready, Player One? The metaverse is coming.
 
 The “metaverse” might be a new term for many, but it has actually been around for decades. The metaverse is the zenith of all science fiction fantasies that were played out in films such as ‘Ready Player One’, 'Sword Art Online' and ‘Tron.’

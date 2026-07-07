@@ -1,35 +1,35 @@
 ---
-title: 'The State of Cybersecurity Going Forward to 2023: Threats, Trends, and Solutions'
-subtitle: As technology continues to advance at an exponential rate, so too do the
-  cyber threats that plague individuals, businesses, and governments around the world.
+categories:
+- Technology
+- tech
+date: 2023-01-06 14:30:00+03:00
 excerpt: As technology continues to advance at an exponential rate, so too do the
   cyber threats that plague individuals, businesses, and governments around the world.
-date: 2023-01-06 14:30:00+03:00
 image: images/the-state-of-cybersecurity-has-improved-but-is-hardly-flawless.jpg
 image_alt: As technology continues to advance at an exponential rate, so too do the
   cyber threats that plague individuals, businesses, and governments around the world.
+layout: post
 seo:
-  title: 'The State of Cybersecurity Going Forward to 2023: Threats, Trends, and Solutions'
   description: As technology continues to advance at an exponential rate, so too do
     the cyber threats that plague individuals, businesses, and governments around
     the world.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'The State of Cybersecurity Going Forward to 2023: Threats, Trends, and
       Solutions'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: As technology continues to advance at an exponential rate, so too do the
       cyber threats that plague individuals, businesses, and governments around the
       world.
-    keyName: property
-  - name: og:image
-    value: images/the-state-of-cybersecurity-has-improved-but-is-hardly-flawless.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/the-state-of-cybersecurity-has-improved-but-is-hardly-flawless.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -40,11 +40,21 @@ seo:
       cyber threats that plague individuals, businesses, and governments around the
       world.
   - name: twitter:image
-    value: images/the-state-of-cybersecurity-has-improved-but-is-hardly-flawless.jpg
     relativeUrl: true
-layout: post
+    value: images/the-state-of-cybersecurity-has-improved-but-is-hardly-flawless.jpg
+  title: 'The State of Cybersecurity Going Forward to 2023: Threats, Trends, and Solutions'
+subtitle: As technology continues to advance at an exponential rate, so too do the
+  cyber threats that plague individuals, businesses, and governments around the world.
+tags:
+- Cybersecurity threats
+- Cybersecurity trends
+- Cybersecurity solutions
+- Internet of Things security
+- Cloud security
+- information security
+- cybersecurity
+title: 'The State of Cybersecurity Going Forward to 2023: Threats, Trends, and Solutions'
 ---
-
 As technology continues to advance at an exponential rate, so too do the cyber threats that plague individuals, businesses, and governments around the world. From data breaches to ransomware attacks, the landscape of cybersecurity is constantly shifting, making it more important than ever to stay informed and take steps to protect ourselves and our organizations.
 
 One major trend in cybersecurity is the rise of ransomware attacks, in which hackers hold a victim's data hostage until a ransom is paid. These attacks have become increasingly common in recent years, with the number of reported incidents more than doubling between 2015 and 2018. Ransomware attacks can have serious consequences, including financial loss and disruption to vital services.

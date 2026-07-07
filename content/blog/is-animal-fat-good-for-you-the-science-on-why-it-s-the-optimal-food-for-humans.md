@@ -1,44 +1,40 @@
 ---
-title: Is Animal Fat Good for You? The Science on Why it’s The Optimal Food for Humans
-subtitle: Is animal fat good for you? If you’re asking this question, you probably
-  have some skepticism, which is understandable considering red meat, pork, butter,
-  and eggs–the main sources of animal fats that we eat–have been the most demonized
-  foods on earth for over 70 years.
+categories:
+- health
+date: 2022-12-29 19:00:00+03:00
 excerpt: Is animal fat good for you? If you’re asking this question, you probably
   have some skepticism, which is understandable considering red meat, pork, butter,
   and eggs–the main sources of animal fats that we eat–have been the most demonized
   foods on earth for over 70 years.
-date: 2022-12-29 19:00:00+03:00
 image: images/adobestock_99708835-1030x699.jpeg
 image_alt: Is animal fat good for you? If you’re asking this question, you probably
   have some skepticism, which is understandable considering red meat, pork, butter,
   and eggs–the main sources of animal fats that we eat–have been the most demonized
   foods on earth for over 70 years.
+layout: post
 seo:
-  title: Is Animal Fat Good for You? The Science on Why it’s The Optimal Food for
-    Humans
   description: Is animal fat good for you? If you’re asking this question, you probably
     have some skepticism, which is understandable considering red meat, pork, butter,
     and eggs–the main sources of animal fats that we eat–have been the most demonized
     foods on earth for over 70 years.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Is Animal Fat Good for You? The Science on Why it’s The Optimal Food for
       Humans
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Is animal fat good for you? If you’re asking this question, you probably
       have some skepticism, which is understandable considering red meat, pork, butter,
       and eggs–the main sources of animal fats that we eat–have been the most demonized
       foods on earth for over 70 years.
-    keyName: property
-  - name: og:image
-    value: images/adobestock_99708835-1030x699.jpeg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/adobestock_99708835-1030x699.jpeg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -50,11 +46,20 @@ seo:
       and eggs–the main sources of animal fats that we eat–have been the most demonized
       foods on earth for over 70 years.
   - name: twitter:image
-    value: images/adobestock_99708835-1030x699.jpeg
     relativeUrl: true
-layout: post
+    value: images/adobestock_99708835-1030x699.jpeg
+  title: Is Animal Fat Good for You? The Science on Why it’s The Optimal Food for
+    Humans
+subtitle: Is animal fat good for you? If you’re asking this question, you probably
+  have some skepticism, which is understandable considering red meat, pork, butter,
+  and eggs–the main sources of animal fats that we eat–have been the most demonized
+  foods on earth for over 70 years.
+tags:
+- health
+- fats
+- oils
+title: Is Animal Fat Good for You? The Science on Why it’s The Optimal Food for Humans
 ---
-
 Is animal fat good for you? If you’re asking this question you probably have some skepticism, which is understandable considering red meat, pork, butter, and eggs–the main sources of animal fats that we eat–have been the most demonized foods on earth for over 70 years.
 
 Yet when we look at the science of human dietary evolution, the long-term global health outcomes from reducing animal fat in our diets, and the modern controlled trials exploring the risks and benefits of animal fats, the picture becomes alarmingly clear:

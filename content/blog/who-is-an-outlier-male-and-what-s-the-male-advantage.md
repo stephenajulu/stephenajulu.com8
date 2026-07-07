@@ -1,27 +1,28 @@
 ---
-title: 'Outlier Male Series: Who is an outlier male? What''s the male advantage?'
-subtitle: Here I explain what the male advantage is and how to reach it.
-excerpt: Here I explain what the male advantage is and how to reach it.
+categories:
+- lifestyle
+- masculinity
 date: 2023-01-02 16:00:00+03:00
+excerpt: Here I explain what the male advantage is and how to reach it.
 image: images/photo-nic-khhukoxqo4k-unsplash.jpg
 image_alt: Here I explain what the male advantage is and how to reach it.
+layout: post
 seo:
-  title: 'Outlier Male Series: Who is an outlier male? What''s the male advantage?'
   description: Here I explain what the male advantage is and how to reach it.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'Outlier Male Series: Who is an outlier male? What''s the male advantage?'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here I explain what the male advantage is and how to reach it.
-    keyName: property
-  - name: og:image
-    value: images/photo-nic-khhukoxqo4k-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/photo-nic-khhukoxqo4k-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +30,18 @@ seo:
   - name: twitter:description
     value: Here I explain what the male advantage is and how to reach it.
   - name: twitter:image
-    value: images/photo-nic-khhukoxqo4k-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/photo-nic-khhukoxqo4k-unsplash.jpg
+  title: 'Outlier Male Series: Who is an outlier male? What''s the male advantage?'
+subtitle: Here I explain what the male advantage is and how to reach it.
+tags:
+- male advantage
+- 1stman
+- masculinity
+- growth
+- self improvement
+title: 'Outlier Male Series: Who is an outlier male? What''s the male advantage?'
 ---
-
 I gotta thank [Kris from 1STMAN](https://www.youtube.com/c/1STMAN) for introducing me to the concept of [The Male Advantage](https://www.amazon.in/Male-Advantage-women-resist-Outlier-ebook/dp/B013TDV738) → How every man can _drastically_ increase his sexual market value through years of self-improvement.
 
 As I’ve said before, the term SMV is highly misleading, it should be called just Value instead. A man with a high SMV is _valuable._ Period.

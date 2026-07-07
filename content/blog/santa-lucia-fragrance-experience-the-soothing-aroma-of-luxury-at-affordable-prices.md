@@ -1,40 +1,36 @@
 ---
-title: Santa Lucia Fragrance - Experience the Soothing Aroma of Luxury at Affordable
-  Prices
-subtitle: Discover the alluring scents of Santa Lucia Fragrance. Their premium fragrances
-  are crafted with the finest ingredients, designed to evoke a sense of luxury and
-  relaxation. Shop now and indulge in the luxurious aroma.
+categories:
+- Lifestyle
+date: 2023-02-01 12:56:00+03:00
 excerpt: Discover the alluring scents of Santa Lucia Fragrance. Their premium fragrances
   are crafted with the finest ingredients, designed to evoke a sense of luxury and
   relaxation. Shop now and indulge in the luxurious aroma.
-date: 2023-02-01 12:56:00+03:00
 image: images/untitled_design_-_2022-02-11t092840-647_c765dbec-e4d0-4bfa-85c4-a6bfb878fee2_x800.png
 image_alt: Discover the alluring scents of Santa Lucia Fragrance. Their premium fragrances
   are crafted with the finest ingredients, designed to evoke a sense of luxury and
   relaxation. Shop now and indulge in the luxurious aroma.
+layout: post
 seo:
-  title: Santa Lucia Fragrance - Experience the Soothing Aroma of Luxury at Affordable
-    Prices
   description: Discover the alluring scents of Santa Lucia Fragrance. Their premium
     fragrances are crafted with the finest ingredients, designed to evoke a sense
     of luxury and relaxation. Shop now and indulge in the luxurious aroma.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Santa Lucia Fragrance - Experience the Soothing Aroma of Luxury at Affordable
       Prices
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Discover the alluring scents of Santa Lucia Fragrance. Their premium fragrances
       are crafted with the finest ingredients, designed to evoke a sense of luxury
       and relaxation. Shop now and indulge in the luxurious aroma.
-    keyName: property
-  - name: og:image
-    value: images/untitled_design_-_2022-02-11t092840-647_c765dbec-e4d0-4bfa-85c4-a6bfb878fee2_x800.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/untitled_design_-_2022-02-11t092840-647_c765dbec-e4d0-4bfa-85c4-a6bfb878fee2_x800.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -45,11 +41,33 @@ seo:
       are crafted with the finest ingredients, designed to evoke a sense of luxury
       and relaxation. Shop now and indulge in the luxurious aroma.
   - name: twitter:image
-    value: images/untitled_design_-_2022-02-11t092840-647_c765dbec-e4d0-4bfa-85c4-a6bfb878fee2_x800.png
     relativeUrl: true
-layout: post
+    value: images/untitled_design_-_2022-02-11t092840-647_c765dbec-e4d0-4bfa-85c4-a6bfb878fee2_x800.png
+  title: Santa Lucia Fragrance - Experience the Soothing Aroma of Luxury at Affordable
+    Prices
+subtitle: Discover the alluring scents of Santa Lucia Fragrance. Their premium fragrances
+  are crafted with the finest ingredients, designed to evoke a sense of luxury and
+  relaxation. Shop now and indulge in the luxurious aroma.
+tags:
+- Santa Lucia Fragrance
+- Perfumes
+- Aromatherapy
+- Luxury Fragrances
+- Soothing Scents
+- Premium Fragrances
+- Fragrance Collection
+- Fragrance
+- Perfume
+- Aroma
+- Scent
+- Scents
+- Fragrances
+- Masculine
+- Mens Perfume
+- Mens Fragrance
+title: Santa Lucia Fragrance - Experience the Soothing Aroma of Luxury at Affordable
+  Prices
 ---
-
 Santa Lucia Fragrance is a brand that takes pride in its masculine premium and luxurious fragrances. Each scent is carefully crafted with the finest ingredients to evoke a sense of relaxation and indulgence. From its beginnings, the brand has been dedicated to offering high-quality products that cater to customers looking for an escape from their daily routines and a chance to immerse themselves in aromatherapy.
 
 The brand's history and heritage are reflected in its fragrances, which are inspired by the beauty and splendor of the Mediterranean. From the sparkling waters of the seas to the rolling hills of the countryside, each scent captures the essence of this idyllic region. Santa Lucia Fragrance's commitment to quality is evident in its ingredients, which are sourced from the finest purveyors from around the world.

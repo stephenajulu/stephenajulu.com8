@@ -1,27 +1,27 @@
 ---
-title: Top Tech Gadgets Under ksh. 5,000 (Kenya Version)
-subtitle: Here are the top tech under 50 USD or ksh. 5,000
-excerpt: Here are the top tech under 50 USD or ksh. 5,000
+categories:
+- Tech
 date: 2022-06-09 06:48:00+03:00
+excerpt: Here are the top tech under 50 USD or ksh. 5,000
 image: images/onur-binay-_rppmkqtttg-unsplash.jpg
 image_alt: Here are the top tech under 50 USD or ksh. 5,000
+layout: post
 seo:
-  title: Top Tech Gadgets Under ksh. 5,000 (Kenya Version)
   description: Here are the top tech under 50 USD or ksh. 5,000
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Top Tech Gadgets Under ksh. 5,000 (Kenya Version)
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here are the top tech under 50 USD or ksh. 5,000
-    keyName: property
-  - name: og:image
-    value: images/onur-binay-_rppmkqtttg-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/onur-binay-_rppmkqtttg-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,17 @@ seo:
   - name: twitter:description
     value: Here are the top tech under 50 USD or ksh. 5,000
   - name: twitter:image
-    value: images/onur-binay-_rppmkqtttg-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/onur-binay-_rppmkqtttg-unsplash.jpg
+  title: Top Tech Gadgets Under ksh. 5,000 (Kenya Version)
+subtitle: Here are the top tech under 50 USD or ksh. 5,000
+tags:
+- tech
+- gadgets
+- affordable gadgets
+- affordable tech
+title: Top Tech Gadgets Under ksh. 5,000 (Kenya Version)
 ---
-
 Hello, today I'll be covering tech that's under 5k.
 
 #### Wireless Earphones

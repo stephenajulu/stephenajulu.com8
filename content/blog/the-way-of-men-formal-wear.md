@@ -1,37 +1,36 @@
 ---
-title: 'The Way of Men: Formal Wear'
-subtitle: Discover the different types of formal wear for men, including black-tie,
-  white-tie, semi-formal, and business casual. Learn how to choose the right attire
-  for any occasion, and complete your look with the perfect accessories.
+categories:
+- Lifestyle
+- Fashion
+date: 2023-02-23 15:57:00+03:00
 excerpt: Discover the different types of formal wear for men, including black-tie,
   white-tie, semi-formal, and business casual. Learn how to choose the right attire
   for any occasion, and complete your look with the perfect accessories.
-date: 2023-02-23 15:57:00+03:00
 image: images/photo-1577511757985-6c9f8518fc7b.jpeg
 image_alt: Discover the different types of formal wear for men, including black-tie,
   white-tie, semi-formal, and business casual. Learn how to choose the right attire
   for any occasion, and complete your look with the perfect accessories.
+layout: post
 seo:
-  title: 'The Way of Men: Formal Wear'
   description: Discover the different types of formal wear for men, including black-tie,
     white-tie, semi-formal, and business casual. Learn how to choose the right attire
     for any occasion, and complete your look with the perfect accessories.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'The Way of Men: Formal Wear'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Discover the different types of formal wear for men, including black-tie,
       white-tie, semi-formal, and business casual. Learn how to choose the right attire
       for any occasion, and complete your look with the perfect accessories.
-    keyName: property
-  - name: og:image
-    value: images/photo-1577511757985-6c9f8518fc7b.jpeg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/photo-1577511757985-6c9f8518fc7b.jpeg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -41,11 +40,26 @@ seo:
       white-tie, semi-formal, and business casual. Learn how to choose the right attire
       for any occasion, and complete your look with the perfect accessories.
   - name: twitter:image
-    value: images/photo-1577511757985-6c9f8518fc7b.jpeg
     relativeUrl: true
-layout: post
+    value: images/photo-1577511757985-6c9f8518fc7b.jpeg
+  title: 'The Way of Men: Formal Wear'
+subtitle: Discover the different types of formal wear for men, including black-tie,
+  white-tie, semi-formal, and business casual. Learn how to choose the right attire
+  for any occasion, and complete your look with the perfect accessories.
+tags:
+- formal wear
+- mens fashion
+- men fashion
+- semi formal wear
+- business wear
+- casual wear
+- business casual
+- dress code
+- accessories
+- outfit
+- wardrobe
+title: 'The Way of Men: Formal Wear'
 ---
-
 When it comes to dressing up for formal events, men often find themselves wondering what the appropriate attire is. Formal wear is an important aspect of any man's wardrobe and can range from black-tie events to business casual meetings. In this article, we'll explore the various types of formal wear for men and how to choose the right attire for any occasion.
 
 ## The Different Types of Formal Wear for Men

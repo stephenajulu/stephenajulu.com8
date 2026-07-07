@@ -1,32 +1,31 @@
 ---
-title: What are Smart Contracts? How Do They Work? Smart Contracts Explained
-subtitle: What are smart contracts? How do they work? Here i explain what smart contracts
-  are and how they work.
+categories:
+- Technology
+date: 2021-12-09 11:00:00+03:00
 excerpt: What are smart contracts? How do they work? Here i explain what smart contracts
   are and how they work.
-date: 2021-12-09 11:00:00+03:00
 image: images/smart-contract-featured-image.png
 image_alt: What are smart contracts? How do they work? Here i explain what smart contracts
   are and how they work.
+layout: post
 seo:
-  title: What are Smart Contracts? How Do They Work? Smart Contracts Explained
   description: What are smart contracts? How do they work? Here i explain what smart
     contracts are and how they work.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: What are Smart Contracts? How Do They Work? Smart Contracts Explained
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: What are smart contracts? How do they work? Here i explain what smart contracts
       are and how they work.
-    keyName: property
-  - name: og:image
-    value: images/smart-contract-featured-image.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/smart-contract-featured-image.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +34,25 @@ seo:
     value: What are smart contracts? How do they work? Here i explain what smart contracts
       are and how they work.
   - name: twitter:image
-    value: images/smart-contract-featured-image.png
     relativeUrl: true
-layout: post
+    value: images/smart-contract-featured-image.png
+  title: What are Smart Contracts? How Do They Work? Smart Contracts Explained
+subtitle: What are smart contracts? How do they work? Here i explain what smart contracts
+  are and how they work.
+tags:
+- technology
+- smart contracts
+- blockchain
+- decentralized
+- ledger
+- hyperledger
+- digital ledger
+- cryptocurrencies
+- crypto
+- bitcoin
+- ethereum
+title: What are Smart Contracts? How Do They Work? Smart Contracts Explained
 ---
-
 A **smart contract** is a computer program or a transaction protocol that is intended to automatically execute, control, or document legally relevant events and actions according to the terms of a contract or an agreement. The objectives of smart contracts are the reduction of need in trusted intermediates, arbitrations, and enforcement costs, fraud losses, as well as the reduction of malicious and accidental exceptions.
 
 The code and the agreements contained therein exist across a distributed, decentralized [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) network. The code controls the execution, and transactions are trackable and irreversible.

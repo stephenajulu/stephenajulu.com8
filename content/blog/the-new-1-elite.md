@@ -1,37 +1,38 @@
 ---
-title: The New 1% Elite
-subtitle: Here are the new 1% elite members of society that are silently taking over
-  the world. Are you one of them? or Are you striving to become one of them? If not,
-  you should!
+categories:
+- self improvement
+- personal development
+- growth
+- abundance
+date: 2021-11-19 11:08:00+03:00
 excerpt: Here are the new 1% elite members of society that are silently taking over
   the world. Are you one of them? or Are you striving to become one of them? If not,
   you should!
-date: 2021-11-19 11:08:00+03:00
 image: images/helena-lopes-uze35tk5uoa-unsplash.jpg
 image_alt: Here are the new 1% elite members of society that are silently taking over
   the world. Are you one of them? or Are you striving to become one of them? If not,
   you should!
+layout: post
 seo:
-  title: The New 1% Elite
   description: Here are the new 1% elite members of society that are silently taking
     over the world. Are you one of them? or Are you striving to become one of them?
     If not, you should!
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: The New 1% Elite
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here are the new 1% elite members of society that are silently taking over
       the world. Are you one of them? or Are you striving to become one of them? If
       not, you should!
-    keyName: property
-  - name: og:image
-    value: images/helena-lopes-uze35tk5uoa-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/helena-lopes-uze35tk5uoa-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -41,11 +42,22 @@ seo:
       the world. Are you one of them? or Are you striving to become one of them? If
       not, you should!
   - name: twitter:image
-    value: images/helena-lopes-uze35tk5uoa-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/helena-lopes-uze35tk5uoa-unsplash.jpg
+  title: The New 1% Elite
+subtitle: Here are the new 1% elite members of society that are silently taking over
+  the world. Are you one of them? or Are you striving to become one of them? If not,
+  you should!
+tags:
+- self improvement
+- personal development
+- growth
+- abundance
+- creator
+- creation
+- self mastery
+title: The New 1% Elite
 ---
-
 Here are the new 1% elite members of society that are silently taking over the world. Are you one of them? if not start striving to become one of them.
 
 The New 1% are:

@@ -1,27 +1,27 @@
 ---
-title: Mini Self Improvement Framework For Everyone
-subtitle: ''
-excerpt: ''
+categories:
+- self improvement
 date: 2021-08-20 17:25:00+03:00
+excerpt: ''
 image: images/danielle-macinnes-iulgi9pwetu-unsplash.jpg
 image_alt: ''
+layout: post
 seo:
-  title: Mini Self Improvement Framework For Everyone
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Mini Self Improvement Framework For Everyone
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/danielle-macinnes-iulgi9pwetu-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/danielle-macinnes-iulgi9pwetu-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,14 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/danielle-macinnes-iulgi9pwetu-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/danielle-macinnes-iulgi9pwetu-unsplash.jpg
+  title: Mini Self Improvement Framework For Everyone
+subtitle: ''
+tags:
+- self improvement
+title: Mini Self Improvement Framework For Everyone
 ---
-
 Hi! How are you?
 
 I like a quote Hafeez from The Roommates always says. Though i modified it so now it's my quote. It says,

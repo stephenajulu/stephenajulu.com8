@@ -1,27 +1,29 @@
 ---
-title: 13 Books All Men Should Read(Updated)
-subtitle: ''
-excerpt: ''
+categories:
+- men
+- self improvement
+- books
 date: 2021-08-08 15:23:00+03:00
+excerpt: ''
 image: images/thought-catalog-o0qqw21-0ni-unsplash.jpg
 image_alt: ''
+layout: post
 seo:
-  title: 13 Books All Men Should Read(Updated)
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 13 Books All Men Should Read(Updated)
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/thought-catalog-o0qqw21-0ni-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/thought-catalog-o0qqw21-0ni-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/thought-catalog-o0qqw21-0ni-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/thought-catalog-o0qqw21-0ni-unsplash.jpg
+  title: 13 Books All Men Should Read(Updated)
+subtitle: ''
+tags:
+- men
+- self improvement
+- books
+title: 13 Books All Men Should Read(Updated)
 ---
-
 Here are the 13 books I recommend to all men that will change your life and help you level up.
 
 This is a quick list. International links are affiliate links from Amazon and the local links are from Jumia. I get a commission from both.

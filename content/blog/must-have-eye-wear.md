@@ -1,27 +1,27 @@
 ---
-title: Must Have Eye Wear
-subtitle: ''
-excerpt: ''
+categories:
+- health
 date: 2021-02-09 04:45:00+00:00
+excerpt: ''
 image: images/more-color_1800x.jpg
 image_alt: ''
+layout: post
 seo:
-  title: Must Have Eye Wear
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Must Have Eye Wear
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/more-color_1800x.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/more-color_1800x.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,36 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/more-color_1800x.jpg
     relativeUrl: true
-layout: post
+    value: images/more-color_1800x.jpg
+  title: Must Have Eye Wear
+subtitle: ''
+tags:
+- glasses
+- eyewear
+- bluelight
+- uv rays
+- uv light
+- harmful dangers of uv light
+- harmful uv
+- harmful bluelight
+- blue light
+- ultraviolet
+- eye wear
+- must have
+- jade black
+- jadeblack
+- sunglasses
+- digital protection
+- bluelight protection
+- prism
+- commanders
+- generals
+- bellas
+- health
+- lifestyle
+title: Must Have Eye Wear
 ---
-
 Hi everyone, welcome back. Today, I'll be talking about the importance of having at least 2 different types of eyewear.
 
 So let's dive in!

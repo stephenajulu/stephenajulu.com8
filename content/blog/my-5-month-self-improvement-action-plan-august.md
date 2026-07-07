@@ -1,27 +1,29 @@
 ---
-title: 'My 5 Month Self Improvement Action Plan: August'
-subtitle: ''
-excerpt: ''
+categories:
+- self improvement
+- manliness
+- growth
 date: 2021-08-07 15:35:00+03:00
+excerpt: ''
 image: images/troy-spoelma-03mi51amhoe-unsplash.jpg
 image_alt: ''
+layout: post
 seo:
-  title: 'My 5 Month Self Improvement Action Plan: August'
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'My 5 Month Self Improvement Action Plan: August'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/troy-spoelma-03mi51amhoe-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/troy-spoelma-03mi51amhoe-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/troy-spoelma-03mi51amhoe-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/troy-spoelma-03mi51amhoe-unsplash.jpg
+  title: 'My 5 Month Self Improvement Action Plan: August'
+subtitle: ''
+tags:
+- self improvement
+- manliness
+- growth
+title: 'My 5 Month Self Improvement Action Plan: August'
 ---
-
 Hi guys? Today I'd like to share with you my 5-month action plan for leveling up starting up with August. I'd like it if you can join me and tweet your growth. Also, mention me @stephenajulu. Let's get stronger, faster, and better together.
 
 ## Month 1: August

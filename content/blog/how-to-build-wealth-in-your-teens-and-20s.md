@@ -1,27 +1,29 @@
 ---
-title: How To Build Wealth in Your Teens and 20s(Updated)
-subtitle: ''
-excerpt: ''
+categories:
+- wealth
+- investment
+- finance
 date: 2021-09-02 12:07:00+03:00
+excerpt: ''
 image: images/morgan-housel-pcdggex9-ja-unsplash.jpg
 image_alt: ''
+layout: post
 seo:
-  title: How To Build Wealth in Your Teens and 20s(Updated)
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: How To Build Wealth in Your Teens and 20s(Updated)
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/morgan-housel-pcdggex9-ja-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/morgan-housel-pcdggex9-ja-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/morgan-housel-pcdggex9-ja-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/morgan-housel-pcdggex9-ja-unsplash.jpg
+  title: How To Build Wealth in Your Teens and 20s(Updated)
+subtitle: ''
+tags:
+- wealth
+- investment
+- finance
+title: How To Build Wealth in Your Teens and 20s(Updated)
 ---
-
 Here's how you can build wealth in your teens and 20s.
 
 ### 1. Live below your means

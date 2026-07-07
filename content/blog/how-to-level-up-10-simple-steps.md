@@ -1,27 +1,29 @@
 ---
-title: 'How To Level Up: 10 Simple Steps'
-subtitle: ''
-excerpt: ''
+categories:
+- self improvement
+- self-development
+- personal development
 date: 2021-08-01 18:36:00+03:00
+excerpt: ''
 image: images/kelvin-zhang-2zok5j-13ma-unsplash.jpg
 image_alt: ''
+layout: post
 seo:
-  title: 'How To Level Up: 10 Simple Steps'
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'How To Level Up: 10 Simple Steps'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/kelvin-zhang-2zok5j-13ma-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/kelvin-zhang-2zok5j-13ma-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/kelvin-zhang-2zok5j-13ma-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/kelvin-zhang-2zok5j-13ma-unsplash.jpg
+  title: 'How To Level Up: 10 Simple Steps'
+subtitle: ''
+tags:
+- self improvement
+- growth
+- self help
+title: 'How To Level Up: 10 Simple Steps'
 ---
-
 ## 1. Read 10 pages a day
 
 Dedicate 1 hour a day to learning deliberately this can be through reading any book(better with Self-help and self-development) even the Bible. I will soon post books you can read in a separate post. Learn more about the 5-hour rule.

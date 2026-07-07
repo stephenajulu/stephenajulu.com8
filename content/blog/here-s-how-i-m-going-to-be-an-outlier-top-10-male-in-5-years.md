@@ -1,32 +1,32 @@
 ---
-title: 'Outlier Male Series: My Plan to Become an Outlier Male in 5 years'
-subtitle: Here's the step-by-step plan on how I'm going to be an outlier "Top 10%"
-  male in 5 years
+categories:
+- Lifestyle
+- Self Development
+date: 2022-12-28 14:00:00+03:00
 excerpt: Here's the step-by-step plan on how I'm going to be an outlier "Top 10%"
   male in 5 years
-date: 2022-12-28 14:00:00+03:00
 image: images/photo-nic-khhukoxqo4k-unsplash.jpg
 image_alt: Here's the step-by-step plan on how I'm going to be an outlier "Top 10%"
   male in 5 years
+layout: post
 seo:
-  title: 'Outlier Male Series: My Plan to Become an Outlier Male in 5 years'
   description: Here's the step-by-step plan on how I'm going to be an outlier "Top
     10%" male in 5 years
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'Outlier Male Series: My Plan to Become an Outlier Male in 5 years'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here's the step-by-step plan on how I'm going to be an outlier "Top 10%"
       male in 5 years
-    keyName: property
-  - name: og:image
-    value: images/photo-nic-khhukoxqo4k-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/photo-nic-khhukoxqo4k-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +35,19 @@ seo:
     value: Here's the step-by-step plan on how I'm going to be an outlier "Top 10%"
       male in 5 years
   - name: twitter:image
-    value: images/photo-nic-khhukoxqo4k-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/photo-nic-khhukoxqo4k-unsplash.jpg
+  title: 'Outlier Male Series: My Plan to Become an Outlier Male in 5 years'
+subtitle: Here's the step-by-step plan on how I'm going to be an outlier "Top 10%"
+  male in 5 years
+tags:
+- lifestyle
+- health
+- wealth
+- relationships
+- dating
+title: 'Outlier Male Series: My Plan to Become an Outlier Male in 5 years'
 ---
-
 Hello guys, as the title says. Here's how I plan to become an outlier male.
 
 Why do I plan to become an outlier male?

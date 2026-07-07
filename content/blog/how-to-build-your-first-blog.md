@@ -1,27 +1,27 @@
 ---
-title: How to Build Your First Blog
-subtitle: ''
-excerpt: ''
+categories:
+- life
 date: 2021-02-08 03:52:00+00:00
+excerpt: ''
 image: images/how-to-start-a-blog-illustration-1.jpeg
 image_alt: ''
+layout: post
 seo:
-  title: How to Build Your First Blog
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: How to Build Your First Blog
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/how-to-start-a-blog-illustration-1.jpeg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/how-to-start-a-blog-illustration-1.jpeg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,14 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/how-to-start-a-blog-illustration-1.jpeg
     relativeUrl: true
-layout: post
+    value: images/how-to-start-a-blog-illustration-1.jpeg
+  title: How to Build Your First Blog
+subtitle: ''
+tags:
+- blogging
+title: How to Build Your First Blog
 ---
-
 Hi everyone, glad to have you back. Today we've talked about How you can buy your first share, now I'll teach you how you can build your own blog.
 
 1. As usual, you have to get into the right mindset, there is no perfect blog, write about what you want to write about. I like tech, finance, self branding, self improvement and lifestyle, so that's what i write, you don't have to be extremely knowledgeable in the topic, everyone knows something you don't and so do you. So write about what you love and want. Value is provided with your heart not your mind.

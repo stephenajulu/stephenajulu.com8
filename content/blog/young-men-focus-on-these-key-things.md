@@ -1,27 +1,27 @@
 ---
-title: Young Men, Focus On These Key Things
-subtitle: Here are the 5 things you should focus on for massive success and prosperity
-excerpt: Here are the 5 things you should focus on for massive success and prosperity
+categories:
+- self improvement
 date: 2021-11-24 17:18:00+03:00
+excerpt: Here are the 5 things you should focus on for massive success and prosperity
 image: images/bruce-mars-8yg31xn4dsw-unsplash.jpg
 image_alt: Here are the 5 things you should focus on for massive success and prosperity
+layout: post
 seo:
-  title: Young Men, Focus On These Key Things
   description: Here are the 5 things you should focus on for massive success and prosperity
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Young Men, Focus On These Key Things
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here are the 5 things you should focus on for massive success and prosperity
-    keyName: property
-  - name: og:image
-    value: images/bruce-mars-8yg31xn4dsw-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/bruce-mars-8yg31xn4dsw-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,21 @@ seo:
   - name: twitter:description
     value: Here are the 5 things you should focus on for massive success and prosperity
   - name: twitter:image
-    value: images/bruce-mars-8yg31xn4dsw-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/bruce-mars-8yg31xn4dsw-unsplash.jpg
+  title: Young Men, Focus On These Key Things
+subtitle: Here are the 5 things you should focus on for massive success and prosperity
+tags:
+- self improvement
+- men
+- man
+- self mastery
+- success
+- fitness
+- investment
+- intelligence
+title: Young Men, Focus On These Key Things
 ---
-
 Hi men, here are 5 things you should focus on and commit to doing every day for MASSIVE success.
 
 I'll start with a quote: "Happiness comes from surpassing your limits"

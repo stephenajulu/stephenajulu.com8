@@ -1,32 +1,31 @@
 ---
-title: My Morning Routine
-subtitle: Here's the morning routine I formulated that will help me achieve my 4 month
-  plan for self improvement
+categories:
+- self improvement
+date: 2021-11-26 07:48:00+03:00
 excerpt: Here's the morning routine I formulated that will help me achieve my 4 month
   plan for self improvement
-date: 2021-11-26 07:48:00+03:00
 image: images/diego-lozano-qghnk7eis0k-unsplash.jpg
 image_alt: Here's the morning routine I formulated that will help me achieve my 4
   month plan for self improvement
+layout: post
 seo:
-  title: My Morning Routine
   description: Here's the morning routine I formulated that will help me achieve my
     4 month plan for self improvement
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: My Morning Routine
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here's the morning routine I formulated that will help me achieve my 4
       month plan for self improvement
-    keyName: property
-  - name: og:image
-    value: images/diego-lozano-qghnk7eis0k-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/diego-lozano-qghnk7eis0k-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +34,16 @@ seo:
     value: Here's the morning routine I formulated that will help me achieve my 4
       month plan for self improvement
   - name: twitter:image
-    value: images/diego-lozano-qghnk7eis0k-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/diego-lozano-qghnk7eis0k-unsplash.jpg
+  title: My Morning Routine
+subtitle: Here's the morning routine I formulated that will help me achieve my 4 month
+  plan for self improvement
+tags:
+- self improvement
+- routines
+title: My Morning Routine
 ---
-
 Hello!
 
 Today I'd like to share my morning routine. I have been using it for 4 days now and feel absolutely fantastic.

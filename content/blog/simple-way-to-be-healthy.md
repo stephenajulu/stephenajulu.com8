@@ -1,27 +1,27 @@
 ---
-title: Simple Way To Be Healthy
-subtitle: ''
-excerpt: ''
+categories:
+- health
 date: 2021-09-02 12:49:00+03:00
+excerpt: ''
 image: images/jenny-hill-io2zgb3_kdk-unsplash.jpg
 image_alt: ''
+layout: post
 seo:
-  title: Simple Way To Be Healthy
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Simple Way To Be Healthy
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/jenny-hill-io2zgb3_kdk-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/jenny-hill-io2zgb3_kdk-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,14 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/jenny-hill-io2zgb3_kdk-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/jenny-hill-io2zgb3_kdk-unsplash.jpg
+  title: Simple Way To Be Healthy
+subtitle: ''
+tags:
+- health
+title: Simple Way To Be Healthy
 ---
-
  1. Increase fat intake - Skip seed oils for cooking and frying instead adopt Organic Avocado Oil,  Organic Olive Oil, Organic Coconut oil, Grass-fed butter, Grass-fed ghee, Grass-fed tallow, Grass-fed suet, and others like them. Avoid Canola, Sunflower, Peanut, Corn, Safflower, soybean, cottonseed, rapeseed, grapeseed, and other similar oils. Increase saturated fats. Fats are the building blocks of the most important hormones. 
  2. Fast - Try One Meal A Day, Intermittent Fasting, One and A Half Meals A Day. Do Autophagy fasting Wednesday 7 pm to Friday 7 pm.
  3. Avoid sugar like the plague - Sugar is bad for you. It feeds cancer cells. Leads to metabolic syndrome and fatty liver. Among other issues. Avoid it.

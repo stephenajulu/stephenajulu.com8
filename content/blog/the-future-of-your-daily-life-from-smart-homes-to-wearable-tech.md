@@ -1,40 +1,40 @@
 ---
-title: 'The Future of Your Daily Life: From Smart Homes to Wearable Tech'
-subtitle: Explore the exciting world of smart homes and wearable technology, and discover
-  how these innovations are changing the way we live our lives. From increased convenience
-  and energy savings to better health and wellness, the possibilities are endless.
+categories:
+- Tech
+- Technology
+- Lifestyle
+date: 2023-02-15 14:29:00+03:00
 excerpt: Explore the exciting world of smart homes and wearable technology, and discover
   how these innovations are changing the way we live our lives. From increased convenience
   and energy savings to better health and wellness, the possibilities are endless.
-date: 2023-02-15 14:29:00+03:00
 image: images/1_ipb1wb5ffubowsimo3jfrg.jpeg
 image_alt: Explore the exciting world of smart homes and wearable technology, and
   discover how these innovations are changing the way we live our lives. From increased
   convenience and energy savings to better health and wellness, the possibilities
   are endless.
+layout: post
 seo:
-  title: 'The Future of Your Daily Life: From Smart Homes to Wearable Tech'
   description: Explore the exciting world of smart homes and wearable technology,
     and discover how these innovations are changing the way we live our lives. From
     increased convenience and energy savings to better health and wellness, the possibilities
     are endless.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'The Future of Your Daily Life: From Smart Homes to Wearable Tech'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Explore the exciting world of smart homes and wearable technology, and
       discover how these innovations are changing the way we live our lives. From
       increased convenience and energy savings to better health and wellness, the
       possibilities are endless.
-    keyName: property
-  - name: og:image
-    value: images/1_ipb1wb5ffubowsimo3jfrg.jpeg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/1_ipb1wb5ffubowsimo3jfrg.jpeg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -45,11 +45,24 @@ seo:
       increased convenience and energy savings to better health and wellness, the
       possibilities are endless.
   - name: twitter:image
-    value: images/1_ipb1wb5ffubowsimo3jfrg.jpeg
     relativeUrl: true
-layout: post
+    value: images/1_ipb1wb5ffubowsimo3jfrg.jpeg
+  title: 'The Future of Your Daily Life: From Smart Homes to Wearable Tech'
+subtitle: Explore the exciting world of smart homes and wearable technology, and discover
+  how these innovations are changing the way we live our lives. From increased convenience
+  and energy savings to better health and wellness, the possibilities are endless.
+tags:
+- smart home
+- smart homes
+- wearable technology
+- future technology
+- health
+- wellness
+- wearable tech
+- future tech
+- convenience
+title: 'The Future of Your Daily Life: From Smart Homes to Wearable Tech'
 ---
-
 As technology continues to advance, it is changing the way we live our daily lives. From smart homes to wearable tech, the future looks bright for those who embrace these innovations. In this article, we will explore the various ways in which technology is transforming our lives and what the future may hold.
 
 Technology has come a long way over the past few decades. It has changed the way we communicate, works, and live. The rise of smart homes and wearable technology is just the beginning of what is to come. In this article, we will explore the ways in which these innovations are changing our lives, as well as what the future may hold.

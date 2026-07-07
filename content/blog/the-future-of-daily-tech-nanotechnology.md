@@ -1,18 +1,15 @@
 ---
-title: 'The Future of Daily Tech: Nanotechnology'
-subtitle: Discover the future of daily tech with nanotechnology. From electronics
-  and computing to medicine and energy, learn how nanotechnology is already being
-  used in a wide range of applications and the possibilities for future innovations.
-  Explore the challenges and risks associated with nanotechnology, including the development
-  of safe and effective nanomaterials, potential for misuse or unintended consequences,
-  and the ethical implications of manipulating matter at the nanoscale.
+categories:
+- Technology
+- Lifestyle
+- Tech
+date: 2023-02-16 09:48:00+03:00
 excerpt: Discover the future of daily tech with nanotechnology. From electronics and
   computing to medicine and energy, learn how nanotechnology is already being used
   in a wide range of applications and the possibilities for future innovations. Explore
   the challenges and risks associated with nanotechnology, including the development
   of safe and effective nanomaterials, potential for misuse or unintended consequences,
   and the ethical implications of manipulating matter at the nanoscale.
-date: 2023-02-16 09:48:00+03:00
 image: images/1_aszy222oub_qfhn_eqvnyw.jpeg
 image_alt: Discover the future of daily tech with nanotechnology. From electronics
   and computing to medicine and energy, learn how nanotechnology is already being
@@ -20,8 +17,8 @@ image_alt: Discover the future of daily tech with nanotechnology. From electroni
   Explore the challenges and risks associated with nanotechnology, including the development
   of safe and effective nanomaterials, potential for misuse or unintended consequences,
   and the ethical implications of manipulating matter at the nanoscale.
+layout: post
 seo:
-  title: 'The Future of Daily Tech: Nanotechnology'
   description: Discover the future of daily tech with nanotechnology. From electronics
     and computing to medicine and energy, learn how nanotechnology is already being
     used in a wide range of applications and the possibilities for future innovations.
@@ -29,24 +26,24 @@ seo:
     development of safe and effective nanomaterials, potential for misuse or unintended
     consequences, and the ethical implications of manipulating matter at the nanoscale.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'The Future of Daily Tech: Nanotechnology'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Discover the future of daily tech with nanotechnology. From electronics
       and computing to medicine and energy, learn how nanotechnology is already being
       used in a wide range of applications and the possibilities for future innovations.
       Explore the challenges and risks associated with nanotechnology, including the
       development of safe and effective nanomaterials, potential for misuse or unintended
       consequences, and the ethical implications of manipulating matter at the nanoscale.
-    keyName: property
-  - name: og:image
-    value: images/1_aszy222oub_qfhn_eqvnyw.jpeg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/1_aszy222oub_qfhn_eqvnyw.jpeg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -59,11 +56,31 @@ seo:
       development of safe and effective nanomaterials, potential for misuse or unintended
       consequences, and the ethical implications of manipulating matter at the nanoscale.
   - name: twitter:image
-    value: images/1_aszy222oub_qfhn_eqvnyw.jpeg
     relativeUrl: true
-layout: post
+    value: images/1_aszy222oub_qfhn_eqvnyw.jpeg
+  title: 'The Future of Daily Tech: Nanotechnology'
+subtitle: Discover the future of daily tech with nanotechnology. From electronics
+  and computing to medicine and energy, learn how nanotechnology is already being
+  used in a wide range of applications and the possibilities for future innovations.
+  Explore the challenges and risks associated with nanotechnology, including the development
+  of safe and effective nanomaterials, potential for misuse or unintended consequences,
+  and the ethical implications of manipulating matter at the nanoscale.
+tags:
+- nanotechnology
+- daily tech
+- future tech
+- medicine
+- energy
+- electronics
+- computing
+- nanomaterials
+- innovation
+- tech
+- technology
+- science
+- research
+title: 'The Future of Daily Tech: Nanotechnology'
 ---
-
 Nanotechnology is a rapidly evolving field that has the potential to revolutionize the way we live, work and communicate. As the science of engineering and manipulating matter at the nanoscale, nanotechnology is already being used in a wide range of applications, from electronics and computing to medicine and energy.
 
 In this article, we will explore the current state of nanotechnology, the potential impact it could have on our daily lives, and the challenges that lie ahead.

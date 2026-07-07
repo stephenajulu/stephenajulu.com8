@@ -1,27 +1,28 @@
 ---
-title: Introversion Sucks, But....
-subtitle: ''
-excerpt: ''
+categories:
+- Mental Health
+- Introversion
 date: 2021-06-26 18:30:00+03:00
+excerpt: ''
 image: images/introversion-sucks-but.png
 image_alt: ''
+layout: post
 seo:
-  title: Introversion Sucks, But....
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Introversion Sucks, But....
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/introversion-sucks-but.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/introversion-sucks-but.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +30,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/introversion-sucks-but.png
     relativeUrl: true
-layout: post
+    value: images/introversion-sucks-but.png
+  title: Introversion Sucks, But....
+subtitle: ''
+tags:
+- mental health
+- introversion
+- introvert
+title: Introversion Sucks, But....
 ---
-
 Hi there, twice in one row, yea! yea!
 
 But this is different.

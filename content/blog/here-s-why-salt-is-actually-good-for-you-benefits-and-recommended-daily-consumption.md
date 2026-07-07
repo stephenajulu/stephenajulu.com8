@@ -1,45 +1,40 @@
 ---
-title: 'Here''s Why Salt is Actually Good For You: Benefits and Recommended Daily
-  Consumption'
-subtitle: Salt(Sodium Chloride) is one the most important electrolytes. In fact it's
-  been shown to be a master electrolyte that balances others. Science also shows it
-  boosts thyroid function, metabolism, improves insulin sensitivity and many more.
-  Find out here.
+categories:
+- Lifestye
+date: 2022-06-06 15:54:00+03:00
 excerpt: Salt(Sodium Chloride) is one the most important electrolytes. In fact it's
   been shown to be a master electrolyte that balances others. Science also shows it
   boosts thyroid function, metabolism, improves insulin sensitivity and many more.
   Find out here.
-date: 2022-06-06 15:54:00+03:00
 image: images/maksym-sirman-mutyusmedss-unsplash.jpg
 image_alt: Salt(Sodium Chloride) is one the most important electrolytes. In fact it's
   been shown to be a master electrolyte that balances others. Science also shows it
   boosts thyroid function, metabolism, improves insulin sensitivity and many more.
   Find out here.
+layout: post
 seo:
-  title: 'Here''s Why Salt is Actually Good For You: Benefits and Recommended Daily
-    Consumption'
   description: Salt(Sodium Chloride) is one the most important electrolytes. In fact
     it's been shown to be a master electrolyte that balances others. Science also
     shows it boosts thyroid function, metabolism, improves insulin sensitivity and
     many more. Find out here.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'Here''s Why Salt is Actually Good For You: Benefits and Recommended Daily
       Consumption'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Salt(Sodium Chloride) is one the most important electrolytes. In fact it's
       been shown to be a master electrolyte that balances others. Science also shows
       it boosts thyroid function, metabolism, improves insulin sensitivity and many
       more. Find out here.
-    keyName: property
-  - name: og:image
-    value: images/maksym-sirman-mutyusmedss-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/maksym-sirman-mutyusmedss-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -51,11 +46,25 @@ seo:
       it boosts thyroid function, metabolism, improves insulin sensitivity and many
       more. Find out here.
   - name: twitter:image
-    value: images/maksym-sirman-mutyusmedss-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/maksym-sirman-mutyusmedss-unsplash.jpg
+  title: 'Here''s Why Salt is Actually Good For You: Benefits and Recommended Daily
+    Consumption'
+subtitle: Salt(Sodium Chloride) is one the most important electrolytes. In fact it's
+  been shown to be a master electrolyte that balances others. Science also shows it
+  boosts thyroid function, metabolism, improves insulin sensitivity and many more.
+  Find out here.
+tags:
+- health
+- salt
+- sodium chloride
+- insulin sensitivity
+- thyroid function
+- metabolism
+- lifestyle
+title: 'Here''s Why Salt is Actually Good For You: Benefits and Recommended Daily
+  Consumption'
 ---
-
  1. **Salt aids blood sugar control by improving insulin sensitivity**. A low-salt diet **increases insulin resistance** and even moderate dietary salt restriction is shown to cause systemic insulin resistance (study [**#1**](http://www.metabolismjournal.com/article/S0026-0495(10)00329-X/abstract) and [**#2**](http://www.ncbi.nlm.nih.gov/pubmed/10371376)).
  2. **Salt is a natural antihistamine**. A pinch of salt sprinkled on the tongue may help improve an allergic reaction or an asthma attack ([**source**](http://amzn.to/163MtZS)).
  3. **Your body needs salt to maintain the proper stomach pH**. Stomach acid is hydro_chloric_ acid and salt is sodium _chloride_. Proper stomach acid levels are absolutely foundational for good digestion, but 90% of Americans have low stomach acid.

@@ -1,27 +1,27 @@
 ---
-title: Top 100 Most Common Passwords + Precautionary Measures
-subtitle: ''
-excerpt: ''
+categories:
+- cybersecurity
 date: 2021-06-20 16:13:00+03:00
+excerpt: ''
 image: images/cpl.png
 image_alt: ''
+layout: post
 seo:
-  title: Top 100 Most Common Passwords + Precautionary Measures
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Top 100 Most Common Passwords + Precautionary Measures
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/cpl.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/cpl.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,12 +29,14 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/cpl.png
     relativeUrl: true
-layout: post
+    value: images/cpl.png
+  title: Top 100 Most Common Passwords + Precautionary Measures
+subtitle: ''
+tags:
+- passwords
+title: Top 100 Most Common Passwords + Precautionary Measures
 ---
-
-
   1. 12345
   2. 123456
   3. 123456789

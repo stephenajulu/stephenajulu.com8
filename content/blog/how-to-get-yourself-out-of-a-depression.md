@@ -1,27 +1,27 @@
 ---
-title: How to Get Yourself Out of A Depression or State of Sadness
-subtitle: Here are a few ways you can get out of feeling sad
-excerpt: Here are a few ways you can get out of feeling sad
+categories:
+- Self improvement
 date: 2021-11-28 16:39:00+03:00
+excerpt: Here are a few ways you can get out of feeling sad
 image: images/nik-shuliahin-bunwp1bl0nc-unsplash.jpg
 image_alt: Here are a few ways you can get out of feeling sad
+layout: post
 seo:
-  title: How to Get Yourself Out of A Depression or State of Sadness
   description: Here are a few ways you can get out of feeling sad
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: How to Get Yourself Out of A Depression or State of Sadness
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here are a few ways you can get out of feeling sad
-    keyName: property
-  - name: og:image
-    value: images/nik-shuliahin-bunwp1bl0nc-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/nik-shuliahin-bunwp1bl0nc-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,16 @@ seo:
   - name: twitter:description
     value: Here are a few ways you can get out of feeling sad
   - name: twitter:image
-    value: images/nik-shuliahin-bunwp1bl0nc-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/nik-shuliahin-bunwp1bl0nc-unsplash.jpg
+  title: How to Get Yourself Out of A Depression or State of Sadness
+subtitle: Here are a few ways you can get out of feeling sad
+tags:
+- self improvement
+- sadness
+- depression
+title: How to Get Yourself Out of A Depression or State of Sadness
 ---
-
 We all feel sad. Today I'd like to share what has helped me during times of sadness and depression.
 
 1. Talk to someone - it is said that a problem shared is a problem half solved. Plus now you'll have 2 brains. But if you are a man only talk to another man. 

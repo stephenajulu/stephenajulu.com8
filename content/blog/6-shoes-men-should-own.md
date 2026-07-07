@@ -1,27 +1,29 @@
 ---
-title: 6 Shoes Men Should Own
-subtitle: ''
-excerpt: ''
+categories:
+- fashion
+- men
+- style
 date: 2021-08-09 21:07:00+03:00
+excerpt: ''
 image: images/clem-onojeghuo-ouxpfti70i0-unsplash.jpg
 image_alt: ''
+layout: post
 seo:
-  title: 6 Shoes Men Should Own
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 6 Shoes Men Should Own
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/clem-onojeghuo-ouxpfti70i0-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/clem-onojeghuo-ouxpfti70i0-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/clem-onojeghuo-ouxpfti70i0-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/clem-onojeghuo-ouxpfti70i0-unsplash.jpg
+  title: 6 Shoes Men Should Own
+subtitle: ''
+tags:
+- fashion
+- men
+- style
+title: 6 Shoes Men Should Own
 ---
-
 Here are the 6 shoes men should own for usefulness, reliability and comfort
 
 ### 1. Leather Boots

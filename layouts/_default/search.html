@@ -54,9 +54,18 @@ document.addEventListener("DOMContentLoaded", function() {
   fetch("/index.json")
     .then(response => response.json())
     .then(data => {
-      searchIndex = data;
-      fuse = new Fuse(data, fuseOptions);
-      searchStats.innerText = `Index loaded. Search across ${data.length} articles and notes.`;
+      // Deduplicate by permalink to prevent repeated search results
+      const uniqueData = [];
+      const seenPermalinks = new Set();
+      for (const item of data) {
+        if (item.permalink && !seenPermalinks.has(item.permalink)) {
+          seenPermalinks.add(item.permalink);
+          uniqueData.push(item);
+        }
+      }
+      searchIndex = uniqueData;
+      fuse = new Fuse(uniqueData, fuseOptions);
+      searchStats.innerText = `Index loaded. Search across ${uniqueData.length} articles and notes.`;
     })
     .catch(err => {
       console.error("Failed to load search index", err);

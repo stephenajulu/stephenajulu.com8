@@ -1,37 +1,37 @@
 ---
-title: Cryptocurrencies You Should Watch 2021
-subtitle: 'Here is a quick list of cryptocurrencies you should watch and invest in.
-  I believe these have the ingredients necessary to 10x or even 100x before the end
-  of the year. '
+categories:
+- cryptocurrencies
+- cryptowatch
+- crypto
+date: 2021-11-18 16:41:00+03:00
 excerpt: 'Here is a quick list of cryptocurrencies you should watch and invest in.
   I believe these have the ingredients necessary to 10x or even 100x before the end
   of the year. '
-date: 2021-11-18 16:41:00+03:00
 image: images/executium-7gz3fj0h51e-unsplash.jpg
 image_alt: 'Here is a quick list of cryptocurrencies you should watch and invest in.
   I believe these have the ingredients necessary to 10x or even 100x before the end
   of the year. '
+layout: post
 seo:
-  title: Cryptocurrencies You Should Watch 2021
   description: 'Here is a quick list of cryptocurrencies you should watch and invest
     in. I believe these have the ingredients necessary to 10x or even 100x before
     the end of the year. '
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Cryptocurrencies You Should Watch 2021
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: 'Here is a quick list of cryptocurrencies you should watch and invest in.
       I believe these have the ingredients necessary to 10x or even 100x before the
       end of the year. '
-    keyName: property
-  - name: og:image
-    value: images/executium-7gz3fj0h51e-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/executium-7gz3fj0h51e-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -41,11 +41,22 @@ seo:
       I believe these have the ingredients necessary to 10x or even 100x before the
       end of the year. '
   - name: twitter:image
-    value: images/executium-7gz3fj0h51e-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/executium-7gz3fj0h51e-unsplash.jpg
+  title: Cryptocurrencies You Should Watch 2021
+subtitle: 'Here is a quick list of cryptocurrencies you should watch and invest in.
+  I believe these have the ingredients necessary to 10x or even 100x before the end
+  of the year. '
+tags:
+- cryptocurrencies
+- cryptowatch
+- crypto
+- gains
+- watchlist
+- cryptowatchlist
+- cryptocurrencywatchlist
+title: Cryptocurrencies You Should Watch 2021
 ---
-
 Here is a quick list of cryptocurrencies you should watch and invest in. 
 
 I believe these have the ingredients necessary to 10x or even 100x before the end of the year.

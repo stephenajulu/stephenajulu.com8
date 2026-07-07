@@ -1,27 +1,28 @@
 ---
-title: Decentralized(DeFi) vs Traditional Finance
-subtitle: Here i cover the differences between DeFi and traditional finance
-excerpt: Here i cover the differences between DeFi and traditional finance
+categories:
+- Finance
+- Technology
 date: 2021-12-03 11:17:00+03:00
+excerpt: Here i cover the differences between DeFi and traditional finance
 image: images/defi.png
 image_alt: Here i cover the differences between DeFi and traditional finance
+layout: post
 seo:
-  title: Decentralized(DeFi) vs Traditional Finance
   description: Here i cover the differences between DeFi and traditional finance
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Decentralized(DeFi) vs Traditional Finance
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here i cover the differences between DeFi and traditional finance
-    keyName: property
-  - name: og:image
-    value: images/defi.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/defi.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +30,18 @@ seo:
   - name: twitter:description
     value: Here i cover the differences between DeFi and traditional finance
   - name: twitter:image
-    value: images/defi.png
     relativeUrl: true
-layout: post
+    value: images/defi.png
+  title: Decentralized(DeFi) vs Traditional Finance
+subtitle: Here i cover the differences between DeFi and traditional finance
+tags:
+- finance
+- technology
+- decentralized
+- decentralized finance
+- defi
+title: Decentralized(DeFi) vs Traditional Finance
 ---
-
 One of the best ways to see the potential of DeFi is to understand the problems that exist today.
 
 * Some people aren't granted access to set up a bank account or use financial services.

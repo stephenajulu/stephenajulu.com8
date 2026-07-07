@@ -1,32 +1,31 @@
 ---
-title: 'How To Buy Your First NFT Web 3.0 Domain: Ethereum Naming Service'
-subtitle: Learn more about NFT domain. What they are? Where to get them and How to
-  buy/use them.
+categories:
+- Technology
+date: 2021-12-27 14:11:00+03:00
 excerpt: Learn more about NFT domain. What they are? Where to get them and How to
   buy/use them.
-date: 2021-12-27 14:11:00+03:00
 image: images/0_r24ox8zwoe0gfp1g.png
 image_alt: Learn more about NFT domain. What they are? Where to get them and How to
   buy/use them.
+layout: post
 seo:
-  title: 'How To Buy Your First NFT Web 3.0 Domain: Ethereum Naming Service'
   description: Learn more about NFT domain. What they are? Where to get them and How
     to buy/use them.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'How To Buy Your First NFT Web 3.0 Domain: Ethereum Naming Service'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Learn more about NFT domain. What they are? Where to get them and How to
       buy/use them.
-    keyName: property
-  - name: og:image
-    value: images/0_r24ox8zwoe0gfp1g.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/0_r24ox8zwoe0gfp1g.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +34,33 @@ seo:
     value: Learn more about NFT domain. What they are? Where to get them and How to
       buy/use them.
   - name: twitter:image
-    value: images/0_r24ox8zwoe0gfp1g.png
     relativeUrl: true
-layout: post
+    value: images/0_r24ox8zwoe0gfp1g.png
+  title: 'How To Buy Your First NFT Web 3.0 Domain: Ethereum Naming Service'
+subtitle: Learn more about NFT domain. What they are? Where to get them and How to
+  buy/use them.
+tags:
+- web3
+- technology
+- nft
+- blockchain
+- ethereum
+- cryptocurrencies
+- cryptocurrency
+- domain
+- domains
+- domain-names
+- domain name system
+- nft
+- ethereum naming service
+- eth
+- ether
+- crypto
+- ens
+- rainbowdotme
+- metamask
+title: 'How To Buy Your First NFT Web 3.0 Domain: Ethereum Naming Service'
 ---
-
 ### Refresher
 
 NFT domains are domains that live on a public blockchain and give users complete ownership of their stored data. The main benefits to owning one are simplifying crypto transactions by replacing long complicated wallet addresses with the domain name and easily creating and hosting websites on web3.

@@ -1,27 +1,29 @@
 ---
-title: Who Moved My Cheese Summary
-subtitle: ''
-excerpt: ''
+categories:
+- self improvement
+- books
+- who moved my cheese
 date: 2021-08-09 16:27:00+03:00
+excerpt: ''
 image: images/whomovedmycheese.jpg
 image_alt: ''
+layout: post
 seo:
-  title: Who Moved My Cheese Summary
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Who Moved My Cheese Summary
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/whomovedmycheese.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/whomovedmycheese.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/whomovedmycheese.jpg
     relativeUrl: true
-layout: post
+    value: images/whomovedmycheese.jpg
+  title: Who Moved My Cheese Summary
+subtitle: ''
+tags:
+- self improvement
+- books
+- who moved my cheese
+title: Who Moved My Cheese Summary
 ---
-
 **A group of old school friends is gathered for dinner and the topic of conversation gets on to change** – in career, relationships, and family life. One of those present contends that change no longer bothers him after having heard ‘a funny little story’ called _Who Moved My Cheese?_ In this artful way, Spencer Johnson introduces the reader to his fable on how to cope positively with change.
 
 The story involves four characters who live in a maze: the mice Scurry and Sniff, and two ‘littlepeople’, Hem and Haw. All is going well because they have found a huge source of their favorite food, cheese. Hem and Haw have even moved their houses to be near it and it has become the center of their lives. But they do not notice that it is getting smaller, and are devastated when they arrive at the site one morning and find the cheese is gone.

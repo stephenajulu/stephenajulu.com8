@@ -1,37 +1,36 @@
 ---
-title: 'The Future of Daily Tech: Cloud Gaming'
-subtitle: 'Get ready to take your gaming experience to the next level with the future
-  of daily tech: cloud gaming. Discover the benefits of this innovative technology
-  and how it''s changing the way we play games.'
+categories:
+- Tech
+- Lifestyle
+date: 2023-02-09 13:20:00+03:00
 excerpt: 'Get ready to take your gaming experience to the next level with the future
   of daily tech: cloud gaming. Discover the benefits of this innovative technology
   and how it''s changing the way we play games.'
-date: 2023-02-09 13:20:00+03:00
 image: images/230644aluffke7hkj26hbt-1.png
 image_alt: 'Get ready to take your gaming experience to the next level with the future
   of daily tech: cloud gaming. Discover the benefits of this innovative technology
   and how it''s changing the way we play games.'
+layout: post
 seo:
-  title: 'The Future of Daily Tech: Cloud Gaming'
   description: 'Get ready to take your gaming experience to the next level with the
     future of daily tech: cloud gaming. Discover the benefits of this innovative technology
     and how it''s changing the way we play games.'
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'The Future of Daily Tech: Cloud Gaming'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: 'Get ready to take your gaming experience to the next level with the future
       of daily tech: cloud gaming. Discover the benefits of this innovative technology
       and how it''s changing the way we play games.'
-    keyName: property
-  - name: og:image
-    value: images/230644aluffke7hkj26hbt-1.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/230644aluffke7hkj26hbt-1.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -41,11 +40,26 @@ seo:
       of daily tech: cloud gaming. Discover the benefits of this innovative technology
       and how it''s changing the way we play games.'
   - name: twitter:image
-    value: images/230644aluffke7hkj26hbt-1.png
     relativeUrl: true
-layout: post
+    value: images/230644aluffke7hkj26hbt-1.png
+  title: 'The Future of Daily Tech: Cloud Gaming'
+subtitle: 'Get ready to take your gaming experience to the next level with the future
+  of daily tech: cloud gaming. Discover the benefits of this innovative technology
+  and how it''s changing the way we play games.'
+tags:
+- tech
+- lifestyle
+- technology
+- cloud gaming
+- gaming
+- future of gaming
+- gaming revolution
+- 5g
+- virtual reality
+- cross-platform play
+- cloud gaming as a service
+title: 'The Future of Daily Tech: Cloud Gaming'
 ---
-
 As technology continues to advance and shape the way we live our lives, the world of gaming has undergone some major changes as well. One of the biggest trends in the gaming industry right now is cloud gaming, which has the potential to completely revolutionize the way we play games.
 
 ## What is Cloud Gaming?

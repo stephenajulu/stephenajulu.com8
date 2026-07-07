@@ -1,27 +1,29 @@
 ---
-title: Best Cryptocurrencies to Invest in 2021
-subtitle: ''
-excerpt: ''
+categories:
+- finance
+- cryptocurrency
+- cryptocurrencies
 date: 2021-04-20 06:45:00+00:00
+excerpt: ''
 image: images/cryptocurrencies.jpg
 image_alt: ''
+layout: post
 seo:
-  title: Best Cryptocurrencies to Invest in 2021
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Best Cryptocurrencies to Invest in 2021
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/cryptocurrencies.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/cryptocurrencies.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,33 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/cryptocurrencies.jpg
     relativeUrl: true
-layout: post
+    value: images/cryptocurrencies.jpg
+  title: Best Cryptocurrencies to Invest in 2021
+subtitle: ''
+tags:
+- investment
+- investing
+- finance
+- investing kenya
+- getting stated
+- cryptocurrencies
+- crypto
+- cryptocurrency
+- dogecoin
+- dogecoin to the moon
+- dogecoin
+- bitcoin
+- ethereum
+- tetherus
+- dogecoin 420
+- doge
+- btc
+- xrp
+- ripple
+- eth
+title: Best Cryptocurrencies to Invest in 2021
 ---
-
 Hi everyone, so today, I'd like to talk about Crypto. In this post, I'll cover 5 cryptocurrencies that I think you should invest in if you are starting out.
 
 ## 1. Bitcoin(BTC)

@@ -1,27 +1,27 @@
 ---
-title: 10 Cybersecurity Tips That Might Save Your Life and Your Data
-subtitle: ''
-excerpt: ''
+categories:
+- cybersecurity
 date: 2021-06-20 13:20:00+03:00
+excerpt: ''
 image: images/cyber-featured.png
 image_alt: ''
+layout: post
 seo:
-  title: 10 Cybersecurity Tips That Might Save Your Life and Your Data
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 10 Cybersecurity Tips That Might Save Your Life and Your Data
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/cyber-featured.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/cyber-featured.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,19 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/cyber-featured.png
     relativeUrl: true
-layout: post
+    value: images/cyber-featured.png
+  title: 10 Cybersecurity Tips That Might Save Your Life and Your Data
+subtitle: ''
+tags:
+- cybersecurity
+- personal security
+- security
+- information security
+- data
+- personal data
+title: 10 Cybersecurity Tips That Might Save Your Life and Your Data
 ---
-
 Hi there! Welcome back to Ajulu's Thoughts. Today I'd like to teach you 10 tips that could save your life.
 
 ## Tip 1: Never share your location

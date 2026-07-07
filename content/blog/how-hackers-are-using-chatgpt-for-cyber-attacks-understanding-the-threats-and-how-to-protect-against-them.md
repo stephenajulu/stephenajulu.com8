@@ -1,40 +1,36 @@
 ---
-title: 'How Hackers are Using ChatGPT for Cyber Attacks: Understanding the Threats
-  and How to Protect Against Them'
-subtitle: Learn about the ways in which hackers are using ChatGPT for phishing scams,
-  social engineering attacks, and credential stuffing. Understand the potential threats
-  and how to protect yourself and your organization from these attacks.
+categories:
+- Technology
+date: 2023-01-19 17:25:00+03:00
 excerpt: Learn about the ways in which hackers are using ChatGPT for phishing scams,
   social engineering attacks, and credential stuffing. Understand the potential threats
   and how to protect yourself and your organization from these attacks.
-date: 2023-01-19 17:25:00+03:00
 image: images/chatgpt.png
 image_alt: Learn about the ways in which hackers are using ChatGPT for phishing scams,
   social engineering attacks, and credential stuffing. Understand the potential threats
   and how to protect yourself and your organization from these attacks.
+layout: post
 seo:
-  title: 'How Hackers are Using ChatGPT for Cyber Attacks: Understanding the Threats
-    and How to Protect Against Them'
   description: Learn about the ways in which hackers are using ChatGPT for phishing
     scams, social engineering attacks, and credential stuffing. Understand the potential
     threats and how to protect yourself and your organization from these attacks.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'How Hackers are Using ChatGPT for Cyber Attacks: Understanding the Threats
       and How to Protect Against Them'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Learn about the ways in which hackers are using ChatGPT for phishing scams,
       social engineering attacks, and credential stuffing. Understand the potential
       threats and how to protect yourself and your organization from these attacks.
-    keyName: property
-  - name: og:image
-    value: images/chatgpt.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/chatgpt.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -45,11 +41,40 @@ seo:
       social engineering attacks, and credential stuffing. Understand the potential
       threats and how to protect yourself and your organization from these attacks.
   - name: twitter:image
-    value: images/chatgpt.png
     relativeUrl: true
-layout: post
+    value: images/chatgpt.png
+  title: 'How Hackers are Using ChatGPT for Cyber Attacks: Understanding the Threats
+    and How to Protect Against Them'
+subtitle: Learn about the ways in which hackers are using ChatGPT for phishing scams,
+  social engineering attacks, and credential stuffing. Understand the potential threats
+  and how to protect yourself and your organization from these attacks.
+tags:
+- chatgpt
+- hackers
+- cyber attacks
+- phishing
+- social engineering
+- credential stuffing
+- protection
+- phishing scams
+- social engineering attacks
+- AI model
+- language model
+- cyber security
+- openai
+- ai
+- cybercrime
+- cyber threat
+- online security
+- data protection
+- machine learning
+- natural language processing
+- gpt
+- cyber safety
+- neural networks
+title: 'How Hackers are Using ChatGPT for Cyber Attacks: Understanding the Threats
+  and How to Protect Against Them'
 ---
-
 As the capabilities of large language models like ChatGPT continue to advance, they are also becoming a tool for hackers to use in their attacks.
 
 For those who don't know what ChatGPT is, here's the definition: ChatGPT (short for "Conversational Generative Pre-training Transformer") is a large language model developed by OpenAI. It is based on the GPT (Generative Pre-trained Transformer) architecture and is trained on a dataset of over 570GB of text data. The model is able to generate text that is similar to human writing and can be fine-tuned for a variety of natural language processing tasks such as language translation, question answering, and text summarization. ChatGPT is also known to be used in multiple domains such as chatbots, language model fine-tuning, and even in the cybersecurity field.

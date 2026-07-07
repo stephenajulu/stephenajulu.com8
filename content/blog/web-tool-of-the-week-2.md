@@ -1,27 +1,27 @@
 ---
-title: 'Web Tool of The Week #2'
-subtitle: ''
-excerpt: ''
+categories:
+- Web tool
 date: 2021-06-27 10:35:00+03:00
+excerpt: ''
 image: images/webtool2.png
 image_alt: ''
+layout: post
 seo:
-  title: 'Web Tool of The Week #2'
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'Web Tool of The Week #2'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/webtool2.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/webtool2.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/webtool2.png
     relativeUrl: true
-layout: post
+    value: images/webtool2.png
+  title: 'Web Tool of The Week #2'
+subtitle: ''
+tags:
+- Spark post
+- Graphic design
+- Adobe
+title: 'Web Tool of The Week #2'
 ---
-
 Here's the web tool of the week #2:
 
 ## Adobe Spark Post

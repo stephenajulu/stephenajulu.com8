@@ -1,27 +1,27 @@
 ---
-title: What is Blockchain? How Does It Work? Blockchain Explained
-subtitle: What is Blockchain? How Does It Work? Blockchain Explained
-excerpt: What is Blockchain? How Does It Work? Blockchain Explained
+categories:
+- Technology
 date: 2021-12-08 16:59:00+03:00
+excerpt: What is Blockchain? How Does It Work? Blockchain Explained
 image: images/blockchain-technology-trends.jpg
 image_alt: What is Blockchain? How Does It Work? Blockchain Explained
+layout: post
 seo:
-  title: What is Blockchain? How Does It Work? Blockchain Explained
   description: What is Blockchain? How Does It Work? Blockchain Explained
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: What is Blockchain? How Does It Work? Blockchain Explained
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: What is Blockchain? How Does It Work? Blockchain Explained
-    keyName: property
-  - name: og:image
-    value: images/blockchain-technology-trends.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/blockchain-technology-trends.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,15 @@ seo:
   - name: twitter:description
     value: What is Blockchain? How Does It Work? Blockchain Explained
   - name: twitter:image
-    value: images/blockchain-technology-trends.jpg
     relativeUrl: true
-layout: post
+    value: images/blockchain-technology-trends.jpg
+  title: What is Blockchain? How Does It Work? Blockchain Explained
+subtitle: What is Blockchain? How Does It Work? Blockchain Explained
+tags:
+- blockchain
+- technology
+title: What is Blockchain? How Does It Work? Blockchain Explained
 ---
-
 A blockchain is a distributed database that is shared among the nodes of a computer network. As a database, a blockchain stores information electronically in digital format. Blockchains are best known for their crucial role in cryptocurrency systems, such as Bitcoin, for maintaining a secure and decentralized record of transactions. The innovation with a blockchain is that it guarantees the fidelity and security of a record of data and generates trust without the need for a trusted third party.
 
 One key difference between a typical database and a blockchain is how the data is structured. A blockchain collects information together in groups, known as [blocks](https://www.investopedia.com/terms/b/block-bitcoin-block.asp), that hold sets of information. Blocks have certain storage capacities and, when filled, are closed and linked to the previously filled block, forming a chain of data known as the blockchain. All new information that follows that freshly added block is compiled into a newly formed block that will then also be added to the chain once filled.

@@ -1,45 +1,40 @@
 ---
-title: 'Supercharge Your Business: Unlock the Power of AI to Take Your Business to
-  the Next Level'
-subtitle: Welcome to the future of business, where AI is the new superpower - and
-  it's time to put it to work for you! Whether you're looking to boost your marketing
-  game or streamline your operations, we've got the inside scoop on all the latest
-  AI tools that will make your competition green with envy.
+categories:
+- Technology
+date: 2023-01-21 11:20:00+03:00
 excerpt: Welcome to the future of business, where AI is the new superpower - and it's
   time to put it to work for you! Whether you're looking to boost your marketing game
   or streamline your operations, we've got the inside scoop on all the latest AI tools
   that will make your competition green with envy.
-date: 2023-01-21 11:20:00+03:00
 image: images/pexels-kindel-media-8566472.jpg
 image_alt: Welcome to the future of business, where AI is the new superpower - and
   it's time to put it to work for you! Whether you're looking to boost your marketing
   game or streamline your operations, we've got the inside scoop on all the latest
   AI tools that will make your competition green with envy.
+layout: post
 seo:
-  title: 'Supercharge Your Business: Unlock the Power of AI to Take Your Business
-    to the Next Level'
   description: Welcome to the future of business, where AI is the new superpower -
     and it's time to put it to work for you! Whether you're looking to boost your
     marketing game or streamline your operations, we've got the inside scoop on all
     the latest AI tools that will make your competition green with envy.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'Supercharge Your Business: Unlock the Power of AI to Take Your Business
       to the Next Level'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Welcome to the future of business, where AI is the new superpower - and
       it's time to put it to work for you! Whether you're looking to boost your marketing
       game or streamline your operations, we've got the inside scoop on all the latest
       AI tools that will make your competition green with envy.
-    keyName: property
-  - name: og:image
-    value: images/pexels-kindel-media-8566472.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/pexels-kindel-media-8566472.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -51,11 +46,59 @@ seo:
       game or streamline your operations, we've got the inside scoop on all the latest
       AI tools that will make your competition green with envy.
   - name: twitter:image
-    value: images/pexels-kindel-media-8566472.jpg
     relativeUrl: true
-layout: post
+    value: images/pexels-kindel-media-8566472.jpg
+  title: 'Supercharge Your Business: Unlock the Power of AI to Take Your Business
+    to the Next Level'
+subtitle: Welcome to the future of business, where AI is the new superpower - and
+  it's time to put it to work for you! Whether you're looking to boost your marketing
+  game or streamline your operations, we've got the inside scoop on all the latest
+  AI tools that will make your competition green with envy.
+tags:
+- AI
+- Artificial Intelligence
+- ChatGPT
+- CopyAI
+- DeepAI
+- AI Writer
+- GPT3
+- GPT-3
+- Codenets
+- OpenAI
+- Codegen
+- DataRobot
+- Grammarly
+- Jarvis
+- Persado
+- DALL-E
+- Textio
+- MindMeld
+- Midjourney
+- Business
+- Automation
+- Business Automation
+- Github CoPilot
+- CoPilot
+- natural language processing
+- computer vision
+- predictive analytics
+- marketing
+- content creation
+- AIinBusiness
+- NLP
+- Copywriting
+- Email
+- Blog Posts
+- Essays
+- Blog Post
+- Article
+- Blog Post
+- Social Media Content
+- Coding
+- AI tools
+title: 'Supercharge Your Business: Unlock the Power of AI to Take Your Business to
+  the Next Level'
 ---
-
 > "Looks like soon, the only input humans will have to give in their businesses is the power button - and that's only if the AI running the show is feeling generous."
 >
 > Stephen Ajulu

@@ -1,27 +1,29 @@
 ---
-title: 5 Simple Steps To Achieve Flow State and achieve Deep Work
-subtitle: ''
-excerpt: ''
+categories:
+- flow state
+- deep work
+- life
 date: 2021-08-02 12:51:00+03:00
+excerpt: ''
 image: images/flow-state-diagram.jpg
 image_alt: ''
+layout: post
 seo:
-  title: 5 Simple Steps To Achieve Flow State and achieve Deep Work
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 5 Simple Steps To Achieve Flow State and achieve Deep Work
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/flow-state-diagram.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/flow-state-diagram.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/flow-state-diagram.jpg
     relativeUrl: true
-layout: post
+    value: images/flow-state-diagram.jpg
+  title: 5 Simple Steps To Achieve Flow State and achieve Deep Work
+subtitle: ''
+tags:
+- flow state
+- deep work
+- life
+title: 5 Simple Steps To Achieve Flow State and achieve Deep Work
 ---
-
 Here's how I achieve flow state and do deep work/study and how you can too.
 
 First of all

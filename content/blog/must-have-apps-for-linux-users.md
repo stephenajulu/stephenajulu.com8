@@ -1,27 +1,27 @@
 ---
-title: Must Have Apps For Linux Users
-subtitle: Here are some must have apps for Linux users to ensure
-excerpt: Here are some must have apps for Linux users to ensure
+categories:
+- Technology
 date: 2021-12-18 13:57:00+03:00
+excerpt: Here are some must have apps for Linux users to ensure
 image: images/musthavelinuxapps.png
 image_alt: Here are some must have apps for Linux users to ensure
+layout: post
 seo:
-  title: Must Have Apps For Linux Users
   description: Here are some must have apps for Linux users to ensure
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Must Have Apps For Linux Users
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here are some must have apps for Linux users to ensure
-    keyName: property
-  - name: og:image
-    value: images/musthavelinuxapps.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/musthavelinuxapps.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,17 @@ seo:
   - name: twitter:description
     value: Here are some must have apps for Linux users to ensure
   - name: twitter:image
-    value: images/musthavelinuxapps.png
     relativeUrl: true
-layout: post
+    value: images/musthavelinuxapps.png
+  title: Must Have Apps For Linux Users
+subtitle: Here are some must have apps for Linux users to ensure
+tags:
+- Linux
+- Apps
+- Zorin
+- Must Have
+title: Must Have Apps For Linux Users
 ---
-
 Hi, as you know, early this year I made a shift to Linux(Zorin OS 16) and have been using it ever since. Today I'd like to suggest a few apps that I have been using.
 
 ### 1. Microsoft Edge

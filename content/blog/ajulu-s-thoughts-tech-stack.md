@@ -1,27 +1,28 @@
 ---
-title: Ajulu's Thoughts Tech Stack
-subtitle: ''
-excerpt: ''
+categories:
+- blog
+- ajulusthoughts
 date: 2021-06-27 16:00:00+03:00
+excerpt: ''
 image: images/ajulusthoughtswebcapture.jpeg
 image_alt: ''
+layout: post
 seo:
-  title: Ajulu's Thoughts Tech Stack
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Ajulu's Thoughts Tech Stack
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/ajulusthoughtswebcapture.jpeg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/ajulusthoughtswebcapture.jpeg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +30,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/ajulusthoughtswebcapture.jpeg
     relativeUrl: true
-layout: post
+    value: images/ajulusthoughtswebcapture.jpeg
+  title: Ajulu's Thoughts Tech Stack
+subtitle: ''
+tags:
+- blog
+- ajulusthoughts
+- tech stack
+title: Ajulu's Thoughts Tech Stack
 ---
-
 Hi, there!
 
 I'd like to share a list of resources that helped me build/run this blog.

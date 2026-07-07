@@ -1,32 +1,31 @@
 ---
-title: A little heart to heart
-subtitle: 'Here''s a little heart to heart going out to my readers on success and
-  self improvement '
+categories:
+- Self improvement
+date: 2021-11-23 03:02:00+03:00
 excerpt: 'Here''s a little heart to heart going out to my readers on success and self
   improvement '
-date: 2021-11-23 03:02:00+03:00
 image: images/kelly-sikkema-4le7k9xvyje.jpg
 image_alt: 'Here''s a little heart to heart going out to my readers on success and
   self improvement '
+layout: post
 seo:
-  title: A little heart to heart
   description: 'Here''s a little heart to heart going out to my readers on success
     and self improvement '
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: A little heart to heart
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: 'Here''s a little heart to heart going out to my readers on success and
       self improvement '
-    keyName: property
-  - name: og:image
-    value: images/kelly-sikkema-4le7k9xvyje.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/kelly-sikkema-4le7k9xvyje.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +34,15 @@ seo:
     value: 'Here''s a little heart to heart going out to my readers on success and
       self improvement '
   - name: twitter:image
-    value: images/kelly-sikkema-4le7k9xvyje.jpg
     relativeUrl: true
-layout: post
+    value: images/kelly-sikkema-4le7k9xvyje.jpg
+  title: A little heart to heart
+subtitle: 'Here''s a little heart to heart going out to my readers on success and
+  self improvement '
+tags:
+- self improvement
+title: A little heart to heart
 ---
-
 Hi there, how are you doing? Hope you are well.
 
 So today i read a quote and this is what it reads,

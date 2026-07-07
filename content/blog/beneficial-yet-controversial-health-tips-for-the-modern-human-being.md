@@ -1,32 +1,33 @@
 ---
-title: Beneficial Yet Controversial Health Tips for The Modern Human Being
-subtitle: Here are some beneficial yet controversial health tips for the modern human
-  being
+categories:
+- health
+- self improvement
+- lifestyle
+date: 2022-04-16 12:00:00+03:00
 excerpt: Here are some beneficial yet controversial health tips for the modern human
   being
-date: 2022-04-16 12:00:00+03:00
 image: images/emma-simpson-mngaalewep0-unsplash.jpg
 image_alt: Here are some beneficial yet controversial health tips for the modern human
   being
+layout: post
 seo:
-  title: Beneficial Yet Controversial Health Tips for The Modern Human Being
   description: Here are some beneficial yet controversial health tips for the modern
     human being
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Beneficial Yet Controversial Health Tips for The Modern Human Being
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here are some beneficial yet controversial health tips for the modern human
       being
-    keyName: property
-  - name: og:image
-    value: images/emma-simpson-mngaalewep0-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/emma-simpson-mngaalewep0-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +36,19 @@ seo:
     value: Here are some beneficial yet controversial health tips for the modern human
       being
   - name: twitter:image
-    value: images/emma-simpson-mngaalewep0-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/emma-simpson-mngaalewep0-unsplash.jpg
+  title: Beneficial Yet Controversial Health Tips for The Modern Human Being
+subtitle: Here are some beneficial yet controversial health tips for the modern human
+  being
+tags:
+- health
+- self improvement
+- lifestyle
+- diet
+- food
+title: Beneficial Yet Controversial Health Tips for The Modern Human Being
 ---
-
 Hello Everyone! How are you doing?
 
 Here are some of the most beneficial yet controversial health tips.

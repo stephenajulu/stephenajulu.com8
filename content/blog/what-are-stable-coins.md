@@ -1,27 +1,28 @@
 ---
-title: What is a Stable Coin?
-subtitle: Here i explain what stablecoins are and how they work.
-excerpt: Here i explain what stablecoins are and how they work.
+categories:
+- Technology
+- Finance
 date: 2021-12-10 14:20:00+03:00
+excerpt: Here i explain what stablecoins are and how they work.
 image: images/597b2c80-707d-439c-a801-374b634c033e_what-is-a-stablecoin-article-main.jpg
 image_alt: Here i explain what stablecoins are and how they work.
+layout: post
 seo:
-  title: What is a Stable Coin?
   description: Here i explain what stablecoins are and how they work.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: What is a Stable Coin?
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here i explain what stablecoins are and how they work.
-    keyName: property
-  - name: og:image
-    value: images/597b2c80-707d-439c-a801-374b634c033e_what-is-a-stablecoin-article-main.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/597b2c80-707d-439c-a801-374b634c033e_what-is-a-stablecoin-article-main.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +30,19 @@ seo:
   - name: twitter:description
     value: Here i explain what stablecoins are and how they work.
   - name: twitter:image
-    value: images/597b2c80-707d-439c-a801-374b634c033e_what-is-a-stablecoin-article-main.jpg
     relativeUrl: true
-layout: post
+    value: images/597b2c80-707d-439c-a801-374b634c033e_what-is-a-stablecoin-article-main.jpg
+  title: What is a Stable Coin?
+subtitle: Here i explain what stablecoins are and how they work.
+tags:
+- technology
+- finance
+- cryptocurrency
+- cryptocurrencies
+- stablecoin
+- stablecoins
+title: What is a Stable Coin?
 ---
-
 A “stablecoin” is a type of cryptocurrency whose value is pegged to another asset class, such as a fiat currency or gold, to stabilize its price.
 
 Cryptocurrencies such as bitcoin and ether offer a number of benefits, and one of the most fundamental is not requiring trust in an intermediary institution to send payments, which opens up their use to anyone around the globe. But one key drawback is that cryptocurrencies' prices are unpredictable and have a tendency to fluctuate, often wildly.

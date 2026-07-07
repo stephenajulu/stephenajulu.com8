@@ -1,27 +1,27 @@
 ---
-title: 'The Outlier Male: Straight Seven System'
-subtitle: ''
-excerpt: ''
+categories:
+- Lifestyle
 date: 2023-02-26 14:25:00+03:00
+excerpt: ''
 image: ''
 image_alt: ''
+layout: post
 seo:
-  title: 'The Outlier Male: Straight Seven System'
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'The Outlier Male: Straight Seven System'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: ''
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: ''
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,27 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: ''
     relativeUrl: true
-layout: post
+    value: ''
+  title: 'The Outlier Male: Straight Seven System'
+subtitle: ''
+tags:
+- wealth
+- fitness
+- intelligence
+- fashion
+- assets
+- outlier
+- outlier male
+- man
+- masculine
+- personality
+- confidence
+- power
+- status
+- 1stman
+title: 'The Outlier Male: Straight Seven System'
 ---
-
 Hello guys! Today we'll be talking about the straight 7 system. 
 
 ### What is the straight 7 system?

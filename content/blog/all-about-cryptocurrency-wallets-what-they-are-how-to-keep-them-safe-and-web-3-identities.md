@@ -1,35 +1,32 @@
 ---
-title: 'All About Cryptocurrency Wallets: What They Are, How To Keep Them Safe and
-  Web 3 Identities'
-subtitle: 'All About Cryptocurrency Wallets: What They Are, How To Keep Them Safe
-  and Web 3 Identities'
+categories:
+- Tech
+date: 2022-07-08 09:10:00+03:00
 excerpt: 'All About Cryptocurrency Wallets: What They Are, How To Keep Them Safe and
   Web 3 Identities'
-date: 2022-07-08 09:10:00+03:00
 image: images/piggybank-3akqgjoowvi-unsplash.jpg
 image_alt: 'All About Cryptocurrency Wallets: What They Are, How To Keep Them Safe
   and Web 3 Identities'
+layout: post
 seo:
-  title: 'All About Cryptocurrency Wallets: What They Are, How To Keep Them Safe and
-    Web 3 Identities'
   description: 'All About Cryptocurrency Wallets: What They Are, How To Keep Them
     Safe and Web 3 Identities'
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'All About Cryptocurrency Wallets: What They Are, How To Keep Them Safe
       and Web 3 Identities'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: 'All About Cryptocurrency Wallets: What They Are, How To Keep Them Safe
       and Web 3 Identities'
-    keyName: property
-  - name: og:image
-    value: images/piggybank-3akqgjoowvi-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/piggybank-3akqgjoowvi-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -39,11 +36,42 @@ seo:
     value: 'All About Cryptocurrency Wallets: What They Are, How To Keep Them Safe
       and Web 3 Identities'
   - name: twitter:image
-    value: images/piggybank-3akqgjoowvi-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/piggybank-3akqgjoowvi-unsplash.jpg
+  title: 'All About Cryptocurrency Wallets: What They Are, How To Keep Them Safe and
+    Web 3 Identities'
+subtitle: 'All About Cryptocurrency Wallets: What They Are, How To Keep Them Safe
+  and Web 3 Identities'
+tags:
+- tech
+- cryptocurrencies
+- cryptocurrency
+- wallets
+- digital wallets
+- crypto wallet
+- hot wallet
+- cold wallet
+- seed phrase
+- metamask
+- coinbase wallet
+- crypto scams
+- wallet scams
+- blockchain
+- web3
+- metaverse
+- rainbow
+- risks
+- ledger
+- hardware wallets
+- airdrops
+- nfts
+- unstoppable domains
+- web3 domains
+- domains
+- nftdomains
+title: 'All About Cryptocurrency Wallets: What They Are, How To Keep Them Safe and
+  Web 3 Identities'
 ---
-
 You may have heard of digital wallets used to interact with blockchain applications; perhaps you have already used them to make transactions, connect with services, marketplaces, etc. **_But do you know how wallets work? What types there are? What are private keys and seed phrases, and why is it critical to keep them secure to protect your assets and your identity on Web3? Are you aware of the most common types of scams that affect wallet users, and do you know how to protect yourself from these scams_**?
 
 This article answers these questions, with the goal of educating users about one of the most important aspects of Web3 access infrastructure.

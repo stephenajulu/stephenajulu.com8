@@ -1,37 +1,36 @@
 ---
-title: Invest in Disruptive Technologies - The Future is Now
-subtitle: Get ahead of the game with the top stocks in the most cutting-edge industries,
-  including Biotech, Blockchain, and AR/VR. Unleash the potential of your investment
-  portfolio.
+categories:
+- Technology
+- Finance
+date: 2023-01-30 00:31:00+03:00
 excerpt: Get ahead of the game with the top stocks in the most cutting-edge industries,
   including Biotech, Blockchain, and AR/VR. Unleash the potential of your investment
   portfolio.
-date: 2023-01-30 00:31:00+03:00
 image: images/eba250-926051128-1200x800-panorama.jpg
 image_alt: Get ahead of the game with the top stocks in the most cutting-edge industries,
   including Biotech, Blockchain, and AR/VR. Unleash the potential of your investment
   portfolio.
+layout: post
 seo:
-  title: Invest in Disruptive Technologies - The Future is Now
   description: Get ahead of the game with the top stocks in the most cutting-edge
     industries, including Biotech, Blockchain, and AR/VR. Unleash the potential of
     your investment portfolio.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Invest in Disruptive Technologies - The Future is Now
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Get ahead of the game with the top stocks in the most cutting-edge industries,
       including Biotech, Blockchain, and AR/VR. Unleash the potential of your investment
       portfolio.
-    keyName: property
-  - name: og:image
-    value: images/eba250-926051128-1200x800-panorama.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/eba250-926051128-1200x800-panorama.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -41,11 +40,35 @@ seo:
       including Biotech, Blockchain, and AR/VR. Unleash the potential of your investment
       portfolio.
   - name: twitter:image
-    value: images/eba250-926051128-1200x800-panorama.jpg
     relativeUrl: true
-layout: post
+    value: images/eba250-926051128-1200x800-panorama.jpg
+  title: Invest in Disruptive Technologies - The Future is Now
+subtitle: Get ahead of the game with the top stocks in the most cutting-edge industries,
+  including Biotech, Blockchain, and AR/VR. Unleash the potential of your investment
+  portfolio.
+tags:
+- investing
+- disruptive tech
+- disruptive technologies
+- biotech
+- biotechnology
+- blockchain
+- augmented reality
+- virtual reality
+- smart home
+- advanced manufacturing
+- quantum computing
+- electric vehicles
+- space technology
+- future investments
+- stocks
+- cryptocurrencies
+- blockchain technology
+- space technology
+- investments
+- invest
+title: Invest in Disruptive Technologies - The Future is Now
 ---
-
 Here are 4 investments you can make in different disruptive industries, along with a brief description of each industry:
 
 ### Artificial Intelligence:

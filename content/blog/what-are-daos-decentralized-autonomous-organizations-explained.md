@@ -1,32 +1,31 @@
 ---
-title: What are DAOs? Decentralized Autonomous Organizations Explained
-subtitle: What are Decentralized Autonomous Organizations? Here i explain what they
-  are.
+categories:
+- Technology
+date: 2021-12-03 16:15:00+03:00
 excerpt: What are Decentralized Autonomous Organizations? Here i explain what they
   are.
-date: 2021-12-03 16:15:00+03:00
 image: images/de340f456ab84bf89b3f2f12cb423eeb.png
 image_alt: What are Decentralized Autonomous Organizations? Here i explain what they
   are.
+layout: post
 seo:
-  title: What are DAOs? Decentralized Autonomous Organizations Explained
   description: What are Decentralized Autonomous Organizations? Here i explain what
     they are.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: What are DAOs? Decentralized Autonomous Organizations Explained
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: What are Decentralized Autonomous Organizations? Here i explain what they
       are.
-    keyName: property
-  - name: og:image
-    value: images/de340f456ab84bf89b3f2f12cb423eeb.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/de340f456ab84bf89b3f2f12cb423eeb.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +34,23 @@ seo:
     value: What are Decentralized Autonomous Organizations? Here i explain what they
       are.
   - name: twitter:image
-    value: images/de340f456ab84bf89b3f2f12cb423eeb.png
     relativeUrl: true
-layout: post
+    value: images/de340f456ab84bf89b3f2f12cb423eeb.png
+  title: What are DAOs? Decentralized Autonomous Organizations Explained
+subtitle: What are Decentralized Autonomous Organizations? Here i explain what they
+  are.
+tags:
+- technology
+- decentralize
+- decentralized
+- decentralized autonomous organizations
+- dao
+- daos
+- decentralized organizations
+- decentralized organization
+- decentralized autonomous organization
+title: What are DAOs? Decentralized Autonomous Organizations Explained
 ---
-
 DAOs are an effective and safe way to work with like-minded folks around the globe.
 
 Think of them like an internet-native business that's collectively owned and managed by its members. They have built-in treasuries that no one has the authority to access without the approval of the group. Decisions are governed by proposals and voting to ensure everyone in the organization has a voice.

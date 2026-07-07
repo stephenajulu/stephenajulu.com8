@@ -1,27 +1,28 @@
 ---
-title: Coins Likely To 100x In The Next 2 Years
-subtitle: Here are coins likely to 100x in just a few years maybe even months
-excerpt: Here are coins likely to 100x in just a few years maybe even months
+categories:
+- Finance
+- Cryptocurrency
 date: 2022-05-25 10:00:00+03:00
+excerpt: Here are coins likely to 100x in just a few years maybe even months
 image: images/ferhat-deniz-fors-yocdd-d4oom-unsplash.jpg
 image_alt: Here are coins likely to 100x in just a few years maybe even months
+layout: post
 seo:
-  title: Coins Likely To 100x In The Next 2 Years
   description: Here are coins likely to 100x in just a few years maybe even months
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Coins Likely To 100x In The Next 2 Years
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here are coins likely to 100x in just a few years maybe even months
-    keyName: property
-  - name: og:image
-    value: images/ferhat-deniz-fors-yocdd-d4oom-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/ferhat-deniz-fors-yocdd-d4oom-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +30,26 @@ seo:
   - name: twitter:description
     value: Here are coins likely to 100x in just a few years maybe even months
   - name: twitter:image
-    value: images/ferhat-deniz-fors-yocdd-d4oom-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/ferhat-deniz-fors-yocdd-d4oom-unsplash.jpg
+  title: Coins Likely To 100x In The Next 2 Years
+subtitle: Here are coins likely to 100x in just a few years maybe even months
+tags:
+- finance
+- cryptocurrency
+- crypto
+- cryptocurrencies
+- 100x
+- potentialtokens
+- tokens
+- coins
+- verasity
+- gmt
+- green metaverse token
+- green life energy
+- pac man frog
+title: Coins Likely To 100x In The Next 2 Years
 ---
-
 Do further research by yourself.
 
 #### 1. Verasity

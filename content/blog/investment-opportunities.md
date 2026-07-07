@@ -1,27 +1,27 @@
 ---
-title: Investment Opportunities
-subtitle: ''
-excerpt: ''
+categories:
+- personal finance
 date: 2021-06-27 14:01:00+03:00
+excerpt: ''
 image: images/investmentopportunites.png
 image_alt: ''
+layout: post
 seo:
-  title: Investment Opportunities
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Investment Opportunities
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/investmentopportunites.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/investmentopportunites.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/investmentopportunites.png
     relativeUrl: true
-layout: post
+    value: images/investmentopportunites.png
+  title: Investment Opportunities
+subtitle: ''
+tags:
+- personal finance
+- investing
+- investments
+title: Investment Opportunities
 ---
-
 Welcome back, everyone.
 
 Here's a list of things/places you can invest in

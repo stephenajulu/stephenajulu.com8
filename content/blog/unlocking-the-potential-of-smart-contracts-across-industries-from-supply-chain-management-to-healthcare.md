@@ -1,45 +1,40 @@
 ---
-title: 'Unlocking the Potential of Smart Contracts Across Industries: From Supply
-  Chain Management to Healthcare'
-subtitle: Learn about the potential of smart contracts and how they're being used
-  in various industries to streamline processes, increase transparency, and reduce
-  costs. Discover real-world examples of smart contract use in supply chain management,
-  real estate and healthcare.
+categories:
+- Technology
+date: 2023-01-19 21:21:00+03:00
 excerpt: Learn about the potential of smart contracts and how they're being used in
   various industries to streamline processes, increase transparency, and reduce costs.
   Discover real-world examples of smart contract use in supply chain management, real
   estate and healthcare.
-date: 2023-01-19 21:21:00+03:00
 image: images/learn_illustration_what_is_a_smart_contract__1_.png
 image_alt: Learn about the potential of smart contracts and how they're being used
   in various industries to streamline processes, increase transparency, and reduce
   costs. Discover real-world examples of smart contract use in supply chain management,
   real estate and healthcare.
+layout: post
 seo:
-  title: 'Unlocking the Potential of Smart Contracts Across Industries: From Supply
-    Chain Management to Healthcare'
   description: Learn about the potential of smart contracts and how they're being
     used in various industries to streamline processes, increase transparency, and
     reduce costs. Discover real-world examples of smart contract use in supply chain
     management, real estate and healthcare.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'Unlocking the Potential of Smart Contracts Across Industries: From Supply
       Chain Management to Healthcare'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Learn about the potential of smart contracts and how they're being used
       in various industries to streamline processes, increase transparency, and reduce
       costs. Discover real-world examples of smart contract use in supply chain management,
       real estate and healthcare.
-    keyName: property
-  - name: og:image
-    value: images/learn_illustration_what_is_a_smart_contract__1_.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/learn_illustration_what_is_a_smart_contract__1_.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -51,11 +46,30 @@ seo:
       costs. Discover real-world examples of smart contract use in supply chain management,
       real estate and healthcare.
   - name: twitter:image
-    value: images/learn_illustration_what_is_a_smart_contract__1_.png
     relativeUrl: true
-layout: post
+    value: images/learn_illustration_what_is_a_smart_contract__1_.png
+  title: 'Unlocking the Potential of Smart Contracts Across Industries: From Supply
+    Chain Management to Healthcare'
+subtitle: Learn about the potential of smart contracts and how they're being used
+  in various industries to streamline processes, increase transparency, and reduce
+  costs. Discover real-world examples of smart contract use in supply chain management,
+  real estate and healthcare.
+tags:
+- smart contracts
+- blockchain
+- supply chain management
+- real estate
+- healthcare
+- transparency
+- immutability
+- effeciency
+- security
+- automation
+- fraud reduction
+- property transfer
+title: 'Unlocking the Potential of Smart Contracts Across Industries: From Supply
+  Chain Management to Healthcare'
 ---
-
 Smart contracts have been hailed as a game-changer in the world of business, enabling efficient and secure transactions across a wide range of industries. From supply chain management to healthcare, the use cases for smart contracts are vast and varied. In this article, we will explore the potential of smart contracts and how they are being used to streamline processes, increase transparency, and reduce costs across a variety of industries.
 
 Now, what are smart contracts? 

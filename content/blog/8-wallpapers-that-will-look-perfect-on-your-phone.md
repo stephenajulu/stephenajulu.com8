@@ -1,37 +1,35 @@
 ---
-title: 8 Wallpapers That Will Look Perfect On Your Phone
-subtitle: A post series in which every week I’ll share 8 new wallpapers that I think
-  would look perfect on your phone. All wallpapers are  2436 x 1125 and above resolution,
-  so they’ll fit your phone perfectly.
+categories:
+- Design
+date: 2022-07-09 11:00:00+03:00
 excerpt: A post series in which every week I’ll share 8 new wallpapers that I think
   would look perfect on your phone. All wallpapers are  2436 x 1125 and above resolution,
   so they’ll fit your phone perfectly.
-date: 2022-07-09 11:00:00+03:00
 image: images/aedrian-5h1zb0nwfqe-unsplash.jpg
 image_alt: A post series in which every week I’ll share 8 new wallpapers that I think
   would look perfect on your phone. All wallpapers are  2436 x 1125 and above resolution,
   so they’ll fit your phone perfectly.
+layout: post
 seo:
-  title: 8 Wallpapers That Will Look Perfect On Your Phone
   description: A post series in which every week I’ll share 8 new wallpapers that
     I think would look perfect on your phone. All wallpapers are  2436 x 1125 and
     above resolution, so they’ll fit your phone perfectly.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 8 Wallpapers That Will Look Perfect On Your Phone
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: A post series in which every week I’ll share 8 new wallpapers that I think
       would look perfect on your phone. All wallpapers are  2436 x 1125 and above
       resolution, so they’ll fit your phone perfectly.
-    keyName: property
-  - name: og:image
-    value: images/aedrian-5h1zb0nwfqe-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/aedrian-5h1zb0nwfqe-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -41,11 +39,22 @@ seo:
       would look perfect on your phone. All wallpapers are  2436 x 1125 and above
       resolution, so they’ll fit your phone perfectly.
   - name: twitter:image
-    value: images/aedrian-5h1zb0nwfqe-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/aedrian-5h1zb0nwfqe-unsplash.jpg
+  title: 8 Wallpapers That Will Look Perfect On Your Phone
+subtitle: A post series in which every week I’ll share 8 new wallpapers that I think
+  would look perfect on your phone. All wallpapers are  2436 x 1125 and above resolution,
+  so they’ll fit your phone perfectly.
+tags:
+- design
+- wallpapers
+- wallpaper
+- phone
+- phones
+- phone wallpapers
+- phone wallpaper
+title: 8 Wallpapers That Will Look Perfect On Your Phone
 ---
-
 A post series in which every week I’ll share 8 new wallpapers that I think would look perfect on your phone.
 
 All wallpapers are  2436 x 1125 and above resolution, so they’ll fit your phone perfectly.

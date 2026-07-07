@@ -1,27 +1,27 @@
 ---
-title: 6 Blockchains With Massive Potential
-subtitle: 6 Blockchains/Cryptocurrencies With Massive Potential
-excerpt: 6 Blockchains/Cryptocurrencies With Massive Potential
+categories:
+- Technology
 date: 2021-12-04 15:01:00+03:00
+excerpt: 6 Blockchains/Cryptocurrencies With Massive Potential
 image: images/b0ac64ca-9452-4ee2-b6fe-6ecbe8eeaddd.png
 image_alt: 6 Blockchains/Cryptocurrencies With Massive Potential
+layout: post
 seo:
-  title: 6 Blockchains With Massive Potential
   description: 6 Blockchains/Cryptocurrencies With Massive Potential
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 6 Blockchains With Massive Potential
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: 6 Blockchains/Cryptocurrencies With Massive Potential
-    keyName: property
-  - name: og:image
-    value: images/b0ac64ca-9452-4ee2-b6fe-6ecbe8eeaddd.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/b0ac64ca-9452-4ee2-b6fe-6ecbe8eeaddd.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,24 @@ seo:
   - name: twitter:description
     value: 6 Blockchains/Cryptocurrencies With Massive Potential
   - name: twitter:image
-    value: images/b0ac64ca-9452-4ee2-b6fe-6ecbe8eeaddd.png
     relativeUrl: true
-layout: post
+    value: images/b0ac64ca-9452-4ee2-b6fe-6ecbe8eeaddd.png
+  title: 6 Blockchains With Massive Potential
+subtitle: 6 Blockchains/Cryptocurrencies With Massive Potential
+tags:
+- technology
+- metaverse
+- web3
+- defi
+- decentralized finance
+- blockchain
+- cryptocurrency
+- blockchains
+- cryptocurrencies
+- future
+- scifi
+title: 6 Blockchains With Massive Potential
 ---
-
 1. Ethereum(ETH) - Specifically Ethereum 2.0
 2. Solana(SOL)
 3. Cardano(ADA)

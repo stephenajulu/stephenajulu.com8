@@ -1,19 +1,13 @@
 ---
-title: 'Personal Branding 101: Creating Your Own Niche: Combining Interests, Experience,
-  Expertise, and Skills to Build a Thriving Online Business'
-subtitle: Learn how to create your own niche by combining your interests, experience,
-  expertise, and skills. In this article, we explore how to scale your niche to popular
-  platforms such as Twitter, Instagram, Podcast, YouTube, Newsletter, and LinkedIn
-  with monetization options such as digital products, cohorts, courses, and community.
-  Get valuable tips on building a thriving online business. Get started on your niche
-  journey today!
+categories:
+- Branding
+date: 2023-02-10 14:50:00+03:00
 excerpt: Learn how to create your own niche by combining your interests, experience,
   expertise, and skills. In this article, we explore how to scale your niche to popular
   platforms such as Twitter, Instagram, Podcast, YouTube, Newsletter, and LinkedIn
   with monetization options such as digital products, cohorts, courses, and community.
   Get valuable tips on building a thriving online business. Get started on your niche
   journey today!
-date: 2023-02-10 14:50:00+03:00
 image: images/photo-1548094990-c16ca90f1f0d.jpeg
 image_alt: Learn how to create your own niche by combining your interests, experience,
   expertise, and skills. In this article, we explore how to scale your niche to popular
@@ -21,9 +15,8 @@ image_alt: Learn how to create your own niche by combining your interests, exper
   with monetization options such as digital products, cohorts, courses, and community.
   Get valuable tips on building a thriving online business. Get started on your niche
   journey today!
+layout: post
 seo:
-  title: 'Personal Branding 101: Creating Your Own Niche: Combining Interests, Experience,
-    Expertise, and Skills to Build a Thriving Online Business'
   description: Learn how to create your own niche by combining your interests, experience,
     expertise, and skills. In this article, we explore how to scale your niche to
     popular platforms such as Twitter, Instagram, Podcast, YouTube, Newsletter, and
@@ -31,25 +24,25 @@ seo:
     and community. Get valuable tips on building a thriving online business. Get started
     on your niche journey today!
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'Personal Branding 101: Creating Your Own Niche: Combining Interests, Experience,
       Expertise, and Skills to Build a Thriving Online Business'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Learn how to create your own niche by combining your interests, experience,
       expertise, and skills. In this article, we explore how to scale your niche to
       popular platforms such as Twitter, Instagram, Podcast, YouTube, Newsletter,
       and LinkedIn with monetization options such as digital products, cohorts, courses,
       and community. Get valuable tips on building a thriving online business. Get
       started on your niche journey today!
-    keyName: property
-  - name: og:image
-    value: images/photo-1548094990-c16ca90f1f0d.jpeg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/photo-1548094990-c16ca90f1f0d.jpeg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -63,11 +56,43 @@ seo:
       and community. Get valuable tips on building a thriving online business. Get
       started on your niche journey today!
   - name: twitter:image
-    value: images/photo-1548094990-c16ca90f1f0d.jpeg
     relativeUrl: true
-layout: post
+    value: images/photo-1548094990-c16ca90f1f0d.jpeg
+  title: 'Personal Branding 101: Creating Your Own Niche: Combining Interests, Experience,
+    Expertise, and Skills to Build a Thriving Online Business'
+subtitle: Learn how to create your own niche by combining your interests, experience,
+  expertise, and skills. In this article, we explore how to scale your niche to popular
+  platforms such as Twitter, Instagram, Podcast, YouTube, Newsletter, and LinkedIn
+  with monetization options such as digital products, cohorts, courses, and community.
+  Get valuable tips on building a thriving online business. Get started on your niche
+  journey today!
+tags:
+- niche
+- online presence
+- dan koe
+- creator economy
+- one person business
+- twitter
+- instagram
+- podcast
+- youtube
+- newsletter
+- linkedin
+- digital products
+- cohorts
+- courses
+- community
+- Dan Koe
+- marketing
+- digital marketing
+- online business
+- passion
+- purpose
+- creation
+- content creator
+title: 'Personal Branding 101: Creating Your Own Niche: Combining Interests, Experience,
+  Expertise, and Skills to Build a Thriving Online Business'
 ---
-
 In the world of online entrepreneurship, one of the most important decisions you will make is to identify your niche. Your niche is essentially the combination of interests, experiences, expertise, and skills that make you unique and sets you apart from others. By identifying and honing in on your niche, you can build a brand that resonates with your target audience and positions you as an authority in your field.
 
 However, creating your own niche can be a daunting task, especially if you have a wide range of interests, experiences, and skills. The key is to identify the overlap between these different aspects of your life and find the common thread that ties them all together. This common thread will become the foundation for your niche and the starting point for building your online business.

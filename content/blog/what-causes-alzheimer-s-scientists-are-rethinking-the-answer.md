@@ -1,47 +1,43 @@
 ---
-title: What Causes Alzheimer’s? Scientists Are Rethinking the Answer.
-subtitle: It’s often subtle at first. A lost phone. A forgotten word. A missed appointment.
-  By the time a person walks into a doctor’s office, worried about signs of forgetfulness
-  or failing cognition, the changes to their brain have been long underway — changes
-  that we don’t yet know how to stop or reverse. Alzheimer’s disease, the most common
-  form of dementia, has no cure.
+categories:
+- Health
+date: 2022-12-24 10:00:00+03:00
 excerpt: It’s often subtle at first. A lost phone. A forgotten word. A missed appointment.
   By the time a person walks into a doctor’s office, worried about signs of forgetfulness
   or failing cognition, the changes to their brain have been long underway — changes
   that we don’t yet know how to stop or reverse. Alzheimer’s disease, the most common
   form of dementia, has no cure.
-date: 2022-12-24 10:00:00+03:00
 image: images/alzheimer-byharolbustos-lede-scaled-1.webp
 image_alt: It’s often subtle at first. A lost phone. A forgotten word. A missed appointment.
   By the time a person walks into a doctor’s office, worried about signs of forgetfulness
   or failing cognition, the changes to their brain have been long underway — changes
   that we don’t yet know how to stop or reverse. Alzheimer’s disease, the most common
   form of dementia, has no cure.
+layout: post
 seo:
-  title: What Causes Alzheimer’s? Scientists Are Rethinking the Answer.
   description: It’s often subtle at first. A lost phone. A forgotten word. A missed
     appointment. By the time a person walks into a doctor’s office, worried about
     signs of forgetfulness or failing cognition, the changes to their brain have been
     long underway — changes that we don’t yet know how to stop or reverse. Alzheimer’s
     disease, the most common form of dementia, has no cure.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: What Causes Alzheimer’s? Scientists Are Rethinking the Answer.
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: It’s often subtle at first. A lost phone. A forgotten word. A missed appointment.
       By the time a person walks into a doctor’s office, worried about signs of forgetfulness
       or failing cognition, the changes to their brain have been long underway — changes
       that we don’t yet know how to stop or reverse. Alzheimer’s disease, the most
       common form of dementia, has no cure.
-    keyName: property
-  - name: og:image
-    value: images/alzheimer-byharolbustos-lede-scaled-1.webp
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/alzheimer-byharolbustos-lede-scaled-1.webp
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -53,11 +49,21 @@ seo:
       that we don’t yet know how to stop or reverse. Alzheimer’s disease, the most
       common form of dementia, has no cure.
   - name: twitter:image
-    value: images/alzheimer-byharolbustos-lede-scaled-1.webp
     relativeUrl: true
-layout: post
+    value: images/alzheimer-byharolbustos-lede-scaled-1.webp
+  title: What Causes Alzheimer’s? Scientists Are Rethinking the Answer.
+subtitle: It’s often subtle at first. A lost phone. A forgotten word. A missed appointment.
+  By the time a person walks into a doctor’s office, worried about signs of forgetfulness
+  or failing cognition, the changes to their brain have been long underway — changes
+  that we don’t yet know how to stop or reverse. Alzheimer’s disease, the most common
+  form of dementia, has no cure.
+tags:
+- alzheimers
+- dementia
+- brain
+- the brain
+title: What Causes Alzheimer’s? Scientists Are Rethinking the Answer.
 ---
-
 It’s often subtle at first. A lost phone. A forgotten word. A missed appointment. By the time a person walks into a doctor’s office, worried about signs of forgetfulness or failing cognition, the changes to their brain have been long underway — changes that we don’t yet know how to stop or reverse. Alzheimer’s disease, the most common form of dementia, has no cure.
 
 “There’s not much you can do. There are no effective treatments. There’s no medicine,” said Riddhi Patira, a behavioral neurologist in Pennsylvania who specializes in neurodegenerative diseases.

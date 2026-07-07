@@ -1,32 +1,31 @@
 ---
-title: How To Improve Your Life
-subtitle: Here are a few things that will improve your life and get you out of depression
-  or a rut
+categories:
+- life
+date: 2022-04-23 20:26:00+03:00
 excerpt: Here are a few things that will improve your life and get you out of depression
   or a rut
-date: 2022-04-23 20:26:00+03:00
 image: images/mohamed-nohassi-odxb5oig_ia-unsplash.jpg
 image_alt: Here are a few things that will improve your life and get you out of depression
   or a rut
+layout: post
 seo:
-  title: How To Improve Your Life
   description: Here are a few things that will improve your life and get you out of
     depression or a rut
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: How To Improve Your Life
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here are a few things that will improve your life and get you out of depression
       or a rut
-    keyName: property
-  - name: og:image
-    value: images/mohamed-nohassi-odxb5oig_ia-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/mohamed-nohassi-odxb5oig_ia-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +34,16 @@ seo:
     value: Here are a few things that will improve your life and get you out of depression
       or a rut
   - name: twitter:image
-    value: images/mohamed-nohassi-odxb5oig_ia-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/mohamed-nohassi-odxb5oig_ia-unsplash.jpg
+  title: How To Improve Your Life
+subtitle: Here are a few things that will improve your life and get you out of depression
+  or a rut
+tags:
+- life
+- lifestyle
+title: How To Improve Your Life
 ---
-
 Here are a few things that will improve your life:
 
 #### Love yourself (become selfish)

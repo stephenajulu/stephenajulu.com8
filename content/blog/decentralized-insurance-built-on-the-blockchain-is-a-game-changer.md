@@ -1,37 +1,35 @@
 ---
-title: Decentralized Insurance Built on the Blockchain is a Game Changer
-subtitle: Decentralized insurance built on a transparent, blazingly fast, and efficient
-  blockchain with the community in mind is something to think about, says Adam Hofmann,
-  the CEO of Nimble.
+categories:
+- Tech
+date: 2022-08-21 18:15:00+03:00
 excerpt: Decentralized insurance built on a transparent, blazingly fast, and efficient
   blockchain with the community in mind is something to think about, says Adam Hofmann,
   the CEO of Nimble.
-date: 2022-08-21 18:15:00+03:00
 image: images/blockchain-interoperability-water-850x478-jpeg-optimal.jpeg
 image_alt: Decentralized insurance built on a transparent, blazingly fast, and efficient
   blockchain with the community in mind is something to think about, says Adam Hofmann,
   the CEO of Nimble.
+layout: post
 seo:
-  title: Decentralized Insurance Built on the Blockchain is a Game Changer
   description: Decentralized insurance built on a transparent, blazingly fast, and
     efficient blockchain with the community in mind is something to think about, says
     Adam Hofmann, the CEO of Nimble.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Decentralized Insurance Built on the Blockchain is a Game Changer
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Decentralized insurance built on a transparent, blazingly fast, and efficient
       blockchain with the community in mind is something to think about, says Adam
       Hofmann, the CEO of Nimble.
-    keyName: property
-  - name: og:image
-    value: images/blockchain-interoperability-water-850x478-jpeg-optimal.jpeg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/blockchain-interoperability-water-850x478-jpeg-optimal.jpeg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -41,11 +39,20 @@ seo:
       blockchain with the community in mind is something to think about, says Adam
       Hofmann, the CEO of Nimble.
   - name: twitter:image
-    value: images/blockchain-interoperability-water-850x478-jpeg-optimal.jpeg
     relativeUrl: true
-layout: post
+    value: images/blockchain-interoperability-water-850x478-jpeg-optimal.jpeg
+  title: Decentralized Insurance Built on the Blockchain is a Game Changer
+subtitle: Decentralized insurance built on a transparent, blazingly fast, and efficient
+  blockchain with the community in mind is something to think about, says Adam Hofmann,
+  the CEO of Nimble.
+tags:
+- dein
+- decentralized insurance
+- insurance
+- blockchain
+- tech
+title: Decentralized Insurance Built on the Blockchain is a Game Changer
 ---
-
 Let’s face it – [crypto](https://stephenajulu.com/blog/6-use-cases-for-cryptocurrency/), [Web3](https://stephenajulu.com/blog/web-3.0-explained-part-1/), [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/), whatever you want to call it – is growing fast. As a result, there are concerns and skepticism around the **volatility** and safety of digital assets, including investor funds. Would you put your hard earned money into _anything_ without some sense of safety and **security**?
 
 If we are going, to be honest with each other, and we certainly should be, it is absolutely logical that companies are skeptical to put big money into a decentralized system.

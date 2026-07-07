@@ -1,27 +1,29 @@
 ---
-title: The 4 Archetypes Men Should Master
-subtitle: ''
-excerpt: ''
+categories:
+- men
+- masculinity
+- manhood
 date: 2021-08-10 16:13:00+03:00
+excerpt: ''
 image: images/logan-weaver-zvg7z7zfi1u-unsplash.jpg
 image_alt: ''
+layout: post
 seo:
-  title: The 4 Archetypes Men Should Master
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: The 4 Archetypes Men Should Master
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/logan-weaver-zvg7z7zfi1u-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/logan-weaver-zvg7z7zfi1u-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/logan-weaver-zvg7z7zfi1u-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/logan-weaver-zvg7z7zfi1u-unsplash.jpg
+  title: The 4 Archetypes Men Should Master
+subtitle: ''
+tags:
+- men
+- masculinity
+- manhood
+title: The 4 Archetypes Men Should Master
 ---
-
 # #1. King
 
 The King energy is primal in all men.  

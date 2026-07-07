@@ -1,27 +1,27 @@
 ---
-title: My Bodyweight Workout Regime
-subtitle: Here's my bodyweight workout routine
-excerpt: Here's my bodyweight workout routine
+categories:
+- self improvement
 date: 2022-04-16 13:10:00+03:00
+excerpt: Here's my bodyweight workout routine
 image: images/meghan-holmes-wy_l8w0zcpi-unsplash.jpg
 image_alt: Here's my bodyweight workout routine
+layout: post
 seo:
-  title: My Bodyweight Workout Regime
   description: Here's my bodyweight workout routine
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: My Bodyweight Workout Regime
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here's my bodyweight workout routine
-    keyName: property
-  - name: og:image
-    value: images/meghan-holmes-wy_l8w0zcpi-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/meghan-holmes-wy_l8w0zcpi-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,14 @@ seo:
   - name: twitter:description
     value: Here's my bodyweight workout routine
   - name: twitter:image
-    value: images/meghan-holmes-wy_l8w0zcpi-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/meghan-holmes-wy_l8w0zcpi-unsplash.jpg
+  title: My Bodyweight Workout Regime
+subtitle: Here's my bodyweight workout routine
+tags:
+- self improvement
+title: My Bodyweight Workout Regime
 ---
-
 Hello guys!
 
 Here’s my bodyweight workout routine.

@@ -1,27 +1,29 @@
 ---
-title: 25 Kenyan Shares You Should Own(NSE)
-subtitle: ''
-excerpt: ''
+categories:
+- investment
+- stocks
+- shares
 date: 2021-07-31 16:18:00+03:00
+excerpt: ''
 image: images/ishant-mishra-uxejdx4sqde-unsplash.jpg
 image_alt: ''
+layout: post
 seo:
-  title: 25 Kenyan Shares You Should Own(NSE)
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 25 Kenyan Shares You Should Own(NSE)
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/ishant-mishra-uxejdx4sqde-unsplash.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/ishant-mishra-uxejdx4sqde-unsplash.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +31,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/ishant-mishra-uxejdx4sqde-unsplash.jpg
     relativeUrl: true
-layout: post
+    value: images/ishant-mishra-uxejdx4sqde-unsplash.jpg
+  title: 25 Kenyan Shares You Should Own(NSE)
+subtitle: ''
+tags:
+- investment
+- stocks
+- shares
+title: 25 Kenyan Shares You Should Own(NSE)
 ---
-
 **Reminder:** Stock trading is simple and affordable. Take a look at my other articles to get started.
 
 ## **Banking Sector**

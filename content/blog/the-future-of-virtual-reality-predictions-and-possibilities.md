@@ -1,37 +1,36 @@
 ---
-title: 'The Future of Virtual Reality: Predictions and Possibilities'
-subtitle: Virtual reality (VR) has been a hot topic in the tech world for years, with
-  the promise of immersive, interactive experiences that can transport users to new
-  worlds
+categories:
+- Technology
+- tech
+date: 2023-01-06 14:44:00+03:00
 excerpt: Virtual reality (VR) has been a hot topic in the tech world for years, with
   the promise of immersive, interactive experiences that can transport users to new
   worlds
-date: 2023-01-06 14:44:00+03:00
 image: images/vr-and-ar-technologies.png
 image_alt: Virtual reality (VR) has been a hot topic in the tech world for years,
   with the promise of immersive, interactive experiences that can transport users
   to new worlds
+layout: post
 seo:
-  title: 'The Future of Virtual Reality: Predictions and Possibilities'
   description: Virtual reality (VR) has been a hot topic in the tech world for years,
     with the promise of immersive, interactive experiences that can transport users
     to new worlds
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'The Future of Virtual Reality: Predictions and Possibilities'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Virtual reality (VR) has been a hot topic in the tech world for years,
       with the promise of immersive, interactive experiences that can transport users
       to new worlds
-    keyName: property
-  - name: og:image
-    value: images/vr-and-ar-technologies.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/vr-and-ar-technologies.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -41,11 +40,23 @@ seo:
       with the promise of immersive, interactive experiences that can transport users
       to new worlds
   - name: twitter:image
-    value: images/vr-and-ar-technologies.png
     relativeUrl: true
-layout: post
+    value: images/vr-and-ar-technologies.png
+  title: 'The Future of Virtual Reality: Predictions and Possibilities'
+subtitle: Virtual reality (VR) has been a hot topic in the tech world for years, with
+  the promise of immersive, interactive experiences that can transport users to new
+  worlds
+tags:
+- Virtual reality
+- VR applications
+- VR in education
+- VR in entertainment
+- VR in telemedicine
+- VR in product design
+- VR in architecture
+- VR in architecture
+title: 'The Future of Virtual Reality: Predictions and Possibilities'
 ---
-
 Virtual reality (VR) has been a hot topic in the tech world for years, with the promise of immersive, interactive experiences that can transport users to new worlds. While VR has made some strides in the gaming and entertainment industries, it has yet to fully break into the mainstream. However, many experts believe that the future of VR is bright and that it has the potential to transform a wide range of industries.
 
 First of all, what is VR? Virtual reality (VR) is a simulated experience that employs pose tracking and 3D near-eye displays to give the user an immersive feel of a virtual world. 

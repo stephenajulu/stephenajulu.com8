@@ -1,42 +1,39 @@
 ---
-title: 'The Future is Now: Emerging Technologies That Will Shape Our World'
-subtitle: This article explores the top 10 emerging technologies that will have a
-  profound impact on our world and shape the future. From artificial intelligence
-  to clean energy, learn about the cutting-edge advancements that will change the
-  way we live and work.
+categories:
+- Technology
+date: 2023-01-30 11:36:00+03:00
 excerpt: This article explores the top 10 emerging technologies that will have a profound
   impact on our world and shape the future. From artificial intelligence to clean
   energy, learn about the cutting-edge advancements that will change the way we live
   and work.
-date: 2023-01-30 11:36:00+03:00
 image: images/digital_disruption.jpg
 image_alt: This article explores the top 10 emerging technologies that will have a
   profound impact on our world and shape the future. From artificial intelligence
   to clean energy, learn about the cutting-edge advancements that will change the
   way we live and work.
+layout: post
 seo:
-  title: 'The Future is Now: Emerging Technologies That Will Shape Our World'
   description: This article explores the top 10 emerging technologies that will have
     a profound impact on our world and shape the future. From artificial intelligence
     to clean energy, learn about the cutting-edge advancements that will change the
     way we live and work.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'The Future is Now: Emerging Technologies That Will Shape Our World'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: This article explores the top 10 emerging technologies that will have a
       profound impact on our world and shape the future. From artificial intelligence
       to clean energy, learn about the cutting-edge advancements that will change
       the way we live and work.
-    keyName: property
-  - name: og:image
-    value: images/digital_disruption.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/digital_disruption.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -47,11 +44,22 @@ seo:
       to clean energy, learn about the cutting-edge advancements that will change
       the way we live and work.
   - name: twitter:image
-    value: images/digital_disruption.jpg
     relativeUrl: true
-layout: post
+    value: images/digital_disruption.jpg
+  title: 'The Future is Now: Emerging Technologies That Will Shape Our World'
+subtitle: This article explores the top 10 emerging technologies that will have a
+  profound impact on our world and shape the future. From artificial intelligence
+  to clean energy, learn about the cutting-edge advancements that will change the
+  way we live and work.
+tags:
+- emerging technologies
+- future tech
+- future world
+- disruptive innovations
+- emerging tech
+- disruptive tech
+title: 'The Future is Now: Emerging Technologies That Will Shape Our World'
 ---
-
 Technology is constantly evolving and advancing, leading to new and innovative solutions to problems and opportunities for growth. In this article, we will explore the top 10 emerging technologies that have the potential to greatly impact and shape the future.
 
 1. Artificial Intelligence (AI)

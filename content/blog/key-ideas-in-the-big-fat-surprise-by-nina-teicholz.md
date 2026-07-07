@@ -1,27 +1,28 @@
 ---
-title: Key Ideas In "The Big Fat Surprise" by Nina Teicholz
-subtitle: ''
-excerpt: ''
+categories:
+- health
+- lifestyle
 date: 2021-06-27 15:23:00+03:00
+excerpt: ''
 image: images/thebigfatsuprisekeyideas.png
 image_alt: ''
+layout: post
 seo:
-  title: Key Ideas In "The Big Fat Surprise" by Nina Teicholz
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Key Ideas In "The Big Fat Surprise" by Nina Teicholz
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/thebigfatsuprisekeyideas.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/thebigfatsuprisekeyideas.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +30,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/thebigfatsuprisekeyideas.png
     relativeUrl: true
-layout: post
+    value: images/thebigfatsuprisekeyideas.png
+  title: Key Ideas In "The Big Fat Surprise" by Nina Teicholz
+subtitle: ''
+tags:
+- fat
+- health
+- lifestyle
+title: Key Ideas In "The Big Fat Surprise" by Nina Teicholz
 ---
-
 ## The Big Fat Surprise Key Idea #1: Not all fats are created equal
 
 To best understand the two main types of fats and how they affect your body, it’s important to grasp the chemical composition of each.

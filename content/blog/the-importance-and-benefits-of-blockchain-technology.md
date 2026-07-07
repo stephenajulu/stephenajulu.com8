@@ -1,27 +1,28 @@
 ---
-title: The Importance and Benefits of Blockchain Technology
-subtitle: The Importance and Benefits of Blockchain Technology
-excerpt: The Importance and Benefits of Blockchain Technology
+categories:
+- Technology
+- Tech
 date: 2022-08-21 19:00:00+03:00
+excerpt: The Importance and Benefits of Blockchain Technology
 image: images/retina_display-646399094.jpg
 image_alt: The Importance and Benefits of Blockchain Technology
+layout: post
 seo:
-  title: The Importance and Benefits of Blockchain Technology
   description: The Importance and Benefits of Blockchain Technology
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: The Importance and Benefits of Blockchain Technology
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: The Importance and Benefits of Blockchain Technology
-    keyName: property
-  - name: og:image
-    value: images/retina_display-646399094.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/retina_display-646399094.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +30,15 @@ seo:
   - name: twitter:description
     value: The Importance and Benefits of Blockchain Technology
   - name: twitter:image
-    value: images/retina_display-646399094.jpg
     relativeUrl: true
-layout: post
+    value: images/retina_display-646399094.jpg
+  title: The Importance and Benefits of Blockchain Technology
+subtitle: The Importance and Benefits of Blockchain Technology
+tags:
+- blockchain
+- blockchain technology
+title: The Importance and Benefits of Blockchain Technology
 ---
-
 ## What is blockchain?
 
 A **blockchain** is a growing list of records, called _blocks_, that are linked together using [cryptography](https://en.wikipedia.org/wiki/Cryptography "Cryptography"). Each block contains a [cryptographic hash](https://en.wikipedia.org/wiki/Cryptographic_hash_function "Cryptographic hash function") of the previous block, a [timestamp](https://en.wikipedia.org/wiki/Trusted_timestamping "Trusted timestamping"), and transaction data (generally represented as a [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree "Merkle tree")). The timestamp proves that the transaction data existed when the block was published in order to get into its hash. As blocks each contain information about the block previous to it, they form a chain, with each additional block reinforcing the ones before it. Therefore, blockchains are resistant to modification of their data because once recorded, the data in any given block cannot be altered retroactively without altering all subsequent blocks.

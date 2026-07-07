@@ -1,32 +1,31 @@
 ---
-title: 'How To Buy Your First NFT Web 3.0 Domain: Unstoppable Domains'
-subtitle: Learn more about NFT domain. What they are? Where to get them and How to
-  buy/use them.
+categories:
+- Technology
+date: 2021-12-22 13:31:00+03:00
 excerpt: Learn more about NFT domain. What they are? Where to get them and How to
   buy/use them.
-date: 2021-12-22 13:31:00+03:00
 image: images/unstoppable-1280x720.png
 image_alt: Learn more about NFT domain. What they are? Where to get them and How to
   buy/use them.
+layout: post
 seo:
-  title: 'How To Buy Your First NFT Web 3.0 Domain: Unstoppable Domains'
   description: Learn more about NFT domain. What they are? Where to get them and How
     to buy/use them.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'How To Buy Your First NFT Web 3.0 Domain: Unstoppable Domains'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Learn more about NFT domain. What they are? Where to get them and How to
       buy/use them.
-    keyName: property
-  - name: og:image
-    value: images/unstoppable-1280x720.png
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/unstoppable-1280x720.png
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +34,27 @@ seo:
     value: Learn more about NFT domain. What they are? Where to get them and How to
       buy/use them.
   - name: twitter:image
-    value: images/unstoppable-1280x720.png
     relativeUrl: true
-layout: post
+    value: images/unstoppable-1280x720.png
+  title: 'How To Buy Your First NFT Web 3.0 Domain: Unstoppable Domains'
+subtitle: Learn more about NFT domain. What they are? Where to get them and How to
+  buy/use them.
+tags:
+- web3
+- technology
+- nft
+- blockchain
+- cryptocurrencies
+- cryptocurrency
+- domain
+- domains
+- domain names
+- domain name system
+- nfts
+- unstoppable domains
+- crypto
+title: 'How To Buy Your First NFT Web 3.0 Domain: Unstoppable Domains'
 ---
-
 Today i'd like to help you buy your first NFT Web 3.0 domain. We'll talk about what they are, where you can get one and how to buy/use one.
 
 First,

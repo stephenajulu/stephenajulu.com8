@@ -1,27 +1,27 @@
 ---
-title: How to Buy Your First Share
-subtitle: ''
-excerpt: ''
+categories:
+- finance
 date: 2021-02-08 03:20:00+00:00
+excerpt: ''
 image: images/buy-shares-in-kenya.jpg
 image_alt: ''
+layout: post
 seo:
-  title: How to Buy Your First Share
   description: ''
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: How to Buy Your First Share
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: ''
-    keyName: property
-  - name: og:image
-    value: images/buy-shares-in-kenya.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/buy-shares-in-kenya.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +29,16 @@ seo:
   - name: twitter:description
     value: ''
   - name: twitter:image
-    value: images/buy-shares-in-kenya.jpg
     relativeUrl: true
-layout: post
+    value: images/buy-shares-in-kenya.jpg
+  title: How to Buy Your First Share
+subtitle: ''
+tags:
+- shares
+- trading
+- stocks
+title: How to Buy Your First Share
 ---
-
 Hi, how are you? It's been long huh!
 
 Today I'd like to show you how i bought my first share and how you can too for less than ksh. 200.

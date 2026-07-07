@@ -1,27 +1,28 @@
 ---
-title: 'Koha: How To Setup Gmail Email Notices with Postfix'
-subtitle: Configure gmail with postfix to send email notices from Koha
-excerpt: Configure gmail with postfix to send email notices from Koha
+categories:
+- Technology
+- Library
 date: 2022-11-10 19:00:00+03:00
+excerpt: Configure gmail with postfix to send email notices from Koha
 image: images/koha-user.jpg
 image_alt: Configure gmail with postfix to send email notices from Koha
+layout: post
 seo:
-  title: 'Koha: How To Setup Gmail Email Notices with Postfix'
   description: Configure gmail with postfix to send email notices from Koha
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: 'Koha: How To Setup Gmail Email Notices with Postfix'
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Configure gmail with postfix to send email notices from Koha
-    keyName: property
-  - name: og:image
-    value: images/koha-user.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/koha-user.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -29,11 +30,27 @@ seo:
   - name: twitter:description
     value: Configure gmail with postfix to send email notices from Koha
   - name: twitter:image
-    value: images/koha-user.jpg
     relativeUrl: true
-layout: post
+    value: images/koha-user.jpg
+  title: 'Koha: How To Setup Gmail Email Notices with Postfix'
+subtitle: Configure gmail with postfix to send email notices from Koha
+tags:
+- koha
+- postfix
+- email notices
+- smtp
+- koha smtp
+- koha email
+- koha postfix
+- email
+- mail
+- library
+- libraries
+- tech
+- technologies
+- technology
+title: 'Koha: How To Setup Gmail Email Notices with Postfix'
 ---
-
 ## **1. Installation of postfix mail server**
 
 Open a terminal and apply the following commands,

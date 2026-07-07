@@ -1,32 +1,32 @@
 ---
-title: Future Industries and Sectors
-subtitle: Here are the industries and sectors that are going to boom or are already
-  starting to boom.
+categories:
+- metaverse
+- the future
+date: 2021-11-07 12:18:00+03:00
 excerpt: Here are the industries and sectors that are going to boom or are already
   starting to boom.
-date: 2021-11-07 12:18:00+03:00
 image: images/file-20210806-17-jibbct.jpg
 image_alt: Here are the industries and sectors that are going to boom or are already
   starting to boom.
+layout: post
 seo:
-  title: Future Industries and Sectors
   description: Here are the industries and sectors that are going to boom or are already
     starting to boom.
   extra:
-  - name: og:type
+  - keyName: property
+    name: og:type
     value: article
-    keyName: property
-  - name: og:title
+  - keyName: property
+    name: og:title
     value: Future Industries and Sectors
-    keyName: property
-  - name: og:description
+  - keyName: property
+    name: og:description
     value: Here are the industries and sectors that are going to boom or are already
       starting to boom.
-    keyName: property
-  - name: og:image
-    value: images/file-20210806-17-jibbct.jpg
-    keyName: property
+  - keyName: property
+    name: og:image
     relativeUrl: true
+    value: images/file-20210806-17-jibbct.jpg
   - name: twitter:card
     value: summary_large_image
   - name: twitter:title
@@ -35,11 +35,45 @@ seo:
     value: Here are the industries and sectors that are going to boom or are already
       starting to boom.
   - name: twitter:image
-    value: images/file-20210806-17-jibbct.jpg
     relativeUrl: true
-layout: post
+    value: images/file-20210806-17-jibbct.jpg
+  title: Future Industries and Sectors
+subtitle: Here are the industries and sectors that are going to boom or are already
+  starting to boom.
+tags:
+- metaverse
+- virtual reality
+- augmented reality
+- mixed reality
+- cryptocurrencies
+- cyber security
+- blockchain
+- decentralized finance
+- defi
+- vr
+- ar
+- mr
+- digital land
+- clean energy
+- fusion
+- ai
+- artificial intelligence
+- '2022'
+- '2023'
+- '2024'
+- '2025'
+- '2030'
+- '2021'
+- decentralized manufacturing
+- THC
+- CBD
+- natural plant medicine
+- psychedelic therapy
+- biotechnology
+- neurotechnology
+- neuralink
+title: Future Industries and Sectors
 ---
-
  1. Artificial Intelligence
  2. Cyber Security
  3. Blockchain
