@@ -282,3 +282,79 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 ```
 *   **Syndicated Comments**: If a visitor mentions the post's URL in a tweet or on their own blog, Webmention parses it, extracts the author's avatar, name, and comment content, and displays it at the bottom of the article.
+*   **Writings Injection**: The Webmention container is also loaded in [post.html](file:///layouts/_default/post.html) inside `<footer class="post__meta">` to support responses directly below article bodies.
+
+---
+
+## 7. Notes Attachments & Bookmarks Engine
+
+To support IndieWeb micro-blogging, notes can carry optional attachments (images, native HTML5 videos, and bookmark links) directly via front matter metadata:
+
+```yaml
+# Example content/notes/some-note.md
+---
+date: 2026-07-07T18:32:00Z
+link: "https://example.com"
+link_title: "IndieWeb bookmark links"
+link_description: "Learn how to build link previews natively."
+image: "/images/notes/attachment.jpg"
+video: "/videos/notes/clip.mp4"
+---
+```
+
+### A. Template Implementation (`layouts/notes/list.html` & `single.html`)
+The layouts evaluate metadata and conditionally render components:
+```html
+{{ if .Params.link }}
+<div class="note-card__bookmark">
+  <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer">
+    🔗 {{ .Params.link_title | default .Params.link }}
+  </a>
+  {{ if .Params.link_description }}
+  <p>{{ .Params.link_description }}</p>
+  {{ end }}
+</div>
+{{ end }}
+
+{{ if .Params.image }}
+<div class="note-card__media">
+  <img src="{{ .Params.image | relURL }}" alt="{{ .Params.image_alt | default "Note image" }}" />
+</div>
+{{ end }}
+
+{{ if .Params.video }}
+<div class="note-card__media">
+  <video src="{{ .Params.video | relURL }}" controls></video>
+</div>
+{{ end }}
+```
+
+### B. Styling integration (`assets/sass/imports/_notes.scss`)
+*   `.note-card__bookmark` — Styled with custom background cards (`rgba(0,0,0,0.01)` in light mode, `rgba(255,255,255,0.01)` in dark mode) and subtle borders.
+*   `.note-card__media` — Limits media wrappers to `100%` width with clean, pre-rounded corners.
+
+---
+
+## 8. Theme-Aware Shortcodes
+
+The project provides three custom Hugo shortcodes to enrich content while maintaining light/dark theme alignment.
+
+### A. Notice/Callout Shortcode (`layouts/shortcodes/notice.html`)
+*   **Usage**: `{{% notice warning %}}This is a warning notice{{% /notice %}}` (supports `info`, `warning`, `success`).
+*   **Implementation**:
+    ```html
+    {{ $type := .Get 0 | default "info" }}
+    <div class="notice notice--{{ $type }}">
+      {{ .Inner | markdownify }}
+    </div>
+    ```
+*   **Styling**: Border colors dynamically adapt ($color-accent for info, #f59e0b for warning, #10b981 for success) with a semi-transparent theme background.
+
+### B. Bookmark Shortcode (`layouts/shortcodes/bookmark.html`)
+*   **Usage**: `{{< bookmark url="https://example.com" title="Example Website" description="Example desc" >}}`
+*   **Implementation**: Creates a bookmark card embedded inside any markdown page, matching the Notes bookmarks aesthetic.
+
+### C. Responsive Video Shortcode (`layouts/shortcodes/video.html`)
+*   **Usage**: `{{< video src="/videos/demo.mp4" autoplay=true >}}`
+*   **Implementation**: Employs native browser HTML5 elements inside the responsive `.note-card__media` class framework.
+

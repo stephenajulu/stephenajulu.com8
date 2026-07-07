@@ -62,19 +62,29 @@ Notes are short updates or links without titles, similar to status updates. They
 ### Step 1: Create the File
 Create a file named with its publication timestamp (e.g., `2026-07-07-18-15-00.md`).
 
-### Step 2: Configure Front Matter
-Notes do not have titles or excerpts. The front matter contains only the date and optional syndication links:
+Notes do not have titles or excerpts. The front matter contains dates, syndication URLs, and optional rich media attachments:
 ```yaml
 ---
 date: 2026-07-07 18:15:00+03:00
+image: "/images/notes/my-setup.jpg"
+image_alt: "Sovereign server configuration"
+video: "/videos/notes/demo.mp4"
+link: "https://example.com"
+link_title: "Bookmark Link"
+link_description: "Bookmark preview link description."
 syndication:
   - name: "Twitter"
     url: "https://twitter.com/stephenajulu/status/123456789"
-  - name: "Mastodon"
-    url: "https://mastodon.social/@stephenajulu/123456789"
 layout: note
 ---
 ```
+
+### Explaining the Attachment Parameters:
+*   `image`: Path to the image file attachment (stored under `/static/images/notes/`).
+*   `image_alt`: Accessibility text description for the image.
+*   `video`: Path to HTML5 MP4/WebM video file attachment.
+*   `link`: Target external URL for link preview cards (useful for sharing articles or replies).
+*   `link_title` & `link_description`: Metadata details that populate the bookmark card.
 
 ### Step 3: Write Content
 Write your short update below the front matter. You can include links or HTML:
@@ -215,3 +225,38 @@ Update the `nav_links` array:
 ```
 *   **Dropdown links**: Set `"style": "dropdown"` and define sub-links inside the `"children"` array.
 *   **Standard links**: Set `"style": "link"` and specify the URL path.
+
+---
+
+## 6. Using Custom Shortcodes in Markdown
+
+To enrich your articles, you can use these custom, theme-aware shortcodes anywhere inside blog posts or notes:
+
+### A. Info, Warning, and Success Callouts
+Use the `notice` shortcode to highlight important information.
+```markdown
+{{% notice info %}}
+This is a standard information callout box.
+{{% /notice %}}
+
+{{% notice warning %}}
+**Warning**: Check configurations before reloading servers!
+{{% /notice %}}
+
+{{% notice success %}}
+**Success**: Paystack callbacks verified.
+{{% /notice %}}
+```
+
+### B. Link Previews (Bookmarks)
+Use the `bookmark` shortcode to inline elegant bookmark cards.
+```markdown
+{{< bookmark url="https://stephenajulu.com" title="Stephen Ajulu's Digital Home" description="Multidisciplinary technical consultant portfolio and store." >}}
+```
+
+### C. Inline Responsive Video Players
+Use the `video` shortcode to embed MP4 or WebM clips.
+```markdown
+{{< video src="/videos/notes/setup-demo.mp4" autoplay=true >}}
+```
+

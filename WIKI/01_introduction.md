@@ -45,10 +45,16 @@ The platform implements a variety of modern features optimized for performance, 
 *   **Direct-to-Consumer (D2C) Sales**: Integrated Paystack inline popups supporting M-Pesa, card payments, and mobile money.
 *   **Secure Delivery**: Displays a secure download link upon a successful callback from Paystack.
 
-### 6. IndieWeb Webmentions
-*   **Decentralized Comments**: Replaces corporate commenting systems (like Disqus or Facebook Comments) with IndieWeb Webmentions, polling dynamic responses, likes, and replies across the web using a lightweight script.
+### 6. IndieWeb Webmentions & Rich Notes
+*   **Decentralized Comments**: Replaces corporate commenting systems (like Disqus or Facebook Comments) with IndieWeb Webmentions, polling dynamic responses, likes, and replies across both blog posts and micro-notes.
+*   **Notes Attachments**: Micro-notes support rich native attachments (images, HTML5 video, and bookmark links) directly via markdown content or front-matter metadata parameters.
 
-### 7. Progressive Web App (PWA)
+### 7. Custom Theme-Aware Shortcodes
+*   **Notice Callouts**: A styled callout component (`notice`) supporting info, warning, and success color schemes.
+*   **Bookmark Embeds**: Embeds clean link preview cards for bookmarking (`bookmark`).
+*   **Video Embeds**: Inline responsive player for HTML5 MP4/WebM video clips (`video`).
+
+### 8. Progressive Web App (PWA)
 *   **Offline Capability**: Offline fallback page and service worker caching schemas for documents, scripts, styles, fonts, and images using Workbox.
 *   **Fast Loading**: Service worker pre-caches assets to ensure instant loading for repeat visitors.
 
