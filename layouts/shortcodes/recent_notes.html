@@ -1,0 +1,18 @@
+{{ $limit := .Get "limit" | default 3 }}
+<div class="recent-notes-container" style="margin: 2rem 0;">
+  {{ range first $limit (where .Site.RegularPages "Section" "notes").ByDate.Reverse }}
+  <div class="note-card" style="margin-bottom: 1.5rem; padding: 1.5rem; border: 1px solid rgba(0,0,0,0.06); border-radius: 12px; background: rgba(0,0,0,0.015); transition: border-color 0.2s;">
+    <style>
+      .recent-notes-container .note-card:hover {
+        border-color: var(--color-accent, #6320d6) !important;
+      }
+    </style>
+    <div class="note-card__header" style="font-size: 0.8rem; margin-bottom: 0.75rem; opacity: 0.6;">
+      Posted on <a href="{{ .RelPermalink }}" style="color: inherit; font-weight: 600;">{{ .Date | dateFormat "Jan 02, 2006 at 15:04" }}</a>
+    </div>
+    <div class="note-card__body text-block">
+      {{ .Content }}
+    </div>
+  </div>
+  {{ end }}
+</div>

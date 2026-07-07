@@ -1,0 +1,9 @@
+{{ $limit := .Get "limit" | default 5 }}
+<ul class="til-summary-list" style="list-style: none; padding: 0; margin: 1.5rem 0;">
+  {{ range first $limit (where .Site.RegularPages "Section" "til").ByDate.Reverse }}
+  <li style="margin-bottom: 0.75rem; display: flex; align-items: baseline; gap: 1rem;">
+    <time style="font-family: monospace; font-size: 0.85rem; opacity: 0.6; min-width: 80px;">{{ .Date | dateFormat "2006.01.02" }}</time>
+    <a href="{{ .RelPermalink }}" style="font-weight: 500; border-bottom: 1px solid transparent; text-decoration: none; color: inherit; transition: color 0.2s;" onmouseover="this.style.color='var(--color-accent, #6320d6)'" onmouseout="this.style.color='inherit'">{{ .Title }}</a>
+  </li>
+  {{ end }}
+</ul>

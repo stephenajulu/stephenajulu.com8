@@ -1,0 +1,65 @@
+<div class="gated-wrapper-modern">
+  <div class="gated-content-modern">
+    {{ .Inner }}
+  </div>
+  <div class="gate-cta-modern">
+    <span class="gate-cta-modern__icon">🔒</span>
+    <h4 class="gate-cta-modern__title">Sovereign Member Content</h4>
+    <p class="gate-cta-modern__text">This content is gated. Please sign in with your Netlify Identity or subscribe to support my work and unlock access.</p>
+    <div class="gate-cta-modern__buttons">
+      <button class="button button--primary netlify-login-trigger">Log In / Register</button>
+      <a href="/support" class="button button--secondary">Become a Member</a>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  if (!window.netlifyIdentity) {
+    const script = document.createElement("script");
+    script.src = "https://identity.netlify.com/v1/netlify-identity-widget.js";
+    document.head.appendChild(script);
+    script.onload = initGate;
+  } else {
+    initGate();
+  }
+
+  function initGate() {
+    netlifyIdentity.init();
+    
+    const checkUser = () => {
+      const user = netlifyIdentity.currentUser();
+      const wrappers = document.querySelectorAll(".gated-wrapper-modern");
+      wrappers.forEach(wrap => {
+        const content = wrap.querySelector(".gated-content-modern");
+        const cta = wrap.querySelector(".gate-cta-modern");
+        if (user) {
+          if (content) {
+            content.style.filter = "none";
+            content.style.pointerEvents = "auto";
+            content.style.userSelect = "auto";
+          }
+          if (cta) cta.style.display = "none";
+        } else {
+          if (content) {
+            content.style.filter = "blur(8px)";
+            content.style.pointerEvents = "none";
+            content.style.userSelect = "none";
+          }
+          if (cta) cta.style.display = "flex";
+        }
+      });
+    };
+
+    netlifyIdentity.on("init", checkUser);
+    netlifyIdentity.on("login", checkUser);
+    netlifyIdentity.on("logout", checkUser);
+
+    document.querySelectorAll(".netlify-login-trigger").forEach(btn => {
+      btn.addEventListener("click", () => {
+        netlifyIdentity.open();
+      });
+    });
+  }
+})();
+</script>

@@ -2,8 +2,8 @@
     "data": [
         {{ range $index, $e := .Data.Pages }}
         {{ if $index }}, {{ end }} {
-            "title" : "{{ .Title }}",
-            "link" : "{{ .Permalink }}"
+            "title" : {{ .Title | jsonify }},
+            "link" : {{ .Permalink | jsonify }}
         }
         {{ end }}
     ]

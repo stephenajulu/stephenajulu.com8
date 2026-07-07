@@ -313,3 +313,26 @@ Use this to display civilization metrics, goals, or progress bars.
 {{< metric label="Sovereign Web Migration" value="90%" percent="90" >}}
 ```
 
+### K. Modern Gated Content Block
+If you want to use the new SASS-styled, theme-aware Gated Member box (with dynamic light/dark contrast and blur overlays), use the `gate_modern` shortcode block:
+```markdown
+{{% gate_modern %}}
+This content is hidden from non-members and will elegantly blur until signed in.
+{{% /gate_modern %}}
+```
+*Note: The original classic `gate` shortcode remains available and untouched.*
+
+### L. Modern Newsletter Block
+To embed the new styled email newsletter subscription widget:
+```markdown
+{{< newsletter_modern >}}
+```
+*Note: The original classic `newsletter` shortcode remains available and untouched.*
+
+### M. Dynamic Content Feed Shortcodes
+To pull lists of articles, notes, or links automatically:
+*   **Today I Learned List**: `{{< til_summary limit=5 >}}` (renders a chronologically sorted list of the latest 5 TIL files).
+*   **Recent Status Updates**: `{{< recent_notes limit=3 >}}` (renders the latest 3 notes in card layouts).
+*   **IndieWeb Blogroll Recommendation**: `{{< blogroll_widget >}}` (renders a links grid to recommend peer websites).
+
+

@@ -397,3 +397,25 @@ The project provides three custom Hugo shortcodes to enrich content while mainta
 *   **Usage**: `{{< metric label="Type 1 Civilization" value="73%" percent="73" >}}`
 *   **Implementation**: Generates a grid metric block displaying value outputs and a CSS-animated visual status bar.
 
+### K. Modern Gated CTA (`layouts/shortcodes/gate_modern.html`)
+*   **Usage**: `{{% gate_modern %}}Gated Text{{% /gate_modern %}}`
+*   **Implementation**: A redesigned, theme-aware gated content interface that inherits clean SASS border and layout variables instead of raw inline styles, preserving the original classic `gate.html` shortcode untouched.
+
+### L. Modern Newsletter Box (`layouts/shortcodes/newsletter_modern.html`)
+*   **Usage**: `{{< newsletter_modern >}}`
+*   **Implementation**: An updated, SASS-styled responsive email subscription widget that aligns with theme color scheme variables.
+
+### M. Context-Aware Lists & Feeds
+*   **Today I Learned Summary** (`layouts/shortcodes/til_summary.html`): Embeds a clean chronologically ordered bullet list of the latest TIL section pages.
+*   **Recent Notes Container** (`layouts/shortcodes/recent_notes.html`): Displays the last few status updates (including content) on any generic landing page.
+*   **IndieWeb Blogroll Card** (`layouts/shortcodes/blogroll_widget.html`): Lists external sovereign link recommendations.
+
+---
+
+## 9. Solarpunk Ambient Background Mode (`layouts/partials/solarpunk_ambient.html`)
+
+To integrate the Solarpunk philosophy visually:
+*   **Mechanism**: Renders a fixed background gradient blur element in the document body.
+*   **Theme Awareness**: Styles itself as a soft brand violet glow (`rgba(99, 32, 214, 0.04)`) in light mode and transitions to a warm organic gold ambient glow (`rgba(255, 215, 0, 0.015)`) in dark mode.
+
+

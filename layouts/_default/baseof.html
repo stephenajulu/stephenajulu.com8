@@ -45,7 +45,7 @@
         {{ partial "seo_schema.html" . }}
     </head>
     <body class="font-{{ hugo.Data.config.base_font }} palette-{{ hugo.Data.config.color_scheme }} accent-{{ hugo.Data.config.accent_color }}">
-        
+        {{ partial "solarpunk_ambient.html" . }}
         <div id="site-wrap" class="site">
           {{ partial "header.html" . }}
           <main id="content" class="site-content">
