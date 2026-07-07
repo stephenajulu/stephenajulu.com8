@@ -260,3 +260,56 @@ Use the `video` shortcode to embed MP4 or WebM clips.
 {{< video src="/videos/notes/setup-demo.mp4" autoplay=true >}}
 ```
 
+### D. X/Twitter Embeds
+Use the `tweet` shortcode inside blog posts or notes.
+```markdown
+<!-- Sovereign static tweet embed (Fast and Private) -->
+{{< tweet id="1234567" user="stephenajulu" text="This is my status update" date="July 7, 2026" >}}
+
+<!-- Standard JS tweet embed -->
+{{< tweet 1234567 >}}
+```
+
+### E. MermaidJS Diagrams
+Use the `mermaid` shortcode block to render diagrams.
+```markdown
+{{< mermaid >}}
+graph TD
+  A[Sovereign Core] -->|Paystack| B[Commerce]
+  A -->|Workbox| C[Offline App]
+{{< /mermaid >}}
+```
+
+### F. Timelines & Milestones
+Use these to showcase timelines or roadmaps.
+```markdown
+{{< timeline >}}
+  {{< milestone date="2026" title="V2 Release" >}}
+  Complete digital overhaul.
+  {{< /milestone >}}
+{{< /timeline >}}
+```
+
+### G. GitHub Gist Embeds
+```markdown
+{{< gist_embed user="stephenajulu" id="1234567" >}}
+```
+
+### H. Crypto Wallet Addresses
+Use this to display wallet addresses with click to copy functions.
+```markdown
+{{< crypto_card coin="Ethereum" address="0x1234567890abcdef" >}}
+```
+
+### I. Audio Logs
+Use this to showcase voice notes or audio recordings.
+```markdown
+{{< audio src="/audio/update.mp3" title="Status Update July 2026" >}}
+```
+
+### J. Metric Cards
+Use this to display civilization metrics, goals, or progress bars.
+```markdown
+{{< metric label="Sovereign Web Migration" value="90%" percent="90" >}}
+```
+

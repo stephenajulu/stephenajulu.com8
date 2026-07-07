@@ -1,0 +1,6 @@
+{{ $src := .Get "src" }}
+{{ $title := .Get "title" | default "Audio Track" }}
+<div class="audio-player">
+  <span class="audio-player__title">🎵 {{ $title }}</span>
+  <audio src="{{ $src | relURL }}" controls style="width: 100%; margin-top: 0.5rem;"></audio>
+</div>

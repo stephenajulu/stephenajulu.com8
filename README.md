@@ -16,7 +16,7 @@ Welcome to the source repository of my personal platform—a living archive, por
 *   **PWA Compliant**: Fully offline-capable using custom Workbox Service Worker caching schemas and a dedicated offline page.
 *   **Feeds & Archives**: Standard RSS and JSON feeds generated for all sections (writings, notes, projects, tags) and a detailed archive page.
 *   **Media & Attachment Notes**: Notes hub supports embedding images, videos, and bookmark preview cards natively via front matter or shortcodes.
-*   **Theme-Aware Shortcodes**: Premium callouts (`notice`), links (`bookmark`), and media embedding wrappers (`video`) that automatically adapt to light/dark themes.
+*   **Theme-Aware Embeds & Shortcodes**: Standardized widgets including X/Twitter embeds, MermaidJS diagrams, timeline roadmaps, editorial pull-quotes, audio logs, GitHub Gists, crypto donation cards, and civilization progress metrics that automatically adapt to light/dark themes.
 *   **CMS Integrated**: Ready for Git-based editing with **CloudCannon CMS**.
 
 ---

@@ -53,6 +53,12 @@ The platform implements a variety of modern features optimized for performance, 
 *   **Notice Callouts**: A styled callout component (`notice`) supporting info, warning, and success color schemes.
 *   **Bookmark Embeds**: Embeds clean link preview cards for bookmarking (`bookmark`).
 *   **Video Embeds**: Inline responsive player for HTML5 MP4/WebM video clips (`video`).
+*   **X/Twitter widgets**: Integrates progressive-loading embeds with local sovereign design styles (`tweet`).
+*   **MermaidJS Diagrams**: Dynamically renders sequence, flow, or Gantt diagrams with theme-matching properties (`mermaid`).
+*   **Roadmaps / Timelines**: Multi-event chronology timelines (`timeline` and `milestone`).
+*   **Audio Players**: Minimal MP3/Wav players for audio updates and podcast previews (`audio`).
+*   **GitHub Gists**: Imports dynamic Gist code listings (`gist_embed`).
+*   **Sovereign Payments & Metric Widgets**: Crypto address display with clipboard copywriting (`crypto_card`) and progress goal bar visualizers (`metric`).
 
 ### 8. Progressive Web App (PWA)
 *   **Offline Capability**: Offline fallback page and service worker caching schemas for documents, scripts, styles, fonts, and images using Workbox.

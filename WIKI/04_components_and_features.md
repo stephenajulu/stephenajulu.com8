@@ -358,3 +358,42 @@ The project provides three custom Hugo shortcodes to enrich content while mainta
 *   **Usage**: `{{< video src="/videos/demo.mp4" autoplay=true >}}`
 *   **Implementation**: Employs native browser HTML5 elements inside the responsive `.note-card__media` class framework.
 
+### D. X/Twitter Embeds Shortcode (`layouts/shortcodes/tweet.html`)
+*   **Usage**: `{{< tweet id="12345" user="stephenajulu" text="This is a tweet text" date="July 7, 2026" >}}` (sovereign static card) or `{{< tweet 12345 >}}` (loads standard widgets.js with progressive loading).
+*   **Implementation**: Conditionally swaps to static CSS blockquotes if content parameters are provided to ensure zero tracking and instant rendering, falling back to standard Twitter script widgets.
+
+### E. MermaidJS Diagrams Shortcode (`layouts/shortcodes/mermaid.html`)
+*   **Usage**:
+    ```text
+    {{< mermaid >}}
+    graph TD
+      A[Start] --> B[Process]
+    {{< /mermaid >}}
+    ```
+*   **Implementation**: Evaluates the body class `.palette-dark` and dynamically chooses the `dark` or `default` theme inside `mermaid.initialize()`. Includes safety guards to prevent multiple JS imports on a single page.
+
+### F. Timeline Milestones (`layouts/shortcodes/timeline.html` & `milestone.html`)
+*   **Usage**:
+    ```text
+    {{< timeline >}}
+      {{< milestone date="2026" title="Launch" >}}Overhauled digital home{{< /milestone >}}
+    {{< /timeline >}}
+    ```
+*   **Implementation**: SASS-driven list layout that creates custom left borders, circular milestone nodes, and dates.
+
+### G. GitHub Gist embeds (`layouts/shortcodes/gist_embed.html`)
+*   **Usage**: `{{< gist_embed user="stephenajulu" id="12345" >}}`
+*   **Implementation**: Dynamically fetches and inserts external scripts into layouts container blocks.
+
+### H. Crypto Wallet Cards (`layouts/shortcodes/crypto_card.html`)
+*   **Usage**: `{{< crypto_card coin="BTC" address="1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa" >}}`
+*   **Implementation**: Generates a card highlighting the wallet address alongside a responsive, plain JS clipboard "Click to Copy" button wrapper.
+
+### I. Audio Track Players (`layouts/shortcodes/audio.html`)
+*   **Usage**: `{{< audio src="/audio/voice-note.mp3" title="Sovereign Podcast" >}}`
+*   **Implementation**: Generates a native theme-aligned player with voice metadata listings.
+
+### J. Goal Progress Metric Cards (`layouts/shortcodes/metric.html`)
+*   **Usage**: `{{< metric label="Type 1 Civilization" value="73%" percent="73" >}}`
+*   **Implementation**: Generates a grid metric block displaying value outputs and a CSS-animated visual status bar.
+

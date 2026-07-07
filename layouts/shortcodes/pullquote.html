@@ -1,0 +1,6 @@
+<blockquote class="pullquote">
+  <p class="pullquote__text">{{ .Inner | markdownify }}</p>
+  {{ if .Get "author" }}
+  <cite class="pullquote__author">— {{ .Get "author" }}{{ if .Get "source" }}, <em>{{ .Get "source" }}</em>{{ end }}</cite>
+  {{ end }}
+</blockquote>

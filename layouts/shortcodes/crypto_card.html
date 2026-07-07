@@ -1,0 +1,11 @@
+{{ $coin := .Get "coin" | default "Bitcoin" }}
+{{ $address := .Get "address" }}
+<div class="crypto-card">
+  <div class="crypto-card__header">
+    <span class="crypto-card__coin">{{ $coin }} Address</span>
+  </div>
+  <div class="crypto-card__body">
+    <code class="crypto-card__address" id="wallet-{{ $coin | urlize }}">{{ $address }}</code>
+    <button class="crypto-card__copy button button--secondary button--sm" onclick="navigator.clipboard.writeText('{{ $address }}'); this.innerText = 'Copied!'; setTimeout(() => this.innerText = 'Copy Address', 2000);">Copy Address</button>
+  </div>
+</div>

@@ -1,0 +1,20 @@
+{{ $id := .Get "id" | default (.Get 0) }}
+{{ $user := .Get "user" }}
+{{ $text := .Get "text" }}
+{{ $date := .Get "date" }}
+
+{{ if and $user $text }}
+<blockquote class="tweet-embed" cite="https://twitter.com/{{ $user }}/status/{{ $id }}">
+  <div class="tweet-embed__header">
+    <span class="tweet-embed__user">@{{ $user }}</span>
+  </div>
+  <p class="tweet-embed__body">{{ $text | markdownify }}</p>
+  {{ if $date }}<time class="tweet-embed__date">{{ $date }}</time>{{ end }}
+  <a class="tweet-embed__link" href="https://twitter.com/{{ $user }}/status/{{ $id }}" target="_blank" rel="noopener noreferrer">View on X/Twitter →</a>
+</blockquote>
+{{ else }}
+<blockquote class="twitter-tweet" data-dnt="true">
+  <a href="https://twitter.com/x/status/{{ $id }}">Loading Tweet {{ $id }}...</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{ end }}

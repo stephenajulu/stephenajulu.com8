@@ -1,0 +1,5 @@
+{{ $user := .Get "user" | default (.Get 0) }}
+{{ $id := .Get "id" | default (.Get 1) }}
+<div class="gist-embed">
+  <script src="https://gist.github.com/{{ $user }}/{{ $id }}.js"></script>
+</div>

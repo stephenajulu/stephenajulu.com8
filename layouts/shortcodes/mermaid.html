@@ -1,0 +1,27 @@
+<div class="mermaid-container" style="background: rgba(0, 0, 0, 0.01); border: 1px solid rgba(0, 0, 0, 0.08); border-radius: 12px; padding: 1.5rem; margin: 2rem 0; overflow: auto; display: flex; justify-content: center;">
+  <pre class="mermaid" style="background: transparent !important; margin: 0; padding: 0;">
+    {{ .Inner }}
+  </pre>
+</div>
+
+<!-- Load Mermaid JS once per page -->
+{{ if not ($.Page.Scratch.Get "mermaidLoaded") }}
+  {{ $.Page.Scratch.Set "mermaidLoaded" true }}
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      if (window.mermaid) {
+        const isDark = document.body.classList.contains("palette-dark");
+        mermaid.initialize({
+          startOnLoad: true,
+          theme: isDark ? "dark" : "default",
+          securityLevel: "loose",
+          themeVariables: {
+            fontFamily: "Outfit, sans-serif",
+            primaryColor: "#6320d6"
+          }
+        });
+      }
+    });
+  </script>
+{{ end }}
