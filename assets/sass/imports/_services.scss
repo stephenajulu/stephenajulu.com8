@@ -1,0 +1,99 @@
+/* Services Editorial Bordered Grid Styles */
+
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  background-color: rgba(0, 0, 0, 0.07);
+  gap: 1px;
+  border: 1px solid rgba(0, 0, 0, 0.07);
+  border-radius: 12px;
+  overflow: hidden;
+  margin-top: 3rem;
+  box-shadow: 0 4px 25px rgba(0, 0, 0, 0.01);
+
+  .palette-dark & {
+    background-color: rgba(255, 255, 255, 0.07);
+    border-color: rgba(255, 255, 255, 0.07);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.25);
+  }
+
+  @media only screen and (max-width: 960px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media only screen and (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.services-cell {
+  background-color: #fff;
+  padding: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+
+  .palette-dark & {
+    background-color: #0b0f19;
+  }
+
+  &:hover {
+    background-color: rgba(84, 43, 255, 0.015);
+    
+    .palette-dark & {
+      background-color: rgba(124, 92, 255, 0.02);
+    }
+  }
+}
+
+.services-icon-box {
+  width: 52px;
+  height: 52px;
+  border-radius: 10px;
+  background-color: rgba(84, 43, 255, 0.06);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1.75rem;
+  color: #542bff;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+
+  .palette-dark & {
+    background-color: rgba(124, 92, 255, 0.08);
+    color: #7c5cff;
+  }
+
+  svg {
+    width: 24px;
+    height: 24px;
+    stroke-width: 1.5px;
+    stroke: currentColor;
+    fill: none;
+    transition: transform 0.3s ease;
+  }
+}
+
+.services-cell:hover {
+  .services-icon-box {
+    transform: translateY(-2px);
+    background-color: rgba(84, 43, 255, 0.12);
+    box-shadow: 0 4px 15px rgba(84, 43, 255, 0.15);
+
+    .palette-dark & {
+      background-color: rgba(124, 92, 255, 0.18);
+      box-shadow: 0 4px 15px rgba(124, 92, 255, 0.2);
+    }
+
+    svg {
+      transform: scale(1.08);
+    }
+  }
+
+  h3 {
+    color: #542bff !important;
+    .palette-dark & {
+      color: #7c5cff !important;
+    }
+  }
+}

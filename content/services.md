@@ -6,7 +6,7 @@ seo:
   title: Professional Services | Stephen Ajulu — Multidisciplinary Tech Consultant
   description: Premium consulting services spanning cloud engineering, managed sovereign infrastructure, brand identity, SME digitalization, cybersecurity auditing, and AI/SEO optimization.
 sections:
-  - type: grid_section
+  - type: services_section
     section_id: consulting-services
     title: Advisory & Engineering Services
     col_number: three
