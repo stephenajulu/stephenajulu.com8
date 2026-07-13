@@ -4,8 +4,8 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: "Design, Tech and Engineering in the Pursuit of Impact and Excellence"
-    content: "Hello, I’m Stephen Ajulu—a polymath, simultaneous multipotentialite, and multidisciplinary tech consultant based in Nairobi. I partner with visionaries and businesses to architect sovereign digital infrastructures, shape symbolic brands, and build impactful products that endure."
+    title: "Stephen Ajulu - Multidisciplinary Tech Expert, Founder, Designer, Architect and Engineer"
+    content: ""
     actions:
       - label: "Explore Services →"
         url: "/services"
