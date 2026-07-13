@@ -7,12 +7,12 @@ sections:
     title: "Stephen Ajulu — a Multidisciplinary Tech Expert, Consultant, Designer and Engineer"
     content: ""
     actions:
-      - label: "Explore Services →"
-        url: "/services"
-        style: button
-      - label: "Book a Consultation"
+      - label: "Book a call"
         url: "/contact"
-        style: link
+        style: button
+      - label: "Read the blog"
+        url: "/blog"
+        style: button
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
@@ -22,21 +22,7 @@ sections:
   - type: posts_section
     section_id: recent-posts
     title: "Recent Writings"
-    subtitle: "Cross-domain ideas, research, and technical insights on technology, design, sovereignty, Christianity, and solarpunk."
     posts_number: 3
-    actions:
-      - label: "Read the Blog Archive →"
-        url: "/blog"
-        style: button
-  - type: notes_section
-    section_id: recent-notes
-    title: "Sovereign Notes Stream"
-    subtitle: "Quick thoughts, daily reflections, links, and micro-posts from my digital home."
-    notes_number: 3
-    actions:
-      - label: "View Notes Stream →"
-        url: "/notes"
-        style: button
 seo:
   title: Stephen Ajulu — Multidisciplinary Tech Consultant
   description: >-
