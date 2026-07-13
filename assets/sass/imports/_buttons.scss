@@ -51,25 +51,34 @@
   }
 
   &--secondary {
+    background: linear-gradient(to right, $color-accent 50%, rgba(255, 255, 255, 0) 50%);
     background-color: transparent;
-    border-color: rgba($color-accent, 0.4);
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-size: 204% 100%;
+    border: 2px solid $color-accent;
     color: $color-accent;
+    -webkit-transition: background-position .3s, color .3s;
+    transition: background-position .3s, color .3s;
 
     .palette-dark & {
+      border-color: #fff;
       color: #fff;
-      border-color: rgba(255, 255, 255, 0.2);
+      background: linear-gradient(to right, #fff 50%, rgba(255, 255, 255, 0) 50%);
+      background-position: right bottom;
+      background-size: 204% 100%;
+      background-repeat: no-repeat;
     }
 
-    &:hover, &:focus, &:active {
-      background-color: rgba($color-accent, 0.05);
-      border-color: $color-accent;
-      color: $color-accent;
+    &:hover,
+    &:focus,
+    &:active {
+      color: #fff;
+      background-position: left bottom;
       opacity: 1;
 
       .palette-dark & {
-        background-color: rgba(255, 255, 255, 0.05);
-        border-color: #fff;
-        color: #fff;
+        color: $color-gray-800;
       }
     }
   }
