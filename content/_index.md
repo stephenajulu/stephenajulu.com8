@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: "Stephen Ajulu - Multidisciplinary Tech Expert, Founder, Designer, Architect and Engineer"
+    title: "Stephen Ajulu — a Multidisciplinary Tech Expert, Consultant, Designer and Engineer"
     content: ""
     actions:
       - label: "Explore Services →"
