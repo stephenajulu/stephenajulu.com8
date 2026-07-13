@@ -12,7 +12,7 @@ sections:
         style: button
       - label: "Read the blog"
         url: "/blog"
-        style: button
+        style: secondary
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
