@@ -1,0 +1,113 @@
+.cv-page {
+  font-family: 'Fraunces', serif;
+
+  .post__body {
+    max-width: 860px;
+    margin: 0 auto;
+    line-height: 1.6;
+    color: $color-gray-700;
+
+    .palette-dark & {
+      color: $color-gray-200;
+    }
+  }
+
+  // Profile block at the top
+  h2 {
+    font-size: 1.45rem;
+    font-weight: 600;
+    border-bottom: 2px solid rgba($color-accent, 0.15);
+    padding-bottom: 0.5rem;
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+    letter-spacing: -0.01em;
+    color: $color-accent;
+    position: relative;
+
+    .palette-dark & {
+      border-bottom-color: rgba(255, 255, 255, 0.1);
+    }
+    
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: -2px;
+      left: 0;
+      width: 40px;
+      height: 2px;
+      background: $color-accent;
+    }
+  }
+
+  // Info details / contact list styling
+  ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 1.5rem;
+    
+    li {
+      margin-bottom: 0.5rem;
+      position: relative;
+      padding-left: 1.25rem;
+
+      &::before {
+        content: "✦";
+        position: absolute;
+        left: 0;
+        color: $color-accent;
+      }
+    }
+  }
+
+  // Job titles, companies, certifications H3 styling
+  h3 {
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin-top: 1.75rem;
+    margin-bottom: 0.25rem;
+    color: $color-gray-800;
+
+    .palette-dark & {
+      color: #fff;
+    }
+    
+    + p {
+      font-size: 0.9rem;
+      color: $color-gray-400;
+      margin-top: 0;
+      margin-bottom: 1rem;
+      font-weight: bold;
+    }
+  }
+
+  p {
+    margin-bottom: 1.25rem;
+  }
+
+  hr {
+    border: none;
+    border-top: 1px dashed rgba($color-accent, 0.25);
+    margin: 2.5rem 0;
+
+    .palette-dark & {
+      border-top-color: rgba(255, 255, 255, 0.15);
+    }
+  }
+
+  // CSS print styling tweaks
+  @media print {
+    .post__body {
+      color: #000 !important;
+    }
+    h2 {
+      border-bottom-color: #000 !important;
+      color: #000 !important;
+      &::after {
+        background: #000 !important;
+      }
+    }
+    ul li::before {
+      color: #000 !important;
+    }
+  }
+}

@@ -31,6 +31,78 @@
     margin-bottom: 1.5em;
     margin-top: 2.5em;
   }
+
+  &__body-layout {
+    display: grid;
+    grid-template-columns: 260px 1fr;
+    gap: 3rem;
+    align-items: start;
+
+    @media only screen and (max-width: 960px) {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+  }
+
+  &__toc-aside {
+    position: sticky;
+    top: 120px;
+    max-height: calc(100vh - 160px);
+    overflow-y: auto;
+    padding-right: 1.5rem;
+    border-right: 1px solid rgba(0, 0, 0, 0.06);
+
+    .palette-dark & {
+      border-right-color: rgba(255, 255, 255, 0.06);
+    }
+
+    @media only screen and (max-width: 960px) {
+      display: none;
+    }
+  }
+
+  &__toc-sticky {
+    font-family: 'Fraunces', serif;
+    
+    .post__toc-title {
+      font-size: 0.88rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: $color-gray-400;
+      margin: 0 0 1rem;
+    }
+
+    nav ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+
+      li {
+        margin-bottom: 0.5rem;
+        font-size: 0.88rem;
+        line-height: 1.4;
+
+        a {
+          color: $color-gray-500;
+          text-decoration: none;
+          transition: color 0.2s;
+
+          .palette-dark & {
+            color: $color-gray-400;
+          }
+
+          &:hover, &.active {
+            color: $color-accent;
+          }
+        }
+
+        ul {
+          padding-left: 1rem;
+          margin-top: 0.5rem;
+        }
+      }
+    }
+  }
 }
 
 @media only screen and (min-width: 601px) {

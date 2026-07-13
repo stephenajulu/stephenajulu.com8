@@ -2,8 +2,8 @@
 
 <header class="section section--header">
   <div class="container container--lg">
-    <h1 class="section__title line-top">Tag: {{ .Title }}</h1>
-    <p class="section__subtitle">Writings and notes tagged under "{{ .Title }}".</p>
+    <h1 class="section__title line-top">{{ .Data.Singular | humanize }}: {{ .Title }}</h1>
+    <p class="section__subtitle">Writings and notes compiled under the {{ .Data.Singular }} "{{ .Title }}".</p>
   </div>
 </header>
 

@@ -1,0 +1,38 @@
+{{ $lead_magnet := "" }}
+{{ if .Params }}
+  {{ $lead_magnet = .Params.lead_magnet }}
+{{ else if .lead_magnet }}
+  {{ $lead_magnet = .lead_magnet }}
+{{ end }}
+<div class="newsletter-cta">
+  <div class="newsletter-cta__inner">
+    <div class="newsletter-cta__content">
+      <span class="newsletter-cta__badge">📰 Newsletter & Syndicate</span>
+      <h3 class="newsletter-cta__title">The Sovereign Builder Digest</h3>
+      <p class="newsletter-cta__desc">Join a growing tribe of <strong>1,432+</strong> sovereign builders, engineers, and digital minimalists. Weekly insights on Jamstack, decentralized software grids, system resilience, and organic lifestyle design.</p>
+      
+      {{ if $lead_magnet }}
+      <div class="newsletter-cta__lead-magnet">
+        <svg class="newsletter-cta__lead-icon" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+        </svg>
+        <span class="newsletter-cta__lead-text"><strong>Bonus Included:</strong> Free access to "{{ $lead_magnet }}" upon subscription.</span>
+      </div>
+      {{ end }}
+
+      <div class="newsletter-cta__review">
+        <p class="newsletter-cta__review-text">"Stephen's newsletter is a rare masterclass in digital sovereignty and modular development. One of the few emails I read immediately."</p>
+        <cite class="newsletter-cta__review-author">— Independent Web Architect</cite>
+      </div>
+    </div>
+    
+    <div class="newsletter-cta__form-box">
+      <form action="https://buttondown.email/api/emails/embed-subscribe/ajulu" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/ajulu', 'popupwindow')" class="newsletter-cta__form">
+        <input type="email" name="email" id="bd-email" placeholder="your@email.com" required class="newsletter-cta__input" />
+        <input type="hidden" value="1" name="embed" />
+        <button type="submit" class="button button--primary newsletter-cta__submit">Subscribe Sovereign</button>
+      </form>
+      <p class="newsletter-cta__syndication-note">Following IndieWeb POSSE values. Zero spam. Safe unsubscribing anytime.</p>
+    </div>
+  </div>
+</div>

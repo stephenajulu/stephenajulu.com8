@@ -1,0 +1,170 @@
+/* Custom Styles for Sovereign Static Pages */
+
+/* Now Page Styling */
+.post__body {
+  h2 {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 1.4rem;
+    color: $color-accent;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+}
+
+/* Uses Page List Upgrades */
+.uses-list, 
+.cv-page,
+.post__body {
+  ul {
+    li {
+      margin-bottom: 0.6rem;
+      
+      strong {
+        color: $color-gray-800;
+        .palette-dark & {
+          color: #fff;
+        }
+      }
+    }
+  }
+}
+
+/* Glassmorphism Callout Box (Support / Privacy / Support Pages) */
+.support-card,
+.sovereign-callout {
+  padding: 2rem;
+  background: rgba($color-accent, 0.03);
+  border: 1px solid rgba($color-accent, 0.1);
+  border-radius: 12px;
+  margin: 2rem 0;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.01);
+  
+  .palette-dark & {
+    background: rgba($color-accent, 0.06);
+    border-color: rgba($color-accent, 0.15);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+/* Reading List Styling */
+.reading-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
+  margin: 2rem 0;
+
+  &__item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background: $color-gray-50;
+    border-radius: 8px;
+    border: 1px solid rgba(0,0,0,0.03);
+    transition: transform 0.25s, box-shadow 0.25s;
+
+    .palette-dark & {
+      background: #0b0f19;
+      border-color: rgba(255,255,255,0.03);
+    }
+
+    &:hover {
+      transform: translateX(4px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.02);
+    }
+  }
+
+  &__title {
+    font-weight: bold;
+    color: $color-gray-800;
+    .palette-dark & {
+      color: #fff;
+    }
+  }
+
+  &__author {
+    color: $color-gray-400;
+    font-size: 0.88rem;
+  }
+
+  &__status {
+    font-size: 0.72rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0.25rem 0.6rem;
+    border-radius: 20px;
+    
+    &--reading {
+      background: rgba($color-accent, 0.08);
+      color: $color-accent;
+    }
+
+    &--completed {
+      background: rgba(#10b981, 0.08);
+      color: #10b981;
+    }
+  }
+}
+
+/* Things / Items Grid (Masonry style items) */
+.things-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+
+  &__card {
+    background: $color-gray-50;
+    border: 1px solid rgba(0,0,0,0.04);
+    border-radius: 10px;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: transform 0.25s, box-shadow 0.25s;
+
+    .palette-dark & {
+      background: #0b0f19;
+      border-color: rgba(255,255,255,0.04);
+    }
+
+    &:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.03);
+    }
+  }
+
+  &__title {
+    margin: 0 0 0.5rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+
+  &__desc {
+    font-size: 0.88rem;
+    color: $color-gray-400;
+    line-height: 1.45;
+    margin-bottom: 1rem;
+  }
+
+  &__link {
+    font-size: 0.8rem;
+    font-weight: bold;
+    color: $color-accent;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+  }
+}

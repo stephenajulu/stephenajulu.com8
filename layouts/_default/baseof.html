@@ -27,6 +27,22 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Outfit:wght@100..900&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | toCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10 "targetPath" "css/main.css")).Permalink }}">
+        
+        <!-- PWA Favicons and App Manifest -->
+        <link rel="manifest" href="{{ "/manifest.json" | relURL }}">
+        <link rel="apple-touch-icon" sizes="180x180" href="{{ "/apple-touch-icon.png" | relURL }}">
+        <link rel="icon" type="image/png" sizes="32x32" href="{{ "/favicon.png" | relURL }}">
+        <meta name="theme-color" content="#6320d6">
+
+        <!-- IndieWeb Identity Verification -->
+        <link rel="me" href="https://github.com/stephenajulu">
+        <link rel="me" href="https://twitter.com/stephenajulu">
+        <link rel="me" href="mailto:alunje73@gmail.com">
+
+        <!-- OpenGraph & Twitter Cards SEO Templates -->
+        {{ template "_internal/opengraph.html" . }}
+        {{ template "_internal/twitter_cards.html" . }}
+
         {{ if hugo.Data.config.favicon }}
         <link rel="icon" href="{{ hugo.Data.config.favicon | relURL }}">
         {{ end }}
@@ -53,6 +69,7 @@
           </main>
           {{ partial "footer.html" . }}
         </div>
+        {{ partial "floating_actions.html" . }}
         <script src="{{ "js/init.js" | relURL }}"></script>
         <script src="{{ "js/page-load.js" | relURL }}"></script>
     </body> 

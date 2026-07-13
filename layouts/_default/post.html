@@ -1,37 +1,52 @@
 {{ define "content" }}
 
-<article class="post">
+<article class="post h-entry">
   <header class="post__header">
     <div class="container container--md">
-      <h1 class="post__title line-top">{{ .Params.title }}</h1>
+      <h1 class="post__title line-top p-name">{{ .Params.title }}</h1>
       {{ if .Params.subtitle }}
-      <div class="post__subtitle">
+      <div class="post__subtitle p-summary">
         {{ $.Params.subtitle }}
       </div>
       {{ end }}
+      <div class="post__readtime" style="font-size: 0.9rem; color: var(--text-muted, #868f9d); margin-top: 0.75rem; font-family: 'Fraunces', serif;">
+        ⏱️ {{ .ReadingTime }} min read
+      </div>
     </div>
   </header>
   {{ if .Params.image }}
   <div class="post__image">
     <div class="container container--lg">
-      <img src="{{ $.Params.image | relURL }}" alt="{{ $.Params.image_alt }}" />
+      <img src="{{ $.Params.image | relURL }}" alt="{{ $.Params.image_alt }}" class="u-featured" />
     </div>
   </div>
   {{ end }}
   <div class="post__body text-block">
-    <div class="container container--md">
-      {{ .Content }}
+    <div class="container container--lg post__body-layout">
+      {{ if and (.TableOfContents) (ge .WordCount 500) }}
+      <aside class="post__toc-aside no-print">
+        <div class="post__toc-sticky">
+          <h4 class="post__toc-title">Table of Contents</h4>
+          {{ .TableOfContents }}
+        </div>
+      </aside>
+      {{ end }}
+      <div class="post__content-main e-content">
+        {{ .Content }}
+      </div>
     </div>
   </div>
   <footer class="post__meta">
     <div class="container container--md">
-      Posted on <time class="published" datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "January 02, 2006" }}</time>
+      Posted on <time class="published dt-published" datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "January 02, 2006" }}</time>
+      <a class="u-url" href="{{ .Permalink }}" hidden></a>
+      {{ partial "hcard.html" . }}
     </div>
     <div class="container container--md">
       {{ partial "webmention.html" . }}
     </div>
     <div class="container container--md">
-      <br>{{ partial "newsletter.html" . }}
+      <br>{{ partial "newsletter_cta.html" . }}
     </div>
   </footer>
 </article>

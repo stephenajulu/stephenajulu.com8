@@ -1,0 +1,3 @@
+{{ $lead_magnet := .Get "lead_magnet" }}
+{{ $include_dict := dict "lead_magnet" $lead_magnet "Params" $.Page.Params }}
+{{ partial "newsletter_cta.html" $include_dict }}

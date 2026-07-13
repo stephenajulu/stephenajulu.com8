@@ -7,13 +7,54 @@ seo:
   description: Books recommended and read by Stephen Ajulu.
 ---
 
-## 🏛️ Essential Reading for Men & Leaders
-*   **The Art of War** by Sun Tzu — Timeless strategy.
-*   **12 Rules for Life** by Jordan Peterson — Order and responsibility.
-*   **The 48 Laws of Power** by Robert Greene — Real-world dynamics.
-*   **Who Moved My Cheese** by Spencer Johnson — Adapting to change.
+A collection of literature, resources, and essays that shape my engineering, strategic philosophy, and lifestyle model.
 
-## 💻 Tech, Sovereignty & Systems
-*   **Type 1 Civilization** and solar-punk literature.
-*   **Decentralized Networks** — Researching cryptography, Web3, and Web5 data layers.
-*   **IndieWeb Specifications** — Protocols to build and host sovereign personal spaces.
+<div class="reading-list">
+  <div class="reading-list__item">
+    <div>
+      <span class="reading-list__title">The Art of War</span>
+      <span class="reading-list__author">by Sun Tzu</span>
+    </div>
+    <span class="reading-list__status reading-list__status--reading">Reading</span>
+  </div>
+
+  <div class="reading-list__item">
+    <div>
+      <span class="reading-list__title">12 Rules for Life</span>
+      <span class="reading-list__author">by Jordan Peterson</span>
+    </div>
+    <span class="reading-list__status reading-list__status--completed">Completed</span>
+  </div>
+
+  <div class="reading-list__item">
+    <div>
+      <span class="reading-list__title">The 48 Laws of Power</span>
+      <span class="reading-list__author">by Robert Greene</span>
+    </div>
+    <span class="reading-list__status reading-list__status--completed">Completed</span>
+  </div>
+
+  <div class="reading-list__item">
+    <div>
+      <span class="reading-list__title">Who Moved My Cheese?</span>
+      <span class="reading-list__author">by Spencer Johnson</span>
+    </div>
+    <span class="reading-list__status reading-list__status--completed">Completed</span>
+  </div>
+
+  <div class="reading-list__item">
+    <div>
+      <span class="reading-list__title">Decentralized Networks & Cryptography</span>
+      <span class="reading-list__author">by Research Papers</span>
+    </div>
+    <span class="reading-list__status reading-list__status--reading">Reading</span>
+  </div>
+
+  <div class="reading-list__item">
+    <div>
+      <span class="reading-list__title">IndieWeb Specifications & POSSE</span>
+      <span class="reading-list__author">by W3C Community</span>
+    </div>
+    <span class="reading-list__status reading-list__status--completed">Completed</span>
+  </div>
+</div>
